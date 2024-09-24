@@ -1,0 +1,216 @@
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+ .group         0x0000000000000000        0x8 build/src/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+onChipRam        0x0000000080000000 0x0000000000001000 w !xr
+sdram            0x0000000040000000 0x0000000004000000 w !xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/src/main.o
+LOAD build/src/crt.o
+LOAD /opt/riscv/bin/../lib/gcc/riscv64-unknown-elf/7.2.0/rv32i/ilp32/libgcc.a
+                0x0000000000000800                _stack_size = 0x800
+                0x0000000000000000                _heap_size = 0x0
+
+.vector         0x0000000080000000      0x150
+ *crt.o(.text)
+ .text          0x0000000080000000      0x150 build/src/crt.o
+                0x0000000080000000                crtStart
+                0x0000000080000020                trap_entry
+                0x000000008000013c                flushDataCache
+
+.memory         0x0000000040000000      0x404
+ *(.text)
+ .text          0x0000000040000000      0x404 build/src/main.o
+                0x0000000040000238                main
+                0x00000000400003e8                irqCallback
+                0x0000000040000404                end = .
+
+.rodata         0x0000000040000404       0x60
+ *(.rdata)
+ *(.rodata .rodata.*)
+ .rodata        0x0000000040000404       0x60 build/src/main.o
+ *(.gnu.linkonce.r.*)
+
+.rela.dyn       0x0000000040000464        0x0
+ .rela.text     0x0000000040000464        0x0 build/src/main.o
+
+.ctors          0x0000000040000464        0x0
+                0x0000000040000464                . = ALIGN (0x4)
+                0x0000000040000464                _ctors_start = .
+ *(.init_array*)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0000000040000464                . = ALIGN (0x4)
+                0x0000000040000464                _ctors_end = .
+
+.data           0x0000000040000464        0x4
+ *(.rdata)
+ *(.rodata .rodata.*)
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data          0x0000000040000464        0x0 build/src/main.o
+ .data          0x0000000040000464        0x0 build/src/crt.o
+ *(.gnu.linkonce.d.*)
+                0x0000000040000468                . = ALIGN (0x8)
+ *fill*         0x0000000040000464        0x4 
+                0x0000000040000c68                PROVIDE (__global_pointer$, (. + 0x800))
+ *(.sdata .sdata.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000040000468                . = ALIGN (0x8)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+
+.bss            0x0000000040000468        0x0
+                0x0000000040000468                . = ALIGN (0x4)
+                0x0000000040000468                _bss_start = .
+ *(.sbss*)
+ *(.gnu.linkonce.sb.*)
+ *(.bss .bss.*)
+ .bss           0x0000000040000468        0x0 build/src/main.o
+ .bss           0x0000000040000468        0x0 build/src/crt.o
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x0000000040000468                . = ALIGN (0x4)
+                0x0000000040000468                _bss_end = .
+
+.noinit         0x0000000040000480    0x96000
+                0x0000000040000480                . = ALIGN (0x4)
+ *(.noinit .noinit.*)
+ .noinit        0x0000000040000480    0x96000 build/src/main.o
+                0x0000000040000480                vgaFramebuffer
+                0x0000000040096480                . = ALIGN (0x4)
+
+._user_heap     0x0000000040096480        0x0
+                0x0000000040096480                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end, .)
+                [!provide]                        PROVIDE (_end, .)
+                [!provide]                        PROVIDE (_heap_start, .)
+                0x0000000040096480                . = (. + _heap_size)
+                0x0000000040096480                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (_heap_end, .)
+
+._stack         0x0000000080000150      0x800
+                0x0000000080000150                . = ALIGN (0x10)
+                [!provide]                        PROVIDE (_stack_end, .)
+                0x0000000080000950                . = (. + _stack_size)
+ *fill*         0x0000000080000150      0x800 
+                0x0000000080000950                . = ALIGN (0x10)
+                0x0000000080000950                PROVIDE (_stack_start, .)
+OUTPUT(build/vga.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000      0xde4
+ .debug_info    0x0000000000000000      0xdbe build/src/main.o
+ .debug_info    0x0000000000000dbe       0x26 build/src/crt.o
+
+.debug_abbrev   0x0000000000000000      0x2ae
+ .debug_abbrev  0x0000000000000000      0x29a build/src/main.o
+ .debug_abbrev  0x000000000000029a       0x14 build/src/crt.o
+
+.debug_aranges  0x0000000000000000       0x40
+ .debug_aranges
+                0x0000000000000000       0x20 build/src/main.o
+ .debug_aranges
+                0x0000000000000020       0x20 build/src/crt.o
+
+.debug_macro    0x0000000000000000     0x1ae3
+ .debug_macro   0x0000000000000000      0x26c build/src/main.o
+ .debug_macro   0x000000000000026c      0x736 build/src/main.o
+ .debug_macro   0x00000000000009a2       0x22 build/src/main.o
+ .debug_macro   0x00000000000009c4       0x46 build/src/main.o
+ .debug_macro   0x0000000000000a0a       0x8d build/src/main.o
+ .debug_macro   0x0000000000000a97       0x34 build/src/main.o
+ .debug_macro   0x0000000000000acb       0x9c build/src/main.o
+ .debug_macro   0x0000000000000b67       0x16 build/src/main.o
+ .debug_macro   0x0000000000000b7d       0x57 build/src/main.o
+ .debug_macro   0x0000000000000bd4       0x97 build/src/main.o
+ .debug_macro   0x0000000000000c6b      0x30d build/src/main.o
+ .debug_macro   0x0000000000000f78       0xfd build/src/main.o
+ .debug_macro   0x0000000000001075       0x10 build/src/main.o
+ .debug_macro   0x0000000000001085       0x52 build/src/main.o
+ .debug_macro   0x00000000000010d7       0x1f build/src/main.o
+ .debug_macro   0x00000000000010f6       0x43 build/src/main.o
+ .debug_macro   0x0000000000001139       0x20 build/src/main.o
+ .debug_macro   0x0000000000001159      0x187 build/src/main.o
+ .debug_macro   0x00000000000012e0       0x10 build/src/main.o
+ .debug_macro   0x00000000000012f0       0x6a build/src/main.o
+ .debug_macro   0x000000000000135a       0x1c build/src/main.o
+ .debug_macro   0x0000000000001376       0x52 build/src/main.o
+ .debug_macro   0x00000000000013c8       0x40 build/src/main.o
+ .debug_macro   0x0000000000001408       0x10 build/src/main.o
+ .debug_macro   0x0000000000001418       0x40 build/src/main.o
+ .debug_macro   0x0000000000001458       0xd7 build/src/main.o
+ .debug_macro   0x000000000000152f       0x1c build/src/main.o
+ .debug_macro   0x000000000000154b       0x3d build/src/main.o
+ .debug_macro   0x0000000000001588       0x16 build/src/main.o
+ .debug_macro   0x000000000000159e      0x18b build/src/main.o
+ .debug_macro   0x0000000000001729       0x16 build/src/main.o
+ .debug_macro   0x000000000000173f       0x35 build/src/main.o
+ .debug_macro   0x0000000000001774       0xef build/src/main.o
+ .debug_macro   0x0000000000001863      0x1df build/src/main.o
+ .debug_macro   0x0000000000001a42       0x16 build/src/main.o
+ .debug_macro   0x0000000000001a58       0x16 build/src/main.o
+ .debug_macro   0x0000000000001a6e       0x29 build/src/main.o
+ .debug_macro   0x0000000000001a97       0x4c build/src/main.o
+
+.debug_line     0x0000000000000000      0x6e9
+ .debug_line    0x0000000000000000      0x4dc build/src/main.o
+ .debug_line    0x00000000000004dc      0x20d build/src/crt.o
+
+.debug_str      0x0000000000000000     0x76f7
+ .debug_str     0x0000000000000000     0x76cb build/src/main.o
+                                       0x7923 (size before relaxing)
+ .debug_str     0x00000000000076cb       0x2c build/src/crt.o
+                                         0x7d (size before relaxing)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 build/src/main.o
+                                         0x12 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x194
+ .debug_frame   0x0000000000000000      0x194 build/src/main.o
