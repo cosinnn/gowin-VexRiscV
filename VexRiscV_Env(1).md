@@ -200,7 +200,7 @@ cd src/test/cpp/briey/
 make clean run
 //运行OpenOCD，并连接到Verilator仿真
 src/openocd -f tcl/interface/jtag_tcp.cfg -c "set BRIEY_CPU0_YAML /home/z/FPGA/VexRiscv/cpu0.yaml" -f /usr/local/openocd_riscv/tcl/target/briey.cfg
-//运行GDB,并将程序下载到Verilator仿真CPU中
+//运行GDB,并将程序下载到Verilator仿真CPU中 
 /opt/Riscv-toolchain/bin/riscv64-unknown-elf-gdb VexRiscvSocSoftware/projects/briey/vga/build/vga.elf
 target extended-remote localhost:3333
 monitor reset halt

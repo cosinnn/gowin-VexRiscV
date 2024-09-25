@@ -235,8 +235,8 @@ public:
 
 	virtual void preCycle(){
 #ifdef TRACE_INSTRUCTION
-		if(cpu->writeBack_arbitration_isFiring){
-			instructionTraces <<  hex << setw(8) <<  cpu->writeBack_INSTRUCTION << endl;
+		if(cpu->lastStageIsValid){
+			instructionTraces <<  hex << setw(8) <<  cpu->lastStageInstruction << endl;
 		}
 #endif
 #ifdef TRACE_REG
