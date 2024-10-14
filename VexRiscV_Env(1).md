@@ -196,6 +196,7 @@ cd build //能看见生成的vag.elf
 sudo apt-get install libsdl2-dev
 cd VexRiscv/
 sbt "runMain vexriscv.demo.Briey"
+sbt "runMain vexriscv.demo.BrieyWithMemoryInit"
 cd src/test/cpp/briey/
 make clean run
 //运行OpenOCD，并连接到Verilator仿真
