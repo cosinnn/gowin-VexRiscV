@@ -722,3 +722,6 @@ WARNING: Unmatched cancel notification for request id 226
 Oct 13, 2024 9:34:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2024.10.13 21:42:43 INFO  no build target found for /home/cosin/Desktop/gowin-VexRiscV/VexRiscv-master/src/main/scala/vexriscv/demo/Briey.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 21:42:16 INFO  Shutting down server[0m
+2024.10.14 21:42:16 INFO  shutting down Metals[0m
+2024.10.14 21:42:17 INFO  Exiting server[0m
