@@ -38,7 +38,7 @@ object BrieyConfig{
   def default = {
     val config = BrieyConfig(
       axiFrequency = 50 MHz,
-      onChipRamSize  = 4 kB,
+      onChipRamSize  = 40 kB,
       sdramLayout = IS42x320D.layout,
       sdramTimings = IS42x320D.timingGrade7,
       uartCtrlConfig = UartCtrlMemoryMappedConfig(

@@ -385,27 +385,27 @@ public:
         top->io_uart_rxd = 1;
 
 
-		// SdramConfig *sdramConfig = new SdramConfig(
-		// 	2,  //byteCount
-		// 	4,  //bankCount
-		// 	1 << 13, //rowSize
-		// 	1 << 10  //colSize
-		// );
-		// SdramIo *sdramIo = new SdramIo();
-		// sdramIo->BA              = &top->io_sdram_BA             ;
-		// sdramIo->DQM             = &top->io_sdram_DQM            ;
-		// sdramIo->CASn            = &top->io_sdram_CASn           ;
-		// sdramIo->CKE             = &top->io_sdram_CKE            ;
-		// sdramIo->CSn             = &top->io_sdram_CSn            ;
-		// sdramIo->RASn            = &top->io_sdram_RASn           ;
-		// sdramIo->WEn             = &top->io_sdram_WEn            ;
-		// sdramIo->ADDR            = &top->io_sdram_ADDR           ;
-		// sdramIo->DQ_read         = (CData*)&top->io_sdram_DQ_read        ;
-		// sdramIo->DQ_write        = (CData*)&top->io_sdram_DQ_write       ;
-		// sdramIo->DQ_writeEnable = (CData*)&top->io_sdram_DQ_writeEnable;
-		// Sdram *sdram = new Sdram(sdramConfig, sdramIo);
+		SdramConfig *sdramConfig = new SdramConfig(
+			2,  //byteCount
+			4,  //bankCount
+			1 << 13, //rowSize
+			1 << 10  //colSize
+		);
+		SdramIo *sdramIo = new SdramIo();
+		sdramIo->BA              = &top->io_sdram_BA             ;
+		sdramIo->DQM             = &top->io_sdram_DQM            ;
+		sdramIo->CASn            = &top->io_sdram_CASn           ;
+		sdramIo->CKE             = &top->io_sdram_CKE            ;
+		sdramIo->CSn             = &top->io_sdram_CSn            ;
+		sdramIo->RASn            = &top->io_sdram_RASn           ;
+		sdramIo->WEn             = &top->io_sdram_WEn            ;
+		sdramIo->ADDR            = &top->io_sdram_ADDR           ;
+		sdramIo->DQ_read         = (CData*)&top->io_sdram_DQ_read        ;
+		sdramIo->DQ_write        = (CData*)&top->io_sdram_DQ_write       ;
+		sdramIo->DQ_writeEnable = (CData*)&top->io_sdram_DQ_writeEnable;
+		Sdram *sdram = new Sdram(sdramConfig, sdramIo);
 
-		// axiClk->add(sdram);
+		axiClk->add(sdram);
 		#ifdef TRACE
 		//speedFactor = 100e-6;
 		//cout << "Simulation caped to " << timeToSec << " of real time"<< endl;
