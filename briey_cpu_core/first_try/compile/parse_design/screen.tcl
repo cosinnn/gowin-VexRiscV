@@ -1,0 +1,1 @@
+.rtl_screen -top_module {Briey} -include_path {<H:/PANGO_EDA/my_project/first_try>} -design_files {<H:/PANGO_EDA/my_project/Briey.v|work>}

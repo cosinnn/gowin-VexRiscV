@@ -1,0 +1,219 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Detailed RTL Component Info :
+-----Module Name :
+                    Briey
+
+-----Multipliers :
+                    16 x 16     Multipliers := 1
+                    17 x 17     Multipliers := 3
+
+-----Adders :
+
+APM: Final Mapping Report
+|---------------------|-------------------------------|--------------|--------------|---------|---------|---------|---------|---------|---------|--------------|--------------|--------------|--------------|--------------|
+| APM Inst Name       | APM Cascade                   | X Size       | Y Size       | Z Size  | P Size  | X_REG   | Y_REG   | Z_REG   | P_REG   | MULT_REG     | PREADD_REG   | USE_PREADD   | USE_POSTADD  | Primitives   |
+|---------------------|-------------------------------|--------------|--------------|---------|---------|---------|---------|---------|---------|--------------|--------------|--------------|--------------|--------------|
+| axi_core_cpu/N496   | /                             | 17(unsigned) | 16(unsigned) | /       | 33      | 0       | 0       | /       | 0       | 1            | 0            | 0            | 0            | GTP_APM_E1   |
+|---------------------|-------------------------------|--------------|--------------|---------|---------|---------|---------|---------|---------|--------------|--------------|--------------|--------------|--------------|
+| axi_core_cpu/N499   | /                             | 16(unsigned) | 16(unsigned) | /       | 32      | 0       | 0       | /       | 0       | 1            | 0            | 0            | 0            | GTP_APM_E1   |
+|---------------------|-------------------------------|--------------|--------------|---------|---------|---------|---------|---------|---------|--------------|--------------|--------------|--------------|--------------|
+| axi_core_cpu/N493   | /                             | 17(unsigned) | 16(unsigned) | /       | 33      | 0       | 0       | /       | 0       | 1            | 0            | 0            | 0            | GTP_APM_E1   |
+|---------------------|-------------------------------|--------------|--------------|---------|---------|---------|---------|---------|---------|--------------|--------------|--------------|--------------|--------------|
+| axi_core_cpu/N490   | /                             | 17(unsigned) | 17(unsigned) | /       | 32      | 0       | 0       | /       | 1       | 1            | 0            | 0            | 1            | GTP_APM_E1   |
+|---------------------|-------------------------------|--------------|--------------|---------|---------|---------|---------|---------|---------|--------------|--------------|--------------|--------------|--------------|
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Detailed RTL Component Info :
+-----Module Name :
+                    Briey
+
+-----RAMs :
+            128 Bit    (16 x 8 bit)          RAMs := 2
+            768 Bit    (32 x 24 bit)          RAMs := 2
+            1K Bit    (32 x 32 bit)          RAMs := 2
+            2K Bit    (256 x 8 bit)          RAMs := 4
+            8K Bit    (256 x 32 bit)          RAMs := 1
+            512K Bit    (65536 x 8 bit)          RAMs := 4
+
+Distributed RAM and Block RAM: Final Mapping Report
+|-----------------------------------------------------------------------------|------------------------|-------------------|---------|
+| DPRAM Inst Name                                                             | Size (Depth x Width)   | Primitives        | Count   |
+|-----------------------------------------------------------------------------|------------------------|-------------------|---------|
+| axi_uartCtrl/axi_uartCtrl_uartCtrl_1_io_read_queueWithOccupancy/logic_ram   | 16 x 8                 |                   |         |
+|                                                                             | 16 x 1                 | GTP_RAM16X1DP     | 8       |
+|-----------------------------------------------------------------------------|------------------------|-------------------|---------|
+| axi_uartCtrl/bridge_write_streamUnbuffered_queueWithOccupancy/logic_ram     | 16 x 8                 |                   |         |
+|                                                                             | 16 x 1                 | GTP_RAM16X1DP     | 8       |
+|-----------------------------------------------------------------------------|------------------------|-------------------|---------|
+
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| Inst Name                                         | Size (Depth x Width)   | Write_Mode_A      | Write_Mode_B      | Ram_Mode          | Primitives        |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_ram/ram_symbol3                               | 64 K x 8               |                   |                   |                   |                   |
+|         ram_symbol3_3_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_0_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_1_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_2_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol3_3_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_ram/ram_symbol2                               | 64 K x 8               |                   |                   |                   |                   |
+|         ram_symbol2_0_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_0_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_1_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_2_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol2_3_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_ram/ram_symbol1                               | 64 K x 8               |                   |                   |                   |                   |
+|         ram_symbol1_0_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_1_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_2_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_3_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol1_0_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_ram/ram_symbol0                               | 64 K x 8               |                   |                   |                   |                   |
+|         ram_symbol0_0_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_0                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_3                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_1_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_2                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_1                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_4                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_5                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_6                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_3_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_2_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|         ram_symbol0_0_7                           | 16 K x 1               | READ_BEFORE_WRITE | /                 | SINGLE_PORT       | GTP_DRM18K        |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/dataCache_1/ways_0_data_symbol1      | 256 x 8                |                   |                   |                   |                   |
+|                          ways_0_data_symbol1      | 256 x 8                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/dataCache_1/ways_0_data_symbol0      | 256 x 8                |                   |                   |                   |                   |
+|                          ways_0_data_symbol0      | 256 x 8                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/dataCache_1/ways_0_tags              | 32 x 24                |                   |                   |                   |                   |
+|                          ways_0_tags              | 32 x 24                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/dataCache_1/ways_0_data_symbol3      | 256 x 8                |                   |                   |                   |                   |
+|                          ways_0_data_symbol3      | 256 x 8                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/dataCache_1/ways_0_data_symbol2      | 256 x 8                |                   |                   |                   |                   |
+|                          ways_0_data_symbol2      | 256 x 8                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/IBusCachedPlugin_cache/ways_0_tags   | 32 x 24                |                   |                   |                   |                   |
+|                                     ways_0_tags   | 32 x 24                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/IBusCachedPlugin_cache/banks_0       | 256 x 32               |                   |                   |                   |                   |
+|                                     banks_0       | 256 x 32               | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/RegFilePlugin_regFile                | 32 x 32                |                   |                   |                   |                   |
+|              RegFilePlugin_regFile                | 32 x 32                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+| axi_core_cpu/RegFilePlugin_regFile_1              | 32 x 32                |                   |                   |                   |                   |
+|              RegFilePlugin_regFile_1              | 32 x 32                | NORMAL_WRITE      | NORMAL_WRITE      | SIMPLE_DUAL_PORT  | GTP_DRM9K         |
+|---------------------------------------------------|------------------------|-------------------|-------------------|-------------------|-------------------|
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

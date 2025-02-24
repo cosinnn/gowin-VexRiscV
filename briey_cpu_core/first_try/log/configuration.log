@@ -1,0 +1,1877 @@
+[Info] [2025-2-21 18:28:52] /***************************Start Configuration***************************/
+[Info] [2025-2-21 18:28:52] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-21 18:28:52] Version: 99559
+[Info] [2025-2-21 18:28:53] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-21 18:28:53] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-21 18:31:37] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-21 18:31:37] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-21 18:31:37] Client Local Address:192.168.0.4
+[Debug] [2025-2-21 18:31:37] Client Local Address:192.168.0.2
+[Debug] [2025-2-21 18:31:37] Client Local Address:192.168.32.1
+[Debug] [2025-2-21 18:31:37] Client Local Address:192.168.160.1
+[Debug] [2025-2-21 18:31:37] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-21 18:31:38] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-21 18:31:38] Finish.
+[Info] [2025-2-21 18:31:38] Connect server succeeded
+[Debug] [2025-2-21 18:31:38] Send RPC:1
+[Debug] [2025-2-21 18:31:38] Send cmd [check version information:40005] OK
+[Debug] [2025-2-21 18:31:53] Send RPC:2
+[Debug] [2025-2-21 18:31:53] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-21 18:31:53] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:31:53] Send RPC:3
+[Debug] [2025-2-21 18:31:53] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:31:53] End to send initialize chain cmd.
+[Debug] [2025-2-21 18:31:53] COMMAND[check version information] execute successfully, takes 15.2 secs.
+[Debug] [2025-2-21 18:31:54] COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Error] [2025-2-21 18:31:54] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:31:56] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:31:56] Send RPC:4
+[Debug] [2025-2-21 18:31:56] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:31:56] End to send initialize chain cmd.
+[Error] [2025-2-21 18:31:56] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:31:57] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:31:57] Send RPC:5
+[Debug] [2025-2-21 18:31:57] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:31:57] End to send initialize chain cmd.
+[Error] [2025-2-21 18:31:57] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:31:59] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:31:59] Send RPC:6
+[Debug] [2025-2-21 18:31:59] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:31:59] End to send initialize chain cmd.
+[Error] [2025-2-21 18:31:59] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:00] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:00] Send RPC:7
+[Debug] [2025-2-21 18:32:00] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:00] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:00] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:00] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:00] Send RPC:8
+[Debug] [2025-2-21 18:32:00] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:00] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:00] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:13] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:13] Send RPC:9
+[Debug] [2025-2-21 18:32:13] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:13] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:13] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:13] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:13] Send RPC:10
+[Debug] [2025-2-21 18:32:13] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:13] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:13] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:13] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:13] Send RPC:11
+[Debug] [2025-2-21 18:32:13] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:13] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:13] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:16] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:16] Send RPC:12
+[Debug] [2025-2-21 18:32:16] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:16] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:16] fail to exec Open config cable cmd...
+[Debug] [2025-2-21 18:32:16] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:16] Send RPC:13
+[Debug] [2025-2-21 18:32:16] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:16] End to send initialize chain cmd.
+[Error] [2025-2-21 18:32:16] fail to exec Open config cable cmd...
+[Info] [2025-2-21 18:32:17] /***************************End Configration***************************/
+[Info] [2025-2-21 18:32:19] /***************************Start Configuration***************************/
+[Info] [2025-2-21 18:32:19] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-21 18:32:19] Version: 99559
+[Info] [2025-2-21 18:32:20] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-21 18:32:20] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-21 18:32:22] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-21 18:32:22] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-21 18:32:22] Client Local Address:192.168.0.4
+[Debug] [2025-2-21 18:32:22] Client Local Address:192.168.0.2
+[Debug] [2025-2-21 18:32:22] Client Local Address:192.168.32.1
+[Debug] [2025-2-21 18:32:22] Client Local Address:192.168.160.1
+[Debug] [2025-2-21 18:32:22] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-21 18:32:23] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-21 18:32:23] Finish.
+[Info] [2025-2-21 18:32:23] Connect server succeeded
+[Debug] [2025-2-21 18:32:23] Send RPC:1
+[Debug] [2025-2-21 18:32:23] Send cmd [check version information:40005] OK
+[Debug] [2025-2-21 18:32:23] Send RPC:2
+[Debug] [2025-2-21 18:32:23] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-21 18:32:23] Begin to send initialize chain cmd...
+[Debug] [2025-2-21 18:32:23] Send RPC:3
+[Debug] [2025-2-21 18:32:23] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-21 18:32:23] End to send initialize chain cmd.
+[Debug] [2025-2-21 18:32:23] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-21 18:32:24] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-21 18:32:24] begin the exec of open cable cmd...
+[Debug] [2025-2-21 18:32:24] Begin to deal with chain from server...
+[Debug] [2025-2-21 18:32:24] Begin to set user chain...
+[Debug] [2025-2-21 18:32:24] End to set user chain.
+[Debug] [2025-2-21 18:32:24] Begin to update graphic item and tree item ...
+[Debug] [2025-2-21 18:32:24] End to update graphic item and tree item ...
+[Info] [2025-2-21 18:32:30] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/led.sbit
+[Debug] [2025-2-21 18:32:30] begin to get device info from CFG file...
+[Debug] [2025-2-21 18:32:30] end to get device info from CFG file...
+[Debug] [2025-2-21 18:32:30] Begin to update graphic item and tree item ...
+[Debug] [2025-2-21 18:32:30] End to update graphic item and tree item ...
+[Debug] [2025-2-21 18:32:30] End to deal wiht chain from server.
+[Debug] [2025-2-21 18:32:30] end the exec of open cable cmd.
+[Debug] [2025-2-21 18:32:30] COMMAND[Open config cable] execute successfully, takes 6.8 secs.
+[Debug] [2025-2-21 18:34:17] Begin to send programming cmd...
+[Debug] [2025-2-21 18:34:17] Send RPC:4
+[Debug] [2025-2-21 18:34:17] Begin to send program data.
+[Debug] [2025-2-21 18:34:17] End to send program data.
+[Debug] [2025-2-21 18:34:17] Send cmd [Program:20002] OK
+[Debug] [2025-2-21 18:34:17] The value of Progress is 6
+[Debug] [2025-2-21 18:34:17] The value of Progress is 10
+[Debug] [2025-2-21 18:34:17] The value of Progress is 15
+[Debug] [2025-2-21 18:34:18] The value of Progress is 20
+[Debug] [2025-2-21 18:34:18] The value of Progress is 25
+[Debug] [2025-2-21 18:34:18] The value of Progress is 30
+[Debug] [2025-2-21 18:34:18] The value of Progress is 35
+[Debug] [2025-2-21 18:34:18] The value of Progress is 40
+[Debug] [2025-2-21 18:34:18] The value of Progress is 45
+[Debug] [2025-2-21 18:34:18] The value of Progress is 50
+[Debug] [2025-2-21 18:34:18] The value of Progress is 55
+[Debug] [2025-2-21 18:34:18] The value of Progress is 60
+[Debug] [2025-2-21 18:34:18] The value of Progress is 65
+[Debug] [2025-2-21 18:34:18] The value of Progress is 70
+[Debug] [2025-2-21 18:34:18] The value of Progress is 75
+[Debug] [2025-2-21 18:34:19] The value of Progress is 80
+[Debug] [2025-2-21 18:34:19] The value of Progress is 85
+[Debug] [2025-2-21 18:34:19] The value of Progress is 90
+[Debug] [2025-2-21 18:34:19] The value of Progress is 95
+[Debug] [2025-2-21 18:34:19] The value of Progress is 100
+[Debug] [2025-2-21 18:34:19] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-21 18:34:19] End to send programming cmd.
+[Info] [2025-2-21 18:34:52] /***************************End Configration***************************/
+[Info] [2025-2-23 17:02:34] /***************************Start Configuration***************************/
+[Info] [2025-2-23 17:02:34] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-23 17:02:34] Version: 99559
+[Info] [2025-2-23 17:02:35] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-23 17:02:35] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-23 17:02:39] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-23 17:02:39] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-23 17:02:39] Client Local Address:10.151.2.90
+[Debug] [2025-2-23 17:02:39] Client Local Address:192.168.32.1
+[Debug] [2025-2-23 17:02:39] Client Local Address:192.168.160.1
+[Debug] [2025-2-23 17:02:39] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-23 17:02:40] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-23 17:02:40] Finish.
+[Info] [2025-2-23 17:02:40] Connect server succeeded
+[Debug] [2025-2-23 17:02:40] Send RPC:1
+[Debug] [2025-2-23 17:02:40] Send cmd [check version information:40005] OK
+[Debug] [2025-2-23 17:02:40] Send RPC:2
+[Debug] [2025-2-23 17:02:40] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-23 17:02:40] Begin to send initialize chain cmd...
+[Debug] [2025-2-23 17:02:40] Send RPC:3
+[Debug] [2025-2-23 17:02:40] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-23 17:02:40] End to send initialize chain cmd.
+[Debug] [2025-2-23 17:02:40] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-2-23 17:02:41] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-23 17:02:42] begin the exec of open cable cmd...
+[Debug] [2025-2-23 17:02:42] Begin to deal with chain from server...
+[Debug] [2025-2-23 17:02:42] Begin to set user chain...
+[Debug] [2025-2-23 17:02:42] End to set user chain.
+[Debug] [2025-2-23 17:02:42] Begin to update graphic item and tree item ...
+[Debug] [2025-2-23 17:02:42] End to update graphic item and tree item ...
+[Info] [2025-2-23 17:02:43] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-23 17:02:43] begin to get device info from CFG file...
+[Debug] [2025-2-23 17:02:43] end to get device info from CFG file...
+[Debug] [2025-2-23 17:02:43] Begin to update graphic item and tree item ...
+[Debug] [2025-2-23 17:02:43] End to update graphic item and tree item ...
+[Debug] [2025-2-23 17:02:43] End to deal wiht chain from server.
+[Debug] [2025-2-23 17:02:43] end the exec of open cable cmd.
+[Debug] [2025-2-23 17:02:43] COMMAND[Open config cable] execute successfully, takes 3.2 secs.
+[Debug] [2025-2-23 17:02:50] Begin to send programming cmd...
+[Debug] [2025-2-23 17:02:50] Send RPC:4
+[Debug] [2025-2-23 17:02:50] Begin to send program data.
+[Debug] [2025-2-23 17:02:50] End to send program data.
+[Debug] [2025-2-23 17:02:50] Send cmd [Program:20002] OK
+[Debug] [2025-2-23 17:02:50] The value of Progress is 6
+[Debug] [2025-2-23 17:02:50] The value of Progress is 10
+[Debug] [2025-2-23 17:02:50] The value of Progress is 15
+[Debug] [2025-2-23 17:02:50] The value of Progress is 20
+[Debug] [2025-2-23 17:02:50] The value of Progress is 25
+[Debug] [2025-2-23 17:02:50] The value of Progress is 30
+[Debug] [2025-2-23 17:02:50] The value of Progress is 35
+[Debug] [2025-2-23 17:02:50] The value of Progress is 40
+[Debug] [2025-2-23 17:02:51] The value of Progress is 45
+[Debug] [2025-2-23 17:02:51] The value of Progress is 50
+[Debug] [2025-2-23 17:02:51] The value of Progress is 55
+[Debug] [2025-2-23 17:02:51] The value of Progress is 60
+[Debug] [2025-2-23 17:02:51] The value of Progress is 65
+[Debug] [2025-2-23 17:02:51] The value of Progress is 70
+[Debug] [2025-2-23 17:02:51] The value of Progress is 75
+[Debug] [2025-2-23 17:02:51] The value of Progress is 80
+[Debug] [2025-2-23 17:02:51] The value of Progress is 85
+[Debug] [2025-2-23 17:02:51] The value of Progress is 90
+[Debug] [2025-2-23 17:02:51] The value of Progress is 95
+[Debug] [2025-2-23 17:02:52] The value of Progress is 100
+[Debug] [2025-2-23 17:02:52] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-23 17:02:52] End to send programming cmd.
+[Info] [2025-2-23 17:03:06] /***************************End Configration***************************/
+[Info] [2025-2-24 20:13:48] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:13:48] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:13:48] Version: 99559
+[Info] [2025-2-24 20:13:49] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:13:49] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:13:55] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:13:55] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:13:55] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:13:55] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:13:55] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:13:55] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:13:55] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:13:56] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:13:56] Finish.
+[Info] [2025-2-24 20:13:56] Connect server succeeded
+[Debug] [2025-2-24 20:13:56] Send RPC:1
+[Debug] [2025-2-24 20:13:56] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:13:56] Send RPC:2
+[Debug] [2025-2-24 20:13:56] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:13:56] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:13:56] Send RPC:3
+[Debug] [2025-2-24 20:13:56] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:13:56] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:13:56] COMMAND[check version information] execute successfully, takes 0.6 secs.
+[Debug] [2025-2-24 20:13:57] COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Info] [2025-2-24 20:14:06] /***************************End Configration***************************/
+[Info] [2025-2-24 20:14:08] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:14:08] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:14:08] Version: 99559
+[Info] [2025-2-24 20:14:09] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:14:09] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:14:11] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:14:11] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:14:11] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:14:11] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:14:11] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:14:11] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:14:11] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:14:11] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:14:11] Finish.
+[Info] [2025-2-24 20:14:11] Connect server succeeded
+[Debug] [2025-2-24 20:14:11] Send RPC:1
+[Debug] [2025-2-24 20:14:11] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:14:11] Send RPC:2
+[Debug] [2025-2-24 20:14:11] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:14:11] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:14:11] Send RPC:3
+[Debug] [2025-2-24 20:14:11] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:14:11] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:14:11] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-2-24 20:14:12] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-2-24 20:14:19] begin to add pango device by bitstream file.
+[Info] [2025-2-24 20:14:21] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 20:14:21] begin to get device info from CFG file...
+[Debug] [2025-2-24 20:14:21] end to get device info from CFG file...
+[Info] [2025-2-24 20:14:21] Loading file done : H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Info] [2025-2-24 20:14:21] Added device successfully : Logos-PGL50H
+[Debug] [2025-2-24 20:14:21] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 20:14:21] End to update graphic item and tree item ...
+[Debug] [2025-2-24 20:14:21] end to add pango device by bitstream file.
+[Error] [2025-2-24 20:14:25] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 20:14:29] Begin to send programming cmd...
+[Debug] [2025-2-24 20:14:29] Send RPC:4
+[Debug] [2025-2-24 20:14:29] Begin to send program data.
+[Debug] [2025-2-24 20:14:29] End to send program data.
+[Debug] [2025-2-24 20:14:29] Send cmd [Program:20002] OK
+[Error] [2025-2-24 20:14:41] fail to exec Program cmd...
+[Debug] [2025-2-24 20:14:41] End to send programming cmd.
+[Info] [2025-2-24 20:14:50] /***************************End Configration***************************/
+[Info] [2025-2-24 20:14:51] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:14:51] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:14:51] Version: 99559
+[Info] [2025-2-24 20:14:52] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:14:52] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:14:54] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:14:54] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:14:54] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:14:54] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:14:54] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:14:54] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:14:54] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:14:55] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:14:55] Finish.
+[Info] [2025-2-24 20:14:55] Connect server succeeded
+[Debug] [2025-2-24 20:14:55] Send RPC:1
+[Debug] [2025-2-24 20:14:55] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:14:55] Send RPC:2
+[Debug] [2025-2-24 20:14:55] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:14:55] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:14:55] Send RPC:3
+[Debug] [2025-2-24 20:14:55] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:14:55] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:14:55] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-2-24 20:14:56] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Info] [2025-2-24 20:15:02] /***************************End Configration***************************/
+[Info] [2025-2-24 20:15:15] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:15:15] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:15:15] Version: 99559
+[Info] [2025-2-24 20:15:16] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:15:16] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:15:18] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:15:18] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:15:18] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:15:18] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:15:18] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:15:18] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:15:18] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:15:18] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:15:18] Finish.
+[Info] [2025-2-24 20:15:18] Connect server succeeded
+[Debug] [2025-2-24 20:15:18] Send RPC:1
+[Debug] [2025-2-24 20:15:18] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:15:19] Send RPC:2
+[Debug] [2025-2-24 20:15:19] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:15:19] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:15:19] Send RPC:3
+[Debug] [2025-2-24 20:15:19] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:15:19] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:15:19] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-2-24 20:15:20] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Error] [2025-2-24 20:15:32] fail to exec Open config cable cmd...
+[Info] [2025-2-24 20:15:34] /***************************End Configration***************************/
+[Info] [2025-2-24 20:15:36] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:15:36] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:15:36] Version: 99559
+[Info] [2025-2-24 20:15:37] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:15:37] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:15:48] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:15:48] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:15:48] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:15:48] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:15:48] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:15:48] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:15:48] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:15:49] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:15:49] Finish.
+[Info] [2025-2-24 20:15:49] Connect server succeeded
+[Debug] [2025-2-24 20:15:49] Send RPC:1
+[Debug] [2025-2-24 20:15:49] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:15:49] Send RPC:2
+[Debug] [2025-2-24 20:15:49] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:15:49] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:15:49] Send RPC:3
+[Debug] [2025-2-24 20:15:49] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:15:49] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:15:49] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-2-24 20:15:50] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-2-24 20:15:58] begin to add pango device by bitstream file.
+[Info] [2025-2-24 20:16:02] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 20:16:02] begin to get device info from CFG file...
+[Debug] [2025-2-24 20:16:02] end to get device info from CFG file...
+[Info] [2025-2-24 20:16:02] Loading file done : H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Info] [2025-2-24 20:16:02] Added device successfully : Logos-PGL50H
+[Debug] [2025-2-24 20:16:02] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 20:16:02] End to update graphic item and tree item ...
+[Debug] [2025-2-24 20:16:02] end to add pango device by bitstream file.
+[Error] [2025-2-24 20:16:02] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 20:16:05] Begin to send programming cmd...
+[Debug] [2025-2-24 20:16:05] Send RPC:4
+[Debug] [2025-2-24 20:16:05] Begin to send program data.
+[Debug] [2025-2-24 20:16:05] End to send program data.
+[Debug] [2025-2-24 20:16:05] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 20:16:09] End to send programming cmd.
+[Error] [2025-2-24 20:16:17] fail to exec Program cmd...
+[Info] [2025-2-24 20:16:19] /***************************End Configration***************************/
+[Info] [2025-2-24 20:16:40] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:16:40] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:16:40] Version: 99559
+[Info] [2025-2-24 20:16:41] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:16:41] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:16:43] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:16:44] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:16:44] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:16:44] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:16:44] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:16:44] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:16:44] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:16:44] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:16:44] Finish.
+[Info] [2025-2-24 20:16:44] Connect server succeeded
+[Debug] [2025-2-24 20:16:44] Send RPC:1
+[Debug] [2025-2-24 20:16:44] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:16:44] Send RPC:2
+[Debug] [2025-2-24 20:16:44] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:16:44] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:16:44] Send RPC:3
+[Debug] [2025-2-24 20:16:44] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:16:44] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:16:44] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-2-24 20:16:45] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Error] [2025-2-24 20:16:57] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 20:17:14] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:17:14] Send RPC:4
+[Debug] [2025-2-24 20:17:14] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:17:14] End to send initialize chain cmd.
+[Error] [2025-2-24 20:17:14] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 20:17:17] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:17:17] Send RPC:5
+[Debug] [2025-2-24 20:17:17] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:17:17] End to send initialize chain cmd.
+[Error] [2025-2-24 20:17:17] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 20:17:17] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:17:17] Send RPC:6
+[Debug] [2025-2-24 20:17:17] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:17:17] End to send initialize chain cmd.
+[Error] [2025-2-24 20:17:18] fail to exec Open config cable cmd...
+[Info] [2025-2-24 20:17:19] /***************************End Configration***************************/
+[Info] [2025-2-24 20:17:20] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:17:20] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:17:20] Version: 99559
+[Info] [2025-2-24 20:17:21] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:17:21] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:17:23] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:17:23] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:17:23] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:17:23] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:17:23] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:17:23] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:17:23] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:17:23] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:17:23] Finish.
+[Info] [2025-2-24 20:17:23] Connect server succeeded
+[Debug] [2025-2-24 20:17:23] Send RPC:1
+[Debug] [2025-2-24 20:17:23] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:17:44] Begin to send initialize chain cmd...
+[Error] [2025-2-24 20:17:44] fail to exec  cmd...
+[Debug] [2025-2-24 20:17:44] End to send initialize chain cmd.
+[Info] [2025-2-24 20:17:46] /***************************End Configration***************************/
+[Info] [2025-2-24 20:17:54] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:17:54] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:17:54] Version: 99559
+[Info] [2025-2-24 20:17:55] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:17:55] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:18:04] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:18:04] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:18:04] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:18:04] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:18:04] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:18:04] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:18:04] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:18:04] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:18:04] Finish.
+[Info] [2025-2-24 20:18:04] Connect server succeeded
+[Debug] [2025-2-24 20:18:04] Send RPC:1
+[Debug] [2025-2-24 20:18:04] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:18:04] Send RPC:2
+[Debug] [2025-2-24 20:18:04] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:18:04] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:18:04] Send RPC:3
+[Debug] [2025-2-24 20:18:04] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:18:04] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:18:04] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2025-2-24 20:18:05] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Error] [2025-2-24 20:18:05] fail to exec Open config cable cmd...
+[Info] [2025-2-24 20:18:09] /***************************End Configration***************************/
+[Info] [2025-2-24 20:18:26] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:18:26] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:18:26] Version: 99559
+[Info] [2025-2-24 20:18:27] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:18:27] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:18:30] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 20:18:30] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 20:18:30] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 20:18:30] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 20:18:30] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 20:18:30] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 20:18:30] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 20:18:30] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 20:18:30] Finish.
+[Info] [2025-2-24 20:18:30] Connect server succeeded
+[Debug] [2025-2-24 20:18:30] Send RPC:1
+[Debug] [2025-2-24 20:18:30] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 20:18:30] Send RPC:2
+[Debug] [2025-2-24 20:18:30] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 20:18:30] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 20:18:30] Send RPC:3
+[Debug] [2025-2-24 20:18:30] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 20:18:30] End to send initialize chain cmd.
+[Debug] [2025-2-24 20:18:30] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 20:18:31] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 20:18:32] begin the exec of open cable cmd...
+[Debug] [2025-2-24 20:18:32] Begin to deal with chain from server...
+[Debug] [2025-2-24 20:18:32] Begin to set user chain...
+[Debug] [2025-2-24 20:18:32] End to set user chain.
+[Debug] [2025-2-24 20:18:32] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 20:18:32] End to update graphic item and tree item ...
+[Info] [2025-2-24 20:18:33] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 20:18:33] begin to get device info from CFG file...
+[Debug] [2025-2-24 20:18:33] end to get device info from CFG file...
+[Debug] [2025-2-24 20:18:33] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 20:18:33] End to update graphic item and tree item ...
+[Debug] [2025-2-24 20:18:33] End to deal wiht chain from server.
+[Debug] [2025-2-24 20:18:33] end the exec of open cable cmd.
+[Debug] [2025-2-24 20:18:33] COMMAND[Open config cable] execute successfully, takes 2.7 secs.
+[Debug] [2025-2-24 20:18:37] Begin to send programming cmd...
+[Debug] [2025-2-24 20:18:37] Send RPC:4
+[Debug] [2025-2-24 20:18:37] Begin to send program data.
+[Debug] [2025-2-24 20:18:37] End to send program data.
+[Debug] [2025-2-24 20:18:37] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 20:18:37] The value of Progress is 6
+[Debug] [2025-2-24 20:18:37] The value of Progress is 10
+[Debug] [2025-2-24 20:18:37] The value of Progress is 15
+[Debug] [2025-2-24 20:18:37] The value of Progress is 20
+[Debug] [2025-2-24 20:18:37] The value of Progress is 25
+[Debug] [2025-2-24 20:18:37] The value of Progress is 30
+[Debug] [2025-2-24 20:18:37] The value of Progress is 35
+[Debug] [2025-2-24 20:18:37] The value of Progress is 40
+[Debug] [2025-2-24 20:18:37] The value of Progress is 45
+[Debug] [2025-2-24 20:18:38] The value of Progress is 50
+[Debug] [2025-2-24 20:18:38] The value of Progress is 55
+[Debug] [2025-2-24 20:18:38] The value of Progress is 60
+[Debug] [2025-2-24 20:18:38] The value of Progress is 65
+[Debug] [2025-2-24 20:18:38] The value of Progress is 70
+[Debug] [2025-2-24 20:18:38] The value of Progress is 75
+[Debug] [2025-2-24 20:18:38] The value of Progress is 80
+[Debug] [2025-2-24 20:18:38] The value of Progress is 85
+[Debug] [2025-2-24 20:18:38] The value of Progress is 90
+[Debug] [2025-2-24 20:18:38] The value of Progress is 95
+[Debug] [2025-2-24 20:18:38] The value of Progress is 100
+[Debug] [2025-2-24 20:18:38] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 20:18:38] End to send programming cmd.
+[Info] [2025-2-24 20:18:41] /***************************End Configration***************************/
+[Info] [2025-2-24 20:25:33] /***************************Start Configuration***************************/
+[Info] [2025-2-24 20:25:33] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:25:33] Version: 99559
+[Info] [2025-2-24 20:25:34] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 20:25:34] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:30:12] /***************************End Configration***************************/
+[Info] [2025-2-24 21:30:23] /***************************Start Configuration***************************/
+[Info] [2025-2-24 21:30:23] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:30:23] Version: 99559
+[Info] [2025-2-24 21:30:24] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:30:24] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:30:26] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 21:30:26] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 21:30:26] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 21:30:26] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 21:30:26] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 21:30:26] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 21:30:26] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 21:30:27] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 21:30:27] Finish.
+[Info] [2025-2-24 21:30:27] Connect server succeeded
+[Debug] [2025-2-24 21:30:27] Send RPC:1
+[Debug] [2025-2-24 21:30:27] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 21:30:47] Send RPC:2
+[Debug] [2025-2-24 21:30:47] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 21:30:47] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:30:47] Send RPC:3
+[Debug] [2025-2-24 21:30:47] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:30:47] End to send initialize chain cmd.
+[Debug] [2025-2-24 21:30:47] COMMAND[check version information] execute successfully, takes 20.2 secs.
+[Debug] [2025-2-24 21:30:48] COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Error] [2025-2-24 21:30:48] fail to exec Open config cable cmd...
+[Info] [2025-2-24 21:30:53] /***************************End Configration***************************/
+[Info] [2025-2-24 21:30:55] /***************************Start Configuration***************************/
+[Info] [2025-2-24 21:30:55] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:30:55] Version: 99559
+[Info] [2025-2-24 21:30:56] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:30:56] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:30:59] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 21:30:59] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 21:30:59] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 21:30:59] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 21:30:59] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 21:30:59] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 21:30:59] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 21:30:59] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 21:30:59] Finish.
+[Info] [2025-2-24 21:30:59] Connect server succeeded
+[Debug] [2025-2-24 21:30:59] Send RPC:1
+[Debug] [2025-2-24 21:30:59] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 21:30:59] Send RPC:2
+[Debug] [2025-2-24 21:30:59] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 21:30:59] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:30:59] Send RPC:3
+[Debug] [2025-2-24 21:30:59] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:30:59] End to send initialize chain cmd.
+[Debug] [2025-2-24 21:30:59] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 21:31:00] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-2-24 21:31:01] begin the exec of open cable cmd...
+[Debug] [2025-2-24 21:31:01] Begin to deal with chain from server...
+[Debug] [2025-2-24 21:31:01] Begin to set user chain...
+[Debug] [2025-2-24 21:31:01] End to set user chain.
+[Debug] [2025-2-24 21:31:01] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:31:01] End to update graphic item and tree item ...
+[Info] [2025-2-24 21:31:03] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 21:31:03] begin to get device info from CFG file...
+[Debug] [2025-2-24 21:31:03] end to get device info from CFG file...
+[Debug] [2025-2-24 21:31:03] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:31:03] End to update graphic item and tree item ...
+[Debug] [2025-2-24 21:31:03] End to deal wiht chain from server.
+[Debug] [2025-2-24 21:31:03] end the exec of open cable cmd.
+[Debug] [2025-2-24 21:31:03] COMMAND[Open config cable] execute successfully, takes 3.3 secs.
+[Debug] [2025-2-24 21:31:06] Begin to send programming cmd...
+[Debug] [2025-2-24 21:31:06] Send RPC:4
+[Debug] [2025-2-24 21:31:06] Begin to send program data.
+[Debug] [2025-2-24 21:31:06] End to send program data.
+[Debug] [2025-2-24 21:31:06] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 21:31:06] The value of Progress is 6
+[Debug] [2025-2-24 21:31:06] The value of Progress is 10
+[Debug] [2025-2-24 21:31:06] The value of Progress is 15
+[Debug] [2025-2-24 21:31:07] The value of Progress is 20
+[Debug] [2025-2-24 21:31:07] The value of Progress is 25
+[Debug] [2025-2-24 21:31:07] The value of Progress is 30
+[Debug] [2025-2-24 21:31:07] The value of Progress is 35
+[Debug] [2025-2-24 21:31:07] The value of Progress is 40
+[Debug] [2025-2-24 21:31:07] The value of Progress is 45
+[Debug] [2025-2-24 21:31:07] The value of Progress is 50
+[Debug] [2025-2-24 21:31:07] The value of Progress is 55
+[Debug] [2025-2-24 21:31:07] The value of Progress is 60
+[Debug] [2025-2-24 21:31:07] The value of Progress is 65
+[Debug] [2025-2-24 21:31:07] The value of Progress is 70
+[Debug] [2025-2-24 21:31:07] The value of Progress is 75
+[Debug] [2025-2-24 21:31:08] The value of Progress is 80
+[Debug] [2025-2-24 21:31:08] The value of Progress is 85
+[Debug] [2025-2-24 21:31:08] The value of Progress is 90
+[Debug] [2025-2-24 21:31:08] The value of Progress is 95
+[Debug] [2025-2-24 21:31:08] The value of Progress is 100
+[Debug] [2025-2-24 21:31:08] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 21:31:08] End to send programming cmd.
+[Debug] [2025-2-24 21:38:37] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:38:37] Send RPC:5
+[Debug] [2025-2-24 21:38:37] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:38:37] End to send initialize chain cmd.
+[Error] [2025-2-24 21:38:37] fail to exec Open config cable cmd...
+[Info] [2025-2-24 21:38:38] /***************************End Configration***************************/
+[Info] [2025-2-24 21:38:40] /***************************Start Configuration***************************/
+[Info] [2025-2-24 21:38:40] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:38:40] Version: 99559
+[Info] [2025-2-24 21:38:41] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:38:41] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:38:44] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 21:38:44] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 21:38:44] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 21:38:44] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 21:38:44] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 21:38:44] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 21:38:44] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 21:38:45] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 21:38:45] Finish.
+[Info] [2025-2-24 21:38:45] Connect server succeeded
+[Debug] [2025-2-24 21:38:45] Send RPC:1
+[Debug] [2025-2-24 21:38:45] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 21:38:45] Send RPC:2
+[Debug] [2025-2-24 21:38:45] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 21:38:45] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:38:45] Send RPC:3
+[Debug] [2025-2-24 21:38:45] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:38:45] End to send initialize chain cmd.
+[Debug] [2025-2-24 21:38:45] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 21:38:46] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 21:38:46] begin the exec of open cable cmd...
+[Debug] [2025-2-24 21:38:46] Begin to deal with chain from server...
+[Debug] [2025-2-24 21:38:46] Begin to set user chain...
+[Debug] [2025-2-24 21:38:46] End to set user chain.
+[Debug] [2025-2-24 21:38:46] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:38:46] End to update graphic item and tree item ...
+[Info] [2025-2-24 21:38:47] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 21:38:47] begin to get device info from CFG file...
+[Debug] [2025-2-24 21:38:47] end to get device info from CFG file...
+[Debug] [2025-2-24 21:38:47] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:38:47] End to update graphic item and tree item ...
+[Debug] [2025-2-24 21:38:47] End to deal wiht chain from server.
+[Debug] [2025-2-24 21:38:47] end the exec of open cable cmd.
+[Debug] [2025-2-24 21:38:47] COMMAND[Open config cable] execute successfully, takes 2.7 secs.
+[Debug] [2025-2-24 21:38:49] Begin to send programming cmd...
+[Debug] [2025-2-24 21:38:49] Send RPC:4
+[Debug] [2025-2-24 21:38:49] Begin to send program data.
+[Debug] [2025-2-24 21:38:49] End to send program data.
+[Debug] [2025-2-24 21:38:49] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 21:38:49] The value of Progress is 6
+[Debug] [2025-2-24 21:38:49] The value of Progress is 10
+[Debug] [2025-2-24 21:38:49] The value of Progress is 15
+[Debug] [2025-2-24 21:38:49] The value of Progress is 20
+[Debug] [2025-2-24 21:38:49] The value of Progress is 25
+[Debug] [2025-2-24 21:38:50] The value of Progress is 30
+[Debug] [2025-2-24 21:38:50] The value of Progress is 35
+[Debug] [2025-2-24 21:38:50] The value of Progress is 40
+[Debug] [2025-2-24 21:38:50] The value of Progress is 45
+[Debug] [2025-2-24 21:38:50] The value of Progress is 50
+[Debug] [2025-2-24 21:38:50] The value of Progress is 55
+[Debug] [2025-2-24 21:38:50] The value of Progress is 60
+[Debug] [2025-2-24 21:38:50] The value of Progress is 65
+[Debug] [2025-2-24 21:38:50] The value of Progress is 70
+[Debug] [2025-2-24 21:38:50] The value of Progress is 75
+[Debug] [2025-2-24 21:38:50] The value of Progress is 80
+[Debug] [2025-2-24 21:38:50] The value of Progress is 85
+[Debug] [2025-2-24 21:38:51] The value of Progress is 90
+[Debug] [2025-2-24 21:38:51] The value of Progress is 95
+[Debug] [2025-2-24 21:38:51] The value of Progress is 100
+[Debug] [2025-2-24 21:38:51] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2025-2-24 21:38:51] End to send programming cmd.
+[Info] [2025-2-24 21:38:53] /***************************End Configration***************************/
+[Info] [2025-2-24 21:40:48] /***************************Start Configuration***************************/
+[Info] [2025-2-24 21:40:48] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:40:48] Version: 99559
+[Info] [2025-2-24 21:40:49] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:40:49] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:40:54] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 21:40:54] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 21:40:54] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 21:40:54] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 21:40:54] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 21:40:54] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 21:40:54] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 21:40:54] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 21:40:54] Finish.
+[Info] [2025-2-24 21:40:54] Connect server succeeded
+[Debug] [2025-2-24 21:40:54] Send RPC:1
+[Debug] [2025-2-24 21:40:54] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 21:40:55] Send RPC:2
+[Debug] [2025-2-24 21:40:55] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 21:40:55] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:40:55] Send RPC:3
+[Debug] [2025-2-24 21:40:55] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:40:55] End to send initialize chain cmd.
+[Debug] [2025-2-24 21:40:55] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-2-24 21:40:56] COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Error] [2025-2-24 21:40:56] fail to exec Open config cable cmd...
+[Info] [2025-2-24 21:41:00] /***************************End Configration***************************/
+[Info] [2025-2-24 21:41:01] /***************************Start Configuration***************************/
+[Info] [2025-2-24 21:41:01] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:41:01] Version: 99559
+[Info] [2025-2-24 21:41:02] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:41:02] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:41:04] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 21:41:04] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 21:41:04] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 21:41:04] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 21:41:04] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 21:41:04] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 21:41:04] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 21:41:04] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 21:41:04] Finish.
+[Info] [2025-2-24 21:41:04] Connect server succeeded
+[Debug] [2025-2-24 21:41:04] Send RPC:1
+[Debug] [2025-2-24 21:41:04] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 21:41:05] Send RPC:2
+[Debug] [2025-2-24 21:41:05] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 21:41:05] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:41:05] Send RPC:3
+[Debug] [2025-2-24 21:41:05] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:41:05] End to send initialize chain cmd.
+[Debug] [2025-2-24 21:41:05] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 21:41:06] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 21:41:06] begin the exec of open cable cmd...
+[Debug] [2025-2-24 21:41:06] Begin to deal with chain from server...
+[Debug] [2025-2-24 21:41:06] Begin to set user chain...
+[Debug] [2025-2-24 21:41:06] End to set user chain.
+[Debug] [2025-2-24 21:41:06] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:41:06] End to update graphic item and tree item ...
+[Info] [2025-2-24 21:41:08] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 21:41:08] begin to get device info from CFG file...
+[Debug] [2025-2-24 21:41:08] end to get device info from CFG file...
+[Debug] [2025-2-24 21:41:08] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:41:08] End to update graphic item and tree item ...
+[Debug] [2025-2-24 21:41:08] End to deal wiht chain from server.
+[Debug] [2025-2-24 21:41:08] end the exec of open cable cmd.
+[Debug] [2025-2-24 21:41:08] COMMAND[Open config cable] execute successfully, takes 2.9 secs.
+[Debug] [2025-2-24 21:41:11] Begin to send programming cmd...
+[Debug] [2025-2-24 21:41:11] Send RPC:4
+[Debug] [2025-2-24 21:41:11] Begin to send program data.
+[Debug] [2025-2-24 21:41:11] End to send program data.
+[Debug] [2025-2-24 21:41:11] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 21:41:11] The value of Progress is 6
+[Debug] [2025-2-24 21:41:11] The value of Progress is 10
+[Debug] [2025-2-24 21:41:12] The value of Progress is 15
+[Debug] [2025-2-24 21:41:12] The value of Progress is 20
+[Debug] [2025-2-24 21:41:12] The value of Progress is 25
+[Debug] [2025-2-24 21:41:12] The value of Progress is 30
+[Debug] [2025-2-24 21:41:12] The value of Progress is 35
+[Debug] [2025-2-24 21:41:12] The value of Progress is 40
+[Debug] [2025-2-24 21:41:12] The value of Progress is 45
+[Debug] [2025-2-24 21:41:12] The value of Progress is 50
+[Debug] [2025-2-24 21:41:12] The value of Progress is 55
+[Debug] [2025-2-24 21:41:12] The value of Progress is 60
+[Debug] [2025-2-24 21:41:12] The value of Progress is 65
+[Debug] [2025-2-24 21:41:12] The value of Progress is 70
+[Debug] [2025-2-24 21:41:13] The value of Progress is 75
+[Debug] [2025-2-24 21:41:13] The value of Progress is 80
+[Debug] [2025-2-24 21:41:13] The value of Progress is 85
+[Debug] [2025-2-24 21:41:13] The value of Progress is 90
+[Debug] [2025-2-24 21:41:13] The value of Progress is 95
+[Debug] [2025-2-24 21:41:13] The value of Progress is 100
+[Debug] [2025-2-24 21:41:13] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 21:41:13] End to send programming cmd.
+[Info] [2025-2-24 21:41:15] /***************************End Configration***************************/
+[Info] [2025-2-24 21:42:34] /***************************Start Configuration***************************/
+[Info] [2025-2-24 21:42:34] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:42:34] Version: 99559
+[Info] [2025-2-24 21:42:35] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:42:35] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 21:42:40] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 21:42:40] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 21:42:40] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 21:42:40] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 21:42:40] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 21:42:40] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 21:42:40] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 21:42:41] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 21:42:41] Finish.
+[Info] [2025-2-24 21:42:41] Connect server succeeded
+[Debug] [2025-2-24 21:42:41] Send RPC:1
+[Debug] [2025-2-24 21:42:41] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 21:42:41] Send RPC:2
+[Debug] [2025-2-24 21:42:41] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 21:42:41] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 21:42:41] Send RPC:3
+[Debug] [2025-2-24 21:42:41] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 21:42:41] End to send initialize chain cmd.
+[Debug] [2025-2-24 21:42:41] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2025-2-24 21:42:42] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 21:42:42] begin the exec of open cable cmd...
+[Debug] [2025-2-24 21:42:42] Begin to deal with chain from server...
+[Debug] [2025-2-24 21:42:42] Begin to set user chain...
+[Debug] [2025-2-24 21:42:42] End to set user chain.
+[Debug] [2025-2-24 21:42:42] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:42:42] End to update graphic item and tree item ...
+[Info] [2025-2-24 21:42:44] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 21:42:44] begin to get device info from CFG file...
+[Debug] [2025-2-24 21:42:44] end to get device info from CFG file...
+[Debug] [2025-2-24 21:42:44] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 21:42:44] End to update graphic item and tree item ...
+[Debug] [2025-2-24 21:42:44] End to deal wiht chain from server.
+[Debug] [2025-2-24 21:42:44] end the exec of open cable cmd.
+[Debug] [2025-2-24 21:42:44] COMMAND[Open config cable] execute successfully, takes 2.9 secs.
+[Debug] [2025-2-24 21:42:45] Begin to send programming cmd...
+[Debug] [2025-2-24 21:42:45] Send RPC:4
+[Debug] [2025-2-24 21:42:45] Begin to send program data.
+[Debug] [2025-2-24 21:42:45] End to send program data.
+[Debug] [2025-2-24 21:42:45] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 21:42:45] The value of Progress is 6
+[Debug] [2025-2-24 21:42:46] The value of Progress is 10
+[Debug] [2025-2-24 21:42:46] The value of Progress is 15
+[Debug] [2025-2-24 21:42:46] The value of Progress is 20
+[Debug] [2025-2-24 21:42:46] The value of Progress is 25
+[Debug] [2025-2-24 21:42:46] The value of Progress is 30
+[Debug] [2025-2-24 21:42:46] The value of Progress is 35
+[Debug] [2025-2-24 21:42:46] The value of Progress is 40
+[Debug] [2025-2-24 21:42:46] The value of Progress is 45
+[Debug] [2025-2-24 21:42:46] The value of Progress is 50
+[Debug] [2025-2-24 21:42:46] The value of Progress is 55
+[Debug] [2025-2-24 21:42:46] The value of Progress is 60
+[Debug] [2025-2-24 21:42:47] The value of Progress is 65
+[Debug] [2025-2-24 21:42:47] The value of Progress is 70
+[Debug] [2025-2-24 21:42:47] The value of Progress is 75
+[Debug] [2025-2-24 21:42:47] The value of Progress is 80
+[Debug] [2025-2-24 21:42:47] The value of Progress is 85
+[Debug] [2025-2-24 21:42:47] The value of Progress is 90
+[Debug] [2025-2-24 21:42:47] The value of Progress is 95
+[Debug] [2025-2-24 21:42:47] The value of Progress is 100
+[Debug] [2025-2-24 21:42:47] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 21:42:47] End to send programming cmd.
+[Info] [2025-2-24 21:57:31] /***************************End Configration***************************/
+[Info] [2025-2-24 22:29:24] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:29:24] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:29:24] Version: 99559
+[Info] [2025-2-24 22:29:25] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:29:25] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:29:29] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:29:29] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:29:29] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:29:29] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:29:29] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:29:29] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:29:29] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:29:30] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:29:30] Finish.
+[Info] [2025-2-24 22:29:30] Connect server succeeded
+[Debug] [2025-2-24 22:29:30] Send RPC:1
+[Debug] [2025-2-24 22:29:30] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:30:07] Send RPC:2
+[Debug] [2025-2-24 22:30:07] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:30:07] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:30:07] Send RPC:3
+[Debug] [2025-2-24 22:30:07] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:30:07] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:30:07] COMMAND[check version information] execute successfully, takes 37.1 secs.
+[Debug] [2025-2-24 22:30:32] COMMAND[get_cable_paras] execute successfully, takes 25.5 secs.
+[Debug] [2025-2-24 22:30:45] begin the exec of open cable cmd...
+[Debug] [2025-2-24 22:30:45] Begin to deal with chain from server...
+[Debug] [2025-2-24 22:30:45] Begin to set user chain...
+[Debug] [2025-2-24 22:30:45] End to set user chain.
+[Debug] [2025-2-24 22:30:45] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:30:45] End to update graphic item and tree item ...
+[Debug] [2025-2-24 22:30:45] End to deal wiht chain from server.
+[Debug] [2025-2-24 22:30:45] end the exec of open cable cmd.
+[Debug] [2025-2-24 22:30:45] COMMAND[Open config cable] execute successfully, takes 38.3 secs.
+[Info] [2025-2-24 22:31:53] /***************************End Configration***************************/
+[Info] [2025-2-24 22:31:55] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:31:55] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:31:55] Version: 99559
+[Info] [2025-2-24 22:31:56] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:31:56] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:31:58] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:31:58] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:31:58] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:31:58] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:31:58] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:31:58] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:31:58] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:31:58] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:31:58] Finish.
+[Info] [2025-2-24 22:31:58] Connect server succeeded
+[Debug] [2025-2-24 22:31:58] Send RPC:1
+[Debug] [2025-2-24 22:31:58] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:32:07] Begin to send initialize chain cmd...
+[Error] [2025-2-24 22:32:07] fail to exec  cmd...
+[Debug] [2025-2-24 22:32:07] End to send initialize chain cmd.
+[Info] [2025-2-24 22:32:10] /***************************End Configration***************************/
+[Info] [2025-2-24 22:32:25] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:32:25] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:32:25] Version: 99559
+[Info] [2025-2-24 22:32:26] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:32:26] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:32:27] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:32:27] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:32:27] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:32:27] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:32:27] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:32:27] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:32:27] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:32:28] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:32:28] Finish.
+[Info] [2025-2-24 22:32:28] Connect server succeeded
+[Debug] [2025-2-24 22:32:28] Send RPC:1
+[Debug] [2025-2-24 22:32:28] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:32:51] Begin to send initialize chain cmd...
+[Error] [2025-2-24 22:32:51] fail to exec  cmd...
+[Debug] [2025-2-24 22:32:51] End to send initialize chain cmd.
+[Info] [2025-2-24 22:32:52] /***************************End Configration***************************/
+[Info] [2025-2-24 22:32:54] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:32:54] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:32:54] Version: 99559
+[Info] [2025-2-24 22:32:55] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:32:55] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:32:56] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:32:56] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:32:56] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:32:56] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:32:56] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:32:56] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:32:56] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:32:56] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:32:56] Finish.
+[Info] [2025-2-24 22:32:56] Connect server succeeded
+[Debug] [2025-2-24 22:32:56] Send RPC:1
+[Debug] [2025-2-24 22:32:56] Send cmd [check version information:40005] OK
+[Error] [2025-2-24 22:33:01] Server close connect
+[Info] [2025-2-24 22:33:01] Disconnect from Server: 127.0.0.1  Port: 65420
+[Warn] [2025-2-24 22:33:01] Server is disconnected
+[Debug] [2025-2-24 22:33:01] end to connect server
+[Debug] [2025-2-24 22:33:01] Server close connect process finish
+[Debug] [2025-2-24 22:33:01] Begin to delete graphic item and tree item ...
+[Debug] [2025-2-24 22:33:01] Begin to remove all device in BS mode...
+[Debug] [2025-2-24 22:33:01] begin remove user device...
+[Debug] [2025-2-24 22:33:01] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:33:01] End to update graphic item and tree item ...
+[Debug] [2025-2-24 22:33:01] end remove user device.
+[Debug] [2025-2-24 22:33:01] End to remove devices in BS mode...
+[Debug] [2025-2-24 22:33:01] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:33:01] End to update graphic item and tree item ...
+[Debug] [2025-2-24 22:33:01] End to delete graphic item and tree item ...
+[Info] [2025-2-24 22:33:04] /***************************End Configration***************************/
+[Info] [2025-2-24 22:33:06] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:33:06] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:33:06] Version: 99559
+[Info] [2025-2-24 22:33:07] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:33:07] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:33:08] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:33:08] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:33:08] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:33:08] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:33:08] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:33:08] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:33:08] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:33:08] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:33:08] Finish.
+[Info] [2025-2-24 22:33:08] Connect server succeeded
+[Debug] [2025-2-24 22:33:08] Send RPC:1
+[Debug] [2025-2-24 22:33:08] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:33:39] Begin to send initialize chain cmd...
+[Error] [2025-2-24 22:33:39] fail to exec  cmd...
+[Debug] [2025-2-24 22:33:39] End to send initialize chain cmd.
+[Info] [2025-2-24 22:33:40] /***************************End Configration***************************/
+[Info] [2025-2-24 22:33:41] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:33:41] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:33:41] Version: 99559
+[Info] [2025-2-24 22:33:42] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:33:42] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:33:44] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:33:44] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:33:44] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:33:44] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:33:44] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:33:44] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:33:44] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:33:45] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:33:45] Finish.
+[Info] [2025-2-24 22:33:45] Connect server succeeded
+[Debug] [2025-2-24 22:33:45] Send RPC:1
+[Debug] [2025-2-24 22:33:45] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:33:50] Begin to send initialize chain cmd...
+[Error] [2025-2-24 22:33:50] fail to exec  cmd...
+[Debug] [2025-2-24 22:33:50] End to send initialize chain cmd.
+[Info] [2025-2-24 22:33:51] /***************************End Configration***************************/
+[Info] [2025-2-24 22:33:56] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:33:56] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:33:56] Version: 99559
+[Info] [2025-2-24 22:33:57] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:33:57] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:34:03] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:34:03] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:34:03] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:34:03] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:34:03] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:34:03] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:34:03] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:34:03] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:34:03] Finish.
+[Info] [2025-2-24 22:34:03] Connect server succeeded
+[Debug] [2025-2-24 22:34:03] Send RPC:1
+[Debug] [2025-2-24 22:34:03] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:34:14] Send RPC:2
+[Debug] [2025-2-24 22:34:14] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:34:14] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:14] Send RPC:3
+[Debug] [2025-2-24 22:34:14] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:14] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:34:14] COMMAND[check version information] execute successfully, takes 10.6 secs.
+[Debug] [2025-2-24 22:34:15] COMMAND[get_cable_paras] execute successfully, takes 1.3 secs.
+[Error] [2025-2-24 22:34:15] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:34:16] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:16] Send RPC:4
+[Debug] [2025-2-24 22:34:16] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:16] End to send initialize chain cmd.
+[Error] [2025-2-24 22:34:16] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:34:17] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:17] Send RPC:5
+[Debug] [2025-2-24 22:34:17] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:17] End to send initialize chain cmd.
+[Error] [2025-2-24 22:34:17] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:34:18] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:18] Send RPC:6
+[Debug] [2025-2-24 22:34:18] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:18] End to send initialize chain cmd.
+[Error] [2025-2-24 22:34:18] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:34:18] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:18] Send RPC:7
+[Debug] [2025-2-24 22:34:18] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:18] End to send initialize chain cmd.
+[Error] [2025-2-24 22:34:18] fail to exec Open config cable cmd...
+[Info] [2025-2-24 22:34:19] /***************************End Configration***************************/
+[Info] [2025-2-24 22:34:21] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:34:21] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:34:21] Version: 99559
+[Info] [2025-2-24 22:34:22] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:34:22] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:34:24] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:34:24] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:34:24] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:34:24] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:34:24] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:34:24] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:34:24] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:34:25] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:34:25] Finish.
+[Info] [2025-2-24 22:34:25] Connect server succeeded
+[Debug] [2025-2-24 22:34:25] Send RPC:1
+[Debug] [2025-2-24 22:34:25] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:34:25] Send RPC:2
+[Debug] [2025-2-24 22:34:25] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:34:25] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:25] Send RPC:3
+[Debug] [2025-2-24 22:34:25] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:25] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:34:25] COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2025-2-24 22:34:26] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Error] [2025-2-24 22:34:26] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:34:30] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:34:30] Send RPC:4
+[Debug] [2025-2-24 22:34:30] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:34:30] End to send initialize chain cmd.
+[Error] [2025-2-24 22:34:30] fail to exec Open config cable cmd...
+[Info] [2025-2-24 22:34:32] /***************************End Configration***************************/
+[Info] [2025-2-24 22:40:41] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:40:41] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:40:41] Version: 99559
+[Info] [2025-2-24 22:40:42] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:40:42] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:40:44] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:40:44] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:40:44] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:40:44] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:40:44] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:40:44] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:40:44] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:40:44] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:40:44] Finish.
+[Info] [2025-2-24 22:40:44] Connect server succeeded
+[Debug] [2025-2-24 22:40:44] Send RPC:1
+[Debug] [2025-2-24 22:40:44] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:40:53] Begin to send initialize chain cmd...
+[Error] [2025-2-24 22:40:53] fail to exec  cmd...
+[Debug] [2025-2-24 22:40:53] End to send initialize chain cmd.
+[Info] [2025-2-24 22:40:54] /***************************End Configration***************************/
+[Info] [2025-2-24 22:41:02] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:41:02] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:41:02] Version: 99559
+[Info] [2025-2-24 22:41:03] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:41:03] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:41:05] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:41:05] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:41:05] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:41:05] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:41:05] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:41:05] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:41:05] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:41:06] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:41:06] Finish.
+[Info] [2025-2-24 22:41:06] Connect server succeeded
+[Debug] [2025-2-24 22:41:06] Send RPC:1
+[Debug] [2025-2-24 22:41:06] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:41:06] Send RPC:2
+[Debug] [2025-2-24 22:41:06] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:41:06] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:41:06] Send RPC:3
+[Debug] [2025-2-24 22:41:06] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:41:06] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:41:06] COMMAND[check version information] execute successfully, takes 0.5 secs.
+[Debug] [2025-2-24 22:41:07] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Error] [2025-2-24 22:41:07] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:41:11] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:41:11] Send RPC:4
+[Debug] [2025-2-24 22:41:11] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:41:11] End to send initialize chain cmd.
+[Error] [2025-2-24 22:41:11] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:41:11] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:41:11] Send RPC:5
+[Debug] [2025-2-24 22:41:11] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:41:11] End to send initialize chain cmd.
+[Error] [2025-2-24 22:41:11] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:41:11] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:41:11] Send RPC:6
+[Debug] [2025-2-24 22:41:11] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:41:11] End to send initialize chain cmd.
+[Error] [2025-2-24 22:41:11] fail to exec Open config cable cmd...
+[Info] [2025-2-24 22:41:12] /***************************End Configration***************************/
+[Info] [2025-2-24 22:41:27] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:41:27] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:41:27] Version: 99559
+[Info] [2025-2-24 22:41:28] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:41:28] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:41:30] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:41:30] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:41:30] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:41:30] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:41:30] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:41:30] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:41:30] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:41:31] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:41:31] Finish.
+[Info] [2025-2-24 22:41:31] Connect server succeeded
+[Debug] [2025-2-24 22:41:31] Send RPC:1
+[Debug] [2025-2-24 22:41:31] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:41:31] Send RPC:2
+[Debug] [2025-2-24 22:41:31] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:41:31] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:41:31] Send RPC:3
+[Debug] [2025-2-24 22:41:31] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:41:31] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:41:31] COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2025-2-24 22:41:32] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Error] [2025-2-24 22:41:32] fail to exec Open config cable cmd...
+[Info] [2025-2-24 22:42:26] /***************************End Configration***************************/
+[Info] [2025-2-24 22:42:29] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:42:29] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:42:29] Version: 99559
+[Info] [2025-2-24 22:42:30] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:42:30] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:42:33] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:42:34] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:42:34] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:42:34] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:42:34] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:42:34] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:42:34] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:42:34] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:42:34] Finish.
+[Info] [2025-2-24 22:42:34] Connect server succeeded
+[Debug] [2025-2-24 22:42:34] Send RPC:1
+[Debug] [2025-2-24 22:42:34] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:42:34] Send RPC:2
+[Debug] [2025-2-24 22:42:34] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:42:34] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:42:34] Send RPC:3
+[Debug] [2025-2-24 22:42:34] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:42:34] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:42:34] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 22:42:35] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 22:42:36] begin the exec of open cable cmd...
+[Debug] [2025-2-24 22:42:36] Begin to deal with chain from server...
+[Debug] [2025-2-24 22:42:36] Begin to set user chain...
+[Debug] [2025-2-24 22:42:36] End to set user chain.
+[Debug] [2025-2-24 22:42:36] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:42:36] End to update graphic item and tree item ...
+[Info] [2025-2-24 22:42:37] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 22:42:37] begin to get device info from CFG file...
+[Debug] [2025-2-24 22:42:37] end to get device info from CFG file...
+[Debug] [2025-2-24 22:42:37] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:42:37] End to update graphic item and tree item ...
+[Debug] [2025-2-24 22:42:37] End to deal wiht chain from server.
+[Debug] [2025-2-24 22:42:37] end the exec of open cable cmd.
+[Debug] [2025-2-24 22:42:37] COMMAND[Open config cable] execute successfully, takes 3.2 secs.
+[Debug] [2025-2-24 22:42:57] Begin to send programming cmd...
+[Debug] [2025-2-24 22:42:57] Send RPC:4
+[Debug] [2025-2-24 22:42:57] Begin to send program data.
+[Debug] [2025-2-24 22:42:57] End to send program data.
+[Debug] [2025-2-24 22:42:57] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 22:43:23] Begin to send abort process cmd.
+[Debug] [2025-2-24 22:43:23] Begin to flush aborting cmd. 
+[Debug] [2025-2-24 22:43:23] End to flush aborting cmd. 
+[Debug] [2025-2-24 22:43:23] End to send abort process cmd.
+[Debug] [2025-2-24 22:43:23] End to send programming cmd.
+[Debug] [2025-2-24 22:43:25] Begin to send programming cmd...
+[Debug] [2025-2-24 22:43:25] Send RPC:5
+[Debug] [2025-2-24 22:43:25] Begin to send program data.
+[Debug] [2025-2-24 22:43:25] End to send program data.
+[Debug] [2025-2-24 22:43:25] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 22:43:27] Begin to send abort process cmd.
+[Debug] [2025-2-24 22:43:27] Begin to flush aborting cmd. 
+[Debug] [2025-2-24 22:43:27] End to flush aborting cmd. 
+[Debug] [2025-2-24 22:43:27] End to send abort process cmd.
+[Debug] [2025-2-24 22:43:27] End to send programming cmd.
+[Info] [2025-2-24 22:43:28] /***************************End Configration***************************/
+[Info] [2025-2-24 22:43:31] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:43:31] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:43:31] Version: 99559
+[Info] [2025-2-24 22:43:32] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:43:32] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:43:34] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:43:34] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:43:34] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:43:34] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:43:34] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:43:34] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:43:34] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:43:34] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:43:34] Finish.
+[Info] [2025-2-24 22:43:34] Connect server succeeded
+[Debug] [2025-2-24 22:43:34] Send RPC:1
+[Debug] [2025-2-24 22:43:34] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:44:12] Send RPC:2
+[Debug] [2025-2-24 22:44:12] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:44:12] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:44:12] Send RPC:3
+[Debug] [2025-2-24 22:44:12] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:44:12] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:44:12] COMMAND[check version information] execute successfully, takes 38.0 secs.
+[Debug] [2025-2-24 22:44:38] COMMAND[get_cable_paras] execute successfully, takes 26.3 secs.
+[Error] [2025-2-24 22:44:38] fail to exec Open config cable cmd...
+[Debug] [2025-2-24 22:45:35] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:45:35] Send RPC:4
+[Debug] [2025-2-24 22:45:35] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:45:35] End to send initialize chain cmd.
+[Error] [2025-2-24 22:45:35] fail to exec Open config cable cmd...
+[Info] [2025-2-24 22:45:36] /***************************End Configration***************************/
+[Info] [2025-2-24 22:45:37] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:45:37] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:45:37] Version: 99559
+[Info] [2025-2-24 22:45:38] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:45:38] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:45:47] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:45:47] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:45:47] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:45:47] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:45:47] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:45:47] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:45:47] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:45:47] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:45:47] Finish.
+[Info] [2025-2-24 22:45:47] Connect server succeeded
+[Debug] [2025-2-24 22:45:47] Send RPC:1
+[Debug] [2025-2-24 22:45:47] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:45:47] Send RPC:2
+[Debug] [2025-2-24 22:45:47] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:45:47] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:45:47] Send RPC:3
+[Debug] [2025-2-24 22:45:47] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:45:47] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:45:47] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 22:45:48] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-2-24 22:45:49] begin the exec of open cable cmd...
+[Debug] [2025-2-24 22:45:49] Begin to deal with chain from server...
+[Debug] [2025-2-24 22:45:49] Begin to set user chain...
+[Debug] [2025-2-24 22:45:49] End to set user chain.
+[Debug] [2025-2-24 22:45:49] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:45:49] End to update graphic item and tree item ...
+[Info] [2025-2-24 22:45:50] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 22:45:50] begin to get device info from CFG file...
+[Debug] [2025-2-24 22:45:50] end to get device info from CFG file...
+[Debug] [2025-2-24 22:45:50] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:45:50] End to update graphic item and tree item ...
+[Debug] [2025-2-24 22:45:50] End to deal wiht chain from server.
+[Debug] [2025-2-24 22:45:50] end the exec of open cable cmd.
+[Debug] [2025-2-24 22:45:50] COMMAND[Open config cable] execute successfully, takes 2.7 secs.
+[Debug] [2025-2-24 22:45:52] Begin to send programming cmd...
+[Debug] [2025-2-24 22:45:52] Send RPC:4
+[Debug] [2025-2-24 22:45:52] Begin to send program data.
+[Debug] [2025-2-24 22:45:52] End to send program data.
+[Debug] [2025-2-24 22:45:52] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 22:45:52] The value of Progress is 6
+[Debug] [2025-2-24 22:45:52] The value of Progress is 10
+[Debug] [2025-2-24 22:45:52] The value of Progress is 15
+[Debug] [2025-2-24 22:45:52] The value of Progress is 20
+[Debug] [2025-2-24 22:45:52] The value of Progress is 25
+[Debug] [2025-2-24 22:45:52] The value of Progress is 30
+[Debug] [2025-2-24 22:45:53] The value of Progress is 35
+[Debug] [2025-2-24 22:45:53] The value of Progress is 40
+[Debug] [2025-2-24 22:45:53] The value of Progress is 45
+[Debug] [2025-2-24 22:45:53] The value of Progress is 50
+[Debug] [2025-2-24 22:45:53] The value of Progress is 55
+[Debug] [2025-2-24 22:45:53] The value of Progress is 60
+[Debug] [2025-2-24 22:45:53] The value of Progress is 65
+[Debug] [2025-2-24 22:45:53] The value of Progress is 70
+[Debug] [2025-2-24 22:45:53] The value of Progress is 75
+[Debug] [2025-2-24 22:45:53] The value of Progress is 80
+[Debug] [2025-2-24 22:45:53] The value of Progress is 85
+[Debug] [2025-2-24 22:45:53] The value of Progress is 90
+[Debug] [2025-2-24 22:45:54] The value of Progress is 95
+[Debug] [2025-2-24 22:45:54] The value of Progress is 100
+[Debug] [2025-2-24 22:45:54] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 22:45:54] End to send programming cmd.
+[Info] [2025-2-24 22:45:56] /***************************End Configration***************************/
+[Info] [2025-2-24 22:50:10] /***************************Start Configuration***************************/
+[Info] [2025-2-24 22:50:10] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:50:10] Version: 99559
+[Info] [2025-2-24 22:50:11] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:50:11] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 22:50:13] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 22:50:13] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 22:50:13] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 22:50:13] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 22:50:13] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 22:50:13] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 22:50:13] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 22:50:14] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 22:50:14] Finish.
+[Info] [2025-2-24 22:50:14] Connect server succeeded
+[Debug] [2025-2-24 22:50:14] Send RPC:1
+[Debug] [2025-2-24 22:50:14] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 22:50:14] Send RPC:2
+[Debug] [2025-2-24 22:50:14] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 22:50:14] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 22:50:14] Send RPC:3
+[Debug] [2025-2-24 22:50:14] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 22:50:14] End to send initialize chain cmd.
+[Debug] [2025-2-24 22:50:14] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 22:50:15] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 22:50:15] begin the exec of open cable cmd...
+[Debug] [2025-2-24 22:50:15] Begin to deal with chain from server...
+[Debug] [2025-2-24 22:50:15] Begin to set user chain...
+[Debug] [2025-2-24 22:50:15] End to set user chain.
+[Debug] [2025-2-24 22:50:15] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:50:15] End to update graphic item and tree item ...
+[Info] [2025-2-24 22:50:16] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 22:50:16] begin to get device info from CFG file...
+[Debug] [2025-2-24 22:50:16] end to get device info from CFG file...
+[Debug] [2025-2-24 22:50:16] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 22:50:16] End to update graphic item and tree item ...
+[Debug] [2025-2-24 22:50:16] End to deal wiht chain from server.
+[Debug] [2025-2-24 22:50:16] end the exec of open cable cmd.
+[Debug] [2025-2-24 22:50:16] COMMAND[Open config cable] execute successfully, takes 2.5 secs.
+[Debug] [2025-2-24 22:50:18] Begin to send programming cmd...
+[Debug] [2025-2-24 22:50:18] Send RPC:4
+[Debug] [2025-2-24 22:50:18] Begin to send program data.
+[Debug] [2025-2-24 22:50:18] End to send program data.
+[Debug] [2025-2-24 22:50:18] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 22:50:18] The value of Progress is 6
+[Debug] [2025-2-24 22:50:18] The value of Progress is 10
+[Debug] [2025-2-24 22:50:18] The value of Progress is 15
+[Debug] [2025-2-24 22:50:18] The value of Progress is 20
+[Debug] [2025-2-24 22:50:18] The value of Progress is 25
+[Debug] [2025-2-24 22:50:18] The value of Progress is 30
+[Debug] [2025-2-24 22:50:19] The value of Progress is 35
+[Debug] [2025-2-24 22:50:19] The value of Progress is 40
+[Debug] [2025-2-24 22:50:19] The value of Progress is 45
+[Debug] [2025-2-24 22:50:19] The value of Progress is 50
+[Debug] [2025-2-24 22:50:19] The value of Progress is 55
+[Debug] [2025-2-24 22:50:19] The value of Progress is 60
+[Debug] [2025-2-24 22:50:19] The value of Progress is 65
+[Debug] [2025-2-24 22:50:19] The value of Progress is 70
+[Debug] [2025-2-24 22:50:19] The value of Progress is 75
+[Debug] [2025-2-24 22:50:19] The value of Progress is 80
+[Debug] [2025-2-24 22:50:19] The value of Progress is 85
+[Debug] [2025-2-24 22:50:19] The value of Progress is 90
+[Debug] [2025-2-24 22:50:20] The value of Progress is 95
+[Debug] [2025-2-24 22:50:20] The value of Progress is 100
+[Debug] [2025-2-24 22:50:20] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2025-2-24 22:50:20] End to send programming cmd.
+[Debug] [2025-2-24 22:51:28] Begin to send programming cmd...
+[Debug] [2025-2-24 22:51:28] Send RPC:5
+[Debug] [2025-2-24 22:51:28] Begin to send program data.
+[Debug] [2025-2-24 22:51:28] End to send program data.
+[Debug] [2025-2-24 22:51:28] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 22:51:28] The value of Progress is 6
+[Debug] [2025-2-24 22:51:28] The value of Progress is 10
+[Debug] [2025-2-24 22:51:28] The value of Progress is 15
+[Debug] [2025-2-24 22:51:28] The value of Progress is 20
+[Debug] [2025-2-24 22:51:29] The value of Progress is 25
+[Debug] [2025-2-24 22:51:29] The value of Progress is 30
+[Debug] [2025-2-24 22:51:29] The value of Progress is 35
+[Debug] [2025-2-24 22:51:29] The value of Progress is 40
+[Debug] [2025-2-24 22:51:29] The value of Progress is 45
+[Debug] [2025-2-24 22:51:29] The value of Progress is 50
+[Debug] [2025-2-24 22:51:29] The value of Progress is 55
+[Debug] [2025-2-24 22:51:29] The value of Progress is 60
+[Debug] [2025-2-24 22:51:29] The value of Progress is 65
+[Debug] [2025-2-24 22:51:29] The value of Progress is 70
+[Debug] [2025-2-24 22:51:29] The value of Progress is 75
+[Debug] [2025-2-24 22:51:30] The value of Progress is 80
+[Debug] [2025-2-24 22:51:30] The value of Progress is 85
+[Debug] [2025-2-24 22:51:30] The value of Progress is 90
+[Debug] [2025-2-24 22:51:30] The value of Progress is 95
+[Debug] [2025-2-24 22:51:30] The value of Progress is 100
+[Debug] [2025-2-24 22:51:30] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2025-2-24 22:51:30] End to send programming cmd.
+[Debug] [2025-2-24 22:51:52] Begin to send programming cmd...
+[Debug] [2025-2-24 22:51:52] Send RPC:6
+[Debug] [2025-2-24 22:51:52] Begin to send program data.
+[Debug] [2025-2-24 22:51:52] End to send program data.
+[Debug] [2025-2-24 22:51:52] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 22:51:52] The value of Progress is 6
+[Debug] [2025-2-24 22:51:52] The value of Progress is 10
+[Debug] [2025-2-24 22:51:52] The value of Progress is 15
+[Debug] [2025-2-24 22:51:52] The value of Progress is 20
+[Debug] [2025-2-24 22:51:52] The value of Progress is 25
+[Debug] [2025-2-24 22:51:52] The value of Progress is 30
+[Debug] [2025-2-24 22:51:53] The value of Progress is 35
+[Debug] [2025-2-24 22:51:53] The value of Progress is 40
+[Debug] [2025-2-24 22:51:53] The value of Progress is 45
+[Debug] [2025-2-24 22:51:53] The value of Progress is 50
+[Debug] [2025-2-24 22:51:53] The value of Progress is 55
+[Debug] [2025-2-24 22:51:53] The value of Progress is 60
+[Debug] [2025-2-24 22:51:53] The value of Progress is 65
+[Debug] [2025-2-24 22:51:53] The value of Progress is 70
+[Debug] [2025-2-24 22:51:53] The value of Progress is 75
+[Debug] [2025-2-24 22:51:53] The value of Progress is 80
+[Debug] [2025-2-24 22:51:53] The value of Progress is 85
+[Debug] [2025-2-24 22:51:54] The value of Progress is 90
+[Debug] [2025-2-24 22:51:54] The value of Progress is 95
+[Debug] [2025-2-24 22:51:54] The value of Progress is 100
+[Debug] [2025-2-24 22:51:54] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 22:51:54] End to send programming cmd.
+[Info] [2025-2-24 23:03:07] /***************************End Configration***************************/
+[Info] [2025-2-24 23:03:19] /***************************Start Configuration***************************/
+[Info] [2025-2-24 23:03:19] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:03:19] Version: 99559
+[Info] [2025-2-24 23:03:20] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:03:20] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:03:22] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 23:03:23] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 23:03:23] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 23:03:23] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 23:03:23] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 23:03:23] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 23:03:23] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 23:03:23] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 23:03:23] Finish.
+[Info] [2025-2-24 23:03:23] Connect server succeeded
+[Debug] [2025-2-24 23:03:23] Send RPC:1
+[Debug] [2025-2-24 23:03:23] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 23:03:23] Send RPC:2
+[Debug] [2025-2-24 23:03:23] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 23:03:23] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 23:03:23] Send RPC:3
+[Debug] [2025-2-24 23:03:23] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 23:03:23] End to send initialize chain cmd.
+[Debug] [2025-2-24 23:03:23] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 23:03:24] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 23:03:24] begin the exec of open cable cmd...
+[Debug] [2025-2-24 23:03:24] Begin to deal with chain from server...
+[Debug] [2025-2-24 23:03:24] Begin to set user chain...
+[Debug] [2025-2-24 23:03:24] End to set user chain.
+[Debug] [2025-2-24 23:03:24] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:03:24] End to update graphic item and tree item ...
+[Info] [2025-2-24 23:03:26] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 23:03:26] begin to get device info from CFG file...
+[Debug] [2025-2-24 23:03:26] end to get device info from CFG file...
+[Debug] [2025-2-24 23:03:26] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:03:26] End to update graphic item and tree item ...
+[Debug] [2025-2-24 23:03:26] End to deal wiht chain from server.
+[Debug] [2025-2-24 23:03:26] end the exec of open cable cmd.
+[Debug] [2025-2-24 23:03:26] COMMAND[Open config cable] execute successfully, takes 2.6 secs.
+[Debug] [2025-2-24 23:03:27] Begin to send programming cmd...
+[Debug] [2025-2-24 23:03:27] Send RPC:4
+[Debug] [2025-2-24 23:03:27] Begin to send program data.
+[Debug] [2025-2-24 23:03:27] End to send program data.
+[Debug] [2025-2-24 23:03:27] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:03:28] The value of Progress is 6
+[Debug] [2025-2-24 23:03:28] The value of Progress is 10
+[Debug] [2025-2-24 23:03:28] The value of Progress is 15
+[Debug] [2025-2-24 23:03:28] The value of Progress is 20
+[Debug] [2025-2-24 23:03:28] The value of Progress is 25
+[Debug] [2025-2-24 23:03:28] The value of Progress is 30
+[Debug] [2025-2-24 23:03:28] The value of Progress is 35
+[Debug] [2025-2-24 23:03:28] The value of Progress is 40
+[Debug] [2025-2-24 23:03:28] The value of Progress is 45
+[Debug] [2025-2-24 23:03:29] The value of Progress is 50
+[Debug] [2025-2-24 23:03:29] The value of Progress is 55
+[Debug] [2025-2-24 23:03:29] The value of Progress is 60
+[Debug] [2025-2-24 23:03:29] The value of Progress is 65
+[Debug] [2025-2-24 23:03:29] The value of Progress is 70
+[Debug] [2025-2-24 23:03:29] The value of Progress is 75
+[Debug] [2025-2-24 23:03:29] The value of Progress is 80
+[Debug] [2025-2-24 23:03:29] The value of Progress is 85
+[Debug] [2025-2-24 23:03:29] The value of Progress is 90
+[Debug] [2025-2-24 23:03:29] The value of Progress is 95
+[Debug] [2025-2-24 23:03:29] The value of Progress is 100
+[Debug] [2025-2-24 23:03:30] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 23:03:30] End to send programming cmd.
+[Debug] [2025-2-24 23:10:57] Begin to send programming cmd...
+[Debug] [2025-2-24 23:10:57] Send RPC:5
+[Debug] [2025-2-24 23:10:57] Begin to send program data.
+[Debug] [2025-2-24 23:10:57] End to send program data.
+[Debug] [2025-2-24 23:10:57] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:11:00] Begin to send abort process cmd.
+[Debug] [2025-2-24 23:11:00] Begin to flush aborting cmd. 
+[Debug] [2025-2-24 23:11:00] End to flush aborting cmd. 
+[Debug] [2025-2-24 23:11:00] End to send abort process cmd.
+[Debug] [2025-2-24 23:11:00] End to send programming cmd.
+[Info] [2025-2-24 23:11:01] /***************************End Configration***************************/
+[Info] [2025-2-24 23:11:03] /***************************Start Configuration***************************/
+[Info] [2025-2-24 23:11:03] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:11:03] Version: 99559
+[Info] [2025-2-24 23:11:04] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:11:04] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:11:06] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 23:11:06] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 23:11:06] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 23:11:06] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 23:11:06] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 23:11:06] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 23:11:06] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 23:11:07] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 23:11:07] Finish.
+[Info] [2025-2-24 23:11:07] Connect server succeeded
+[Debug] [2025-2-24 23:11:07] Send RPC:1
+[Debug] [2025-2-24 23:11:07] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 23:11:23] Begin to send initialize chain cmd...
+[Error] [2025-2-24 23:11:23] fail to exec  cmd...
+[Debug] [2025-2-24 23:11:23] End to send initialize chain cmd.
+[Debug] [2025-2-24 23:11:27] begin to add pango device by bitstream file.
+[Info] [2025-2-24 23:11:28] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 23:11:28] begin to get device info from CFG file...
+[Debug] [2025-2-24 23:11:28] end to get device info from CFG file...
+[Info] [2025-2-24 23:11:28] Loading file done : H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Info] [2025-2-24 23:11:28] Added device successfully : Logos-PGL50H
+[Debug] [2025-2-24 23:11:28] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:11:28] End to update graphic item and tree item ...
+[Debug] [2025-2-24 23:11:28] end to add pango device by bitstream file.
+[Debug] [2025-2-24 23:11:30] Begin to send programming cmd...
+[Error] [2025-2-24 23:11:30] fail to exec  cmd...
+[Debug] [2025-2-24 23:11:30] End to send programming cmd.
+[Debug] [2025-2-24 23:11:32] Begin to send programming cmd...
+[Error] [2025-2-24 23:11:32] fail to exec  cmd...
+[Debug] [2025-2-24 23:11:32] End to send programming cmd.
+[Debug] [2025-2-24 23:11:32] Begin to send programming cmd...
+[Error] [2025-2-24 23:11:32] fail to exec  cmd...
+[Debug] [2025-2-24 23:11:32] End to send programming cmd.
+[Info] [2025-2-24 23:11:33] /***************************End Configration***************************/
+[Info] [2025-2-24 23:13:28] /***************************Start Configuration***************************/
+[Info] [2025-2-24 23:13:28] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:13:28] Version: 99559
+[Info] [2025-2-24 23:13:29] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:13:29] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:13:30] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 23:13:30] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 23:13:30] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 23:13:30] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 23:13:30] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 23:13:30] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 23:13:30] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 23:13:31] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 23:13:31] Finish.
+[Info] [2025-2-24 23:13:31] Connect server succeeded
+[Debug] [2025-2-24 23:13:31] Send RPC:1
+[Debug] [2025-2-24 23:13:31] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 23:13:31] Send RPC:2
+[Debug] [2025-2-24 23:13:31] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 23:13:31] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 23:13:31] Send RPC:3
+[Debug] [2025-2-24 23:13:31] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 23:13:31] End to send initialize chain cmd.
+[Debug] [2025-2-24 23:13:31] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2025-2-24 23:13:32] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 23:13:32] begin the exec of open cable cmd...
+[Debug] [2025-2-24 23:13:32] Begin to deal with chain from server...
+[Debug] [2025-2-24 23:13:32] Begin to set user chain...
+[Debug] [2025-2-24 23:13:32] End to set user chain.
+[Debug] [2025-2-24 23:13:32] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:13:32] End to update graphic item and tree item ...
+[Info] [2025-2-24 23:13:33] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 23:13:33] begin to get device info from CFG file...
+[Debug] [2025-2-24 23:13:33] end to get device info from CFG file...
+[Debug] [2025-2-24 23:13:33] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:13:33] End to update graphic item and tree item ...
+[Debug] [2025-2-24 23:13:33] End to deal wiht chain from server.
+[Debug] [2025-2-24 23:13:33] end the exec of open cable cmd.
+[Debug] [2025-2-24 23:13:33] COMMAND[Open config cable] execute successfully, takes 2.5 secs.
+[Debug] [2025-2-24 23:13:35] Begin to send programming cmd...
+[Debug] [2025-2-24 23:13:35] Send RPC:4
+[Debug] [2025-2-24 23:13:35] Begin to send program data.
+[Debug] [2025-2-24 23:13:35] End to send program data.
+[Debug] [2025-2-24 23:13:35] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:13:35] The value of Progress is 6
+[Debug] [2025-2-24 23:13:35] The value of Progress is 10
+[Debug] [2025-2-24 23:13:35] The value of Progress is 15
+[Debug] [2025-2-24 23:13:35] The value of Progress is 20
+[Debug] [2025-2-24 23:13:35] The value of Progress is 25
+[Debug] [2025-2-24 23:13:36] The value of Progress is 30
+[Debug] [2025-2-24 23:13:36] The value of Progress is 35
+[Debug] [2025-2-24 23:13:36] The value of Progress is 40
+[Debug] [2025-2-24 23:13:36] The value of Progress is 45
+[Debug] [2025-2-24 23:13:36] The value of Progress is 50
+[Debug] [2025-2-24 23:13:36] The value of Progress is 55
+[Debug] [2025-2-24 23:13:36] The value of Progress is 60
+[Debug] [2025-2-24 23:13:36] The value of Progress is 65
+[Debug] [2025-2-24 23:13:36] The value of Progress is 70
+[Debug] [2025-2-24 23:13:36] The value of Progress is 75
+[Debug] [2025-2-24 23:13:36] The value of Progress is 80
+[Debug] [2025-2-24 23:13:36] The value of Progress is 85
+[Debug] [2025-2-24 23:13:37] The value of Progress is 90
+[Debug] [2025-2-24 23:13:37] The value of Progress is 95
+[Debug] [2025-2-24 23:13:37] The value of Progress is 100
+[Debug] [2025-2-24 23:13:37] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 23:13:37] End to send programming cmd.
+[Info] [2025-2-24 23:13:53] /***************************End Configration***************************/
+[Info] [2025-2-24 23:15:35] /***************************Start Configuration***************************/
+[Info] [2025-2-24 23:15:35] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:15:35] Version: 99559
+[Info] [2025-2-24 23:15:36] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:15:36] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:15:38] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 23:15:38] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 23:15:38] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 23:15:38] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 23:15:38] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 23:15:38] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 23:15:38] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 23:15:38] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 23:15:38] Finish.
+[Info] [2025-2-24 23:15:38] Connect server succeeded
+[Debug] [2025-2-24 23:15:38] Send RPC:1
+[Debug] [2025-2-24 23:15:38] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 23:15:38] Send RPC:2
+[Debug] [2025-2-24 23:15:38] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 23:15:38] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 23:15:38] Send RPC:3
+[Debug] [2025-2-24 23:15:38] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 23:15:38] End to send initialize chain cmd.
+[Debug] [2025-2-24 23:15:38] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 23:15:39] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 23:15:40] begin the exec of open cable cmd...
+[Debug] [2025-2-24 23:15:40] Begin to deal with chain from server...
+[Debug] [2025-2-24 23:15:40] Begin to set user chain...
+[Debug] [2025-2-24 23:15:40] End to set user chain.
+[Debug] [2025-2-24 23:15:40] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:15:40] End to update graphic item and tree item ...
+[Info] [2025-2-24 23:15:41] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 23:15:41] begin to get device info from CFG file...
+[Debug] [2025-2-24 23:15:41] end to get device info from CFG file...
+[Debug] [2025-2-24 23:15:41] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:15:41] End to update graphic item and tree item ...
+[Debug] [2025-2-24 23:15:41] End to deal wiht chain from server.
+[Debug] [2025-2-24 23:15:41] end the exec of open cable cmd.
+[Debug] [2025-2-24 23:15:41] COMMAND[Open config cable] execute successfully, takes 2.4 secs.
+[Debug] [2025-2-24 23:15:42] Begin to send programming cmd...
+[Debug] [2025-2-24 23:15:42] Send RPC:4
+[Debug] [2025-2-24 23:15:42] Begin to send program data.
+[Debug] [2025-2-24 23:15:42] End to send program data.
+[Debug] [2025-2-24 23:15:42] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:15:43] The value of Progress is 6
+[Debug] [2025-2-24 23:15:43] The value of Progress is 10
+[Debug] [2025-2-24 23:15:43] The value of Progress is 15
+[Debug] [2025-2-24 23:15:43] The value of Progress is 20
+[Debug] [2025-2-24 23:15:43] The value of Progress is 25
+[Debug] [2025-2-24 23:15:43] The value of Progress is 30
+[Debug] [2025-2-24 23:15:43] The value of Progress is 35
+[Debug] [2025-2-24 23:15:43] The value of Progress is 40
+[Debug] [2025-2-24 23:15:43] The value of Progress is 45
+[Debug] [2025-2-24 23:15:44] The value of Progress is 50
+[Debug] [2025-2-24 23:15:44] The value of Progress is 55
+[Debug] [2025-2-24 23:15:44] The value of Progress is 60
+[Debug] [2025-2-24 23:15:44] The value of Progress is 65
+[Debug] [2025-2-24 23:15:44] The value of Progress is 70
+[Debug] [2025-2-24 23:15:44] The value of Progress is 75
+[Debug] [2025-2-24 23:15:44] The value of Progress is 80
+[Debug] [2025-2-24 23:15:44] The value of Progress is 85
+[Debug] [2025-2-24 23:15:44] The value of Progress is 90
+[Debug] [2025-2-24 23:15:44] The value of Progress is 95
+[Debug] [2025-2-24 23:15:44] The value of Progress is 100
+[Debug] [2025-2-24 23:15:44] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 23:15:44] End to send programming cmd.
+[Debug] [2025-2-24 23:18:10] Begin to send programming cmd...
+[Debug] [2025-2-24 23:18:10] Send RPC:5
+[Debug] [2025-2-24 23:18:10] Begin to send program data.
+[Debug] [2025-2-24 23:18:10] End to send program data.
+[Debug] [2025-2-24 23:18:10] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:18:11] The value of Progress is 6
+[Debug] [2025-2-24 23:18:11] The value of Progress is 10
+[Debug] [2025-2-24 23:18:11] The value of Progress is 15
+[Debug] [2025-2-24 23:18:11] The value of Progress is 20
+[Debug] [2025-2-24 23:18:11] The value of Progress is 25
+[Debug] [2025-2-24 23:18:11] The value of Progress is 30
+[Debug] [2025-2-24 23:18:11] The value of Progress is 35
+[Debug] [2025-2-24 23:18:11] The value of Progress is 40
+[Debug] [2025-2-24 23:18:11] The value of Progress is 45
+[Debug] [2025-2-24 23:18:11] The value of Progress is 50
+[Debug] [2025-2-24 23:18:11] The value of Progress is 55
+[Debug] [2025-2-24 23:18:12] The value of Progress is 60
+[Debug] [2025-2-24 23:18:12] The value of Progress is 65
+[Debug] [2025-2-24 23:18:12] The value of Progress is 70
+[Debug] [2025-2-24 23:18:12] The value of Progress is 75
+[Debug] [2025-2-24 23:18:12] The value of Progress is 80
+[Debug] [2025-2-24 23:18:12] The value of Progress is 85
+[Debug] [2025-2-24 23:18:12] The value of Progress is 90
+[Debug] [2025-2-24 23:18:12] The value of Progress is 95
+[Debug] [2025-2-24 23:18:12] The value of Progress is 100
+[Debug] [2025-2-24 23:18:12] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 23:18:12] End to send programming cmd.
+[Info] [2025-2-24 23:18:20] /***************************End Configration***************************/
+[Info] [2025-2-24 23:20:28] /***************************Start Configuration***************************/
+[Info] [2025-2-24 23:20:28] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:20:28] Version: 99559
+[Info] [2025-2-24 23:20:29] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:20:29] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:20:31] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 23:20:31] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 23:20:31] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 23:20:31] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 23:20:31] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 23:20:31] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 23:20:31] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 23:20:31] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 23:20:31] Finish.
+[Info] [2025-2-24 23:20:31] Connect server succeeded
+[Debug] [2025-2-24 23:20:31] Send RPC:1
+[Debug] [2025-2-24 23:20:31] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 23:20:31] Send RPC:2
+[Debug] [2025-2-24 23:20:31] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 23:20:31] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 23:20:31] Send RPC:3
+[Debug] [2025-2-24 23:20:31] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 23:20:31] End to send initialize chain cmd.
+[Debug] [2025-2-24 23:20:31] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2025-2-24 23:20:32] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 23:20:32] begin the exec of open cable cmd...
+[Debug] [2025-2-24 23:20:32] Begin to deal with chain from server...
+[Debug] [2025-2-24 23:20:32] Begin to set user chain...
+[Debug] [2025-2-24 23:20:32] End to set user chain.
+[Debug] [2025-2-24 23:20:32] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:20:32] End to update graphic item and tree item ...
+[Info] [2025-2-24 23:20:33] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 23:20:33] begin to get device info from CFG file...
+[Debug] [2025-2-24 23:20:33] end to get device info from CFG file...
+[Debug] [2025-2-24 23:20:33] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:20:33] End to update graphic item and tree item ...
+[Debug] [2025-2-24 23:20:33] End to deal wiht chain from server.
+[Debug] [2025-2-24 23:20:33] end the exec of open cable cmd.
+[Debug] [2025-2-24 23:20:33] COMMAND[Open config cable] execute successfully, takes 2.3 secs.
+[Debug] [2025-2-24 23:20:34] Begin to send programming cmd...
+[Debug] [2025-2-24 23:20:34] Send RPC:4
+[Debug] [2025-2-24 23:20:34] Begin to send program data.
+[Debug] [2025-2-24 23:20:34] End to send program data.
+[Debug] [2025-2-24 23:20:34] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:20:35] The value of Progress is 6
+[Debug] [2025-2-24 23:20:35] The value of Progress is 10
+[Debug] [2025-2-24 23:20:35] The value of Progress is 15
+[Debug] [2025-2-24 23:20:35] The value of Progress is 20
+[Debug] [2025-2-24 23:20:35] The value of Progress is 25
+[Debug] [2025-2-24 23:20:35] The value of Progress is 30
+[Debug] [2025-2-24 23:20:35] The value of Progress is 35
+[Debug] [2025-2-24 23:20:35] The value of Progress is 40
+[Debug] [2025-2-24 23:20:35] The value of Progress is 45
+[Debug] [2025-2-24 23:20:35] The value of Progress is 50
+[Debug] [2025-2-24 23:20:35] The value of Progress is 55
+[Debug] [2025-2-24 23:20:35] The value of Progress is 60
+[Debug] [2025-2-24 23:20:36] The value of Progress is 65
+[Debug] [2025-2-24 23:20:36] The value of Progress is 70
+[Debug] [2025-2-24 23:20:36] The value of Progress is 75
+[Debug] [2025-2-24 23:20:36] The value of Progress is 80
+[Debug] [2025-2-24 23:20:36] The value of Progress is 85
+[Debug] [2025-2-24 23:20:36] The value of Progress is 90
+[Debug] [2025-2-24 23:20:36] The value of Progress is 95
+[Debug] [2025-2-24 23:20:36] The value of Progress is 100
+[Debug] [2025-2-24 23:20:36] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 23:20:36] End to send programming cmd.
+[Info] [2025-2-24 23:20:44] /***************************End Configration***************************/
+[Info] [2025-2-24 23:22:32] /***************************Start Configuration***************************/
+[Info] [2025-2-24 23:22:32] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:22:32] Version: 99559
+[Info] [2025-2-24 23:22:33] Current Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:22:33] PDS Dir Path: H:/PANGO_EDA/my_project/first_try
+[Info] [2025-2-24 23:22:35] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-2-24 23:22:35] Client Local host name:DESKTOP-4P2ET5G
+[Debug] [2025-2-24 23:22:35] Client Local Address:10.151.2.90
+[Debug] [2025-2-24 23:22:35] Client Local Address:28.0.0.1
+[Debug] [2025-2-24 23:22:35] Client Local Address:192.168.32.1
+[Debug] [2025-2-24 23:22:35] Client Local Address:192.168.160.1
+[Debug] [2025-2-24 23:22:35] Server Address:127.0.0.1, Port:65420
+[Info] [2025-2-24 23:22:36] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-2-24 23:22:36] Finish.
+[Info] [2025-2-24 23:22:36] Connect server succeeded
+[Debug] [2025-2-24 23:22:36] Send RPC:1
+[Debug] [2025-2-24 23:22:36] Send cmd [check version information:40005] OK
+[Debug] [2025-2-24 23:22:36] Send RPC:2
+[Debug] [2025-2-24 23:22:36] Send cmd [get_cable_paras:40011] OK
+[Debug] [2025-2-24 23:22:36] Begin to send initialize chain cmd...
+[Debug] [2025-2-24 23:22:36] Send RPC:3
+[Debug] [2025-2-24 23:22:36] Send cmd [Open config cable:20001] OK
+[Debug] [2025-2-24 23:22:36] End to send initialize chain cmd.
+[Debug] [2025-2-24 23:22:36] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2025-2-24 23:22:37] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-2-24 23:22:37] begin the exec of open cable cmd...
+[Debug] [2025-2-24 23:22:37] Begin to deal with chain from server...
+[Debug] [2025-2-24 23:22:37] Begin to set user chain...
+[Debug] [2025-2-24 23:22:37] End to set user chain.
+[Debug] [2025-2-24 23:22:37] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:22:37] End to update graphic item and tree item ...
+[Info] [2025-2-24 23:22:38] set OpenLastPath: H:/PANGO_EDA/my_project/first_try/generate_bitstream/Briey.sbit
+[Debug] [2025-2-24 23:22:38] begin to get device info from CFG file...
+[Debug] [2025-2-24 23:22:38] end to get device info from CFG file...
+[Debug] [2025-2-24 23:22:38] Begin to update graphic item and tree item ...
+[Debug] [2025-2-24 23:22:38] End to update graphic item and tree item ...
+[Debug] [2025-2-24 23:22:38] End to deal wiht chain from server.
+[Debug] [2025-2-24 23:22:38] end the exec of open cable cmd.
+[Debug] [2025-2-24 23:22:38] COMMAND[Open config cable] execute successfully, takes 2.1 secs.
+[Debug] [2025-2-24 23:22:39] Begin to send programming cmd...
+[Debug] [2025-2-24 23:22:39] Send RPC:4
+[Debug] [2025-2-24 23:22:39] Begin to send program data.
+[Debug] [2025-2-24 23:22:39] End to send program data.
+[Debug] [2025-2-24 23:22:39] Send cmd [Program:20002] OK
+[Debug] [2025-2-24 23:22:39] The value of Progress is 6
+[Debug] [2025-2-24 23:22:39] The value of Progress is 10
+[Debug] [2025-2-24 23:22:39] The value of Progress is 15
+[Debug] [2025-2-24 23:22:39] The value of Progress is 20
+[Debug] [2025-2-24 23:22:40] The value of Progress is 25
+[Debug] [2025-2-24 23:22:40] The value of Progress is 30
+[Debug] [2025-2-24 23:22:40] The value of Progress is 35
+[Debug] [2025-2-24 23:22:40] The value of Progress is 40
+[Debug] [2025-2-24 23:22:40] The value of Progress is 45
+[Debug] [2025-2-24 23:22:40] The value of Progress is 50
+[Debug] [2025-2-24 23:22:40] The value of Progress is 55
+[Debug] [2025-2-24 23:22:40] The value of Progress is 60
+[Debug] [2025-2-24 23:22:40] The value of Progress is 65
+[Debug] [2025-2-24 23:22:40] The value of Progress is 70
+[Debug] [2025-2-24 23:22:40] The value of Progress is 75
+[Debug] [2025-2-24 23:22:40] The value of Progress is 80
+[Debug] [2025-2-24 23:22:41] The value of Progress is 85
+[Debug] [2025-2-24 23:22:41] The value of Progress is 90
+[Debug] [2025-2-24 23:22:41] The value of Progress is 95
+[Debug] [2025-2-24 23:22:41] The value of Progress is 100
+[Debug] [2025-2-24 23:22:41] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2025-2-24 23:22:41] End to send programming cmd.
+[Info] [2025-2-24 23:24:16] /***************************End Configration***************************/

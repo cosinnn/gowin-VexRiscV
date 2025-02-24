@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>H:/PANGO_EDA/my_project/Briey.v</data>
+            <data>Verilog</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:4s</data>
+            <data>0h:0m:4s</data>
+            <data>0h:0m:8s</data>
+            <data>193</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>AMD Ryzen 7 6800H with Radeon Graphics</data>
+            <data>15</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file H:/PANGO_EDA/my_project/Briey.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 7)] Analyzing module Briey (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2010: [H:/PANGO_EDA/my_project/Briey.v(line number: 1232)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 1793)] Analyzing module Apb3Router (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 1904)] Analyzing module Apb3Decoder (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 1955)] Analyzing module Axi4SharedArbiter_2 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 2217)] Analyzing module Axi4SharedArbiter_1 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 2545)] Analyzing module Axi4SharedArbiter (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 2873)] Analyzing module Axi4SharedDecoder (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 3241)] Analyzing module Axi4ReadOnlyDecoder (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 3424)] Analyzing module SystemDebugger (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 3511)] Analyzing module JtagBridge (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2010: [H:/PANGO_EDA/my_project/Briey.v(line number: 3650)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 4239)] Analyzing module BufferCC_1 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 4258)] Analyzing module VexRiscv (library work)</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 4740)] Convert attribute name from keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 4740)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 4740)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 4742)] Convert attribute name from keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 4742)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 4742)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 9105)] Analyzing module Apb3UartCtrl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 9524)] Analyzing module PinsecTimerCtrl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 9995)] Analyzing module Apb3Gpio (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 10087)] Analyzing module Axi4SharedToApb3Bridge (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 10313)] Analyzing module Axi4SharedSdramCtrl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 10790)] Analyzing module Axi4SharedOnChipRam (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11152)] Analyzing module BufferCC (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11172)] Analyzing module StreamArbiter (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11248)] Analyzing module StreamArbiter_1 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11342)] Analyzing module StreamFifoLowLatency_2 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11377)] Analyzing module StreamArbiter_2 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11471)] Analyzing module Axi4SharedErrorSlave (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11560)] Analyzing module Axi4ReadOnlyErrorSlave (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11619)] Analyzing module FlowCCUnsafeByToggle (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2010: [H:/PANGO_EDA/my_project/Briey.v(line number: 11650)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 11691)] Analyzing module DataCache (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 12545)] Analyzing module InstructionCache (library work)</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 12597)] Convert attribute name from keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 12597)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 12597)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 12612)] Convert attribute name from keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 12612)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number: 12612)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 12846)] Analyzing module StreamFifo (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13000)] Analyzing module UartCtrl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13129)] Analyzing module InterruptCtrl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13156)] Analyzing module Timer_1 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13202)] Analyzing module Timer (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13248)] Analyzing module Prescaler (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13271)] Analyzing module BufferCC_2 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13299)] Analyzing module BufferCC_4 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 13318)] Analyzing module SdramCtrl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 14533)] Analyzing module StreamFifo_4 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 14627)] Analyzing module BufferCC_5 (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2010: [H:/PANGO_EDA/my_project/Briey.v(line number: 14637)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 14653)] Analyzing module UartCtrlRx (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 14947)] Analyzing module UartCtrlTx (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 15187)] Analyzing module StreamFifoLowLatency_3 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 15240)] Analyzing module BufferCC_6 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [H:/PANGO_EDA/my_project/Briey.v(line number: 15264)] Analyzing module StreamFifo_5 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;Briey&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 7)] Elaborating module Briey</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 623)] Elaborating instance io_asyncReset_buffercc</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11152)] Elaborating module BufferCC</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named keep_hierarchy is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 628)] Elaborating instance axi_ram</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 10790)] Elaborating module Axi4SharedOnChipRam</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 655)] Elaborating instance axi_sdramCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 10313)] Elaborating module Axi4SharedSdramCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 10481)] Elaborating instance ctrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13318)] Elaborating module SdramCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 13592)] Elaborating instance chip_backupIn_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 15187)] Elaborating module StreamFifoLowLatency_3</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 15213)] Elaborating instance fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 15264)] Elaborating module StreamFifo_5</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named ram_style is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 693)] Elaborating instance axi_apbBridge</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 10087)] Elaborating module Axi4SharedToApb3Bridge</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 728)] Elaborating instance axi_gpioACtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 9995)] Elaborating module Apb3Gpio</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 10022)] Elaborating instance io_gpio_read_buffercc</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13299)] Elaborating module BufferCC_4</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named keep_hierarchy is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 744)] Elaborating instance axi_gpioBCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 9995)] Elaborating module Apb3Gpio</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 760)] Elaborating instance axi_timerCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 9524)] Elaborating module PinsecTimerCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9598)] Elaborating instance io_external_buffercc</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13271)] Elaborating module BufferCC_2</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named keep_hierarchy is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9606)] Elaborating instance prescaler_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13248)] Elaborating module Prescaler</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9613)] Elaborating instance timerA</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13202)] Elaborating module Timer</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9622)] Elaborating instance timerB</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13156)] Elaborating module Timer_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9631)] Elaborating instance timerC</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13156)] Elaborating module Timer_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9640)] Elaborating instance timerD</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13156)] Elaborating module Timer_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9649)] Elaborating instance interruptCtrl_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13129)] Elaborating module InterruptCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 775)] Elaborating instance axi_uartCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 9105)] Elaborating module Apb3UartCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9206)] Elaborating instance uartCtrl_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 13000)] Elaborating module UartCtrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 13044)] Elaborating instance tx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 14947)] Elaborating module UartCtrlTx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 13058)] Elaborating instance rx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 14653)] Elaborating module UartCtrlRx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 14732)] Elaborating instance io_rxd_buffercc</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 15240)] Elaborating module BufferCC_6</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named keep_hierarchy is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9225)] Elaborating instance bridge_write_streamUnbuffered_queueWithOccupancy</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 12846)] Elaborating module StreamFifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 9238)] Elaborating instance axi_uartCtrl_uartCtrl_1_io_read_queueWithOccupancy</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 12846)] Elaborating module StreamFifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 789)] Elaborating instance axi_core_cpu</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 4258)] Elaborating module VexRiscv</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 5696)] Elaborating instance IBusCachedPlugin_cache</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 12545)] Elaborating module InstructionCache</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Elaborating instance dataCache_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11691)] Elaborating module DataCache</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2024: [H:/PANGO_EDA/my_project/Briey.v(line number: 11691)] Give an initial value for the no drive output pin io_cpu_writeBack_exclusiveOk in graph of sdm module DataCache</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2024: [H:/PANGO_EDA/my_project/Briey.v(line number: 11691)] Give an initial value for the no drive output pin io_cpu_writesPending in graph of sdm module DataCache</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5696)] Net IBusCachedPlugin_cache_io_cpu_fetch_isRemoved connected to input port of module instance Briey.axi_core_cpu.IBusCachedPlugin_cache has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5696)] Net IBusCachedPlugin_mmuBus_rsp_bypassTranslation connected to input port of module instance Briey.axi_core_cpu.IBusCachedPlugin_cache has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net DBusCachedPlugin_mmuBus_rsp_bypassTranslation connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_SW connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_SR connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_SO connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_SI connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_PW connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_PR connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_PO connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_PI connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 5740)] Net dataCache_1_io_cpu_writeBack_fence_FM connected to input port of module instance Briey.axi_core_cpu.dataCache_1 has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 824)] Elaborating instance io_coreInterrupt_buffercc</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 4239)] Elaborating module BufferCC_1</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named keep_hierarchy is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 830)] Elaborating instance jtagBridge_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 3511)] Elaborating module JtagBridge</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 3639)] Elaborating instance flowCCUnsafeByToggle_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11619)] Elaborating module FlowCCUnsafeByToggle</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 11644)] Elaborating instance inputArea_target_buffercc</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 14627)] Elaborating module BufferCC_5</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named async_reg is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2008: The attribute named keep_hierarchy is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 846)] Elaborating instance systemDebugger_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 3424)] Elaborating module SystemDebugger</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 866)] Elaborating instance axi4ReadOnlyDecoder_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 3241)] Elaborating module Axi4ReadOnlyDecoder</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 3310)] Elaborating instance errorSlave</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11560)] Elaborating module Axi4ReadOnlyErrorSlave</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2024: [H:/PANGO_EDA/my_project/Briey.v(line number: 11560)] Give an initial value for the no drive output pin io_axi_r_payload_data in graph of sdm module Axi4ReadOnlyErrorSlave</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 906)] Elaborating instance dbus_axi_decoder</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 2873)] Elaborating module Axi4SharedDecoder</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 3017)] Elaborating instance errorSlave</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11471)] Elaborating module Axi4SharedErrorSlave</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2024: [H:/PANGO_EDA/my_project/Briey.v(line number: 11471)] Give an initial value for the no drive output pin io_axi_r_payload_data in graph of sdm module Axi4SharedErrorSlave</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 994)] Elaborating instance axi_ram_io_axi_arbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 2545)] Elaborating module Axi4SharedArbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 2694)] Elaborating instance cmdArbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11377)] Elaborating module StreamArbiter_2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 2724)] Elaborating instance cmdRouteFork_thrown_translated_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11342)] Elaborating module StreamFifoLowLatency_2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 11359)] Elaborating instance fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 14533)] Elaborating module StreamFifo_4</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 1057)] Elaborating instance axi_sdramCtrl_io_axi_arbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 2217)] Elaborating module Axi4SharedArbiter_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 2366)] Elaborating instance cmdArbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11248)] Elaborating module StreamArbiter_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 2396)] Elaborating instance cmdRouteFork_thrown_translated_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11342)] Elaborating module StreamFifoLowLatency_2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 1120)] Elaborating instance axi_apbBridge_io_axi_arbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 1955)] Elaborating module Axi4SharedArbiter_2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 2071)] Elaborating instance cmdArbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11172)] Elaborating module StreamArbiter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 2092)] Elaborating instance cmdRouteFork_thrown_translated_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 11342)] Elaborating module StreamFifoLowLatency_2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 1170)] Elaborating instance io_apb_decoder</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 1904)] Elaborating module Apb3Decoder</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [H:/PANGO_EDA/my_project/Briey.v(line number: 1188)] Elaborating instance apb3Router_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [H:/PANGO_EDA/my_project/Briey.v(line number: 1793)] Elaborating module Apb3Router</data>
+        </row>
+        <row>
+            <data message="5">[H:/PANGO_EDA/my_project/Briey.v(line number: 1233)] Lvalue in procedural assign is not memory, ignore it.</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 655)] Net io_sdram_DQ_read connected to input port of module instance Briey.axi_sdramCtrl has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 728)] Net io_gpioA_read connected to input port of module instance Briey.axi_gpioACtrl has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2036: [H:/PANGO_EDA/my_project/Briey.v(line number: 744)] Net io_gpioB_read connected to input port of module instance Briey.axi_gpioBCtrl has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 10929)] Found Ram ram_symbol3, depth=65536, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 10929)] Found Ram ram_symbol0, depth=65536, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 10929)] Found Ram ram_symbol1, depth=65536, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 10929)] Found Ram ram_symbol2, depth=65536, width=8.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 5690)] Found Ram RegFilePlugin_regFile, depth=32, width=32.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 5690)] Found Ram RegFilePlugin_regFile, depth=32, width=32.</data>
+        </row>
+        <row>
+            <data message="4">Removed inst jtag_writeArea_data that is redundant to jtag_tap_bypass.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 12896)] Found Ram logic_ram, depth=16, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 12656)] Found Ram banks_0, depth=256, width=32.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 12668)] Found Ram ways_0_tags, depth=32, width=24.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 11944)] Found Ram ways_0_data_symbol2, depth=256, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 11944)] Found Ram ways_0_data_symbol3, depth=256, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 11926)] Found Ram ways_0_tags, depth=32, width=24.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 11944)] Found Ram ways_0_data_symbol1, depth=256, width=8.</data>
+        </row>
+        <row>
+            <data message="4">Sdm-0001: [H:/PANGO_EDA/my_project/Briey.v(line number: 11944)] Found Ram ways_0_data_symbol0, depth=256, width=8.</data>
+        </row>
+        <row>
+            <data message="4">FSM phase_fsm[1:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">FSM IBusCachedPlugin_injector_port_state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM CsrPlugin_interrupt_code_fsm[3:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">FSM jtag_tap_fsm_state_fsm[3:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM frontend_state_fsm[1:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM stateMachine_state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM stateMachine_state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N93 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N364 (bmsPMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N112 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N247 (bmsPMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N92 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N65 (bmsWIDEINV).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N348 (bmsPMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N66_2 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N66_3 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N66_4 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL50H-6FBG484</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>Briey</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>H:/PANGO_EDA/my_project/first_try	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

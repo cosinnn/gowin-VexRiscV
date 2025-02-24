@@ -1,0 +1,1752 @@
+[Info] [2025-2-21 18:31:37] /***************************Start jtagserver***************************/
+[Info] [2025-2-21 18:31:37] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-21 18:31:37] Version: 99559
+[Debug] [2025-2-21 18:31:53] Add a new user_thread, socket descriptor is 1384 user_thread id is 0000000000003B78
+[Debug] [2025-2-21 18:31:53] After adding, map size is : 1
+[Debug] [2025-2-21 18:31:53] Add a new user_thread, socket descriptor is 1392 user_thread id is 0000000000003B78
+[Debug] [2025-2-21 18:31:53] After adding, map size is : 2
+[Debug] [2025-2-21 18:31:53] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-21 18:31:53] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-21 18:31:53] IP address of connecting client is : ::ffff:127.0.0.1Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:31:53] _total_bytes_size : 146
+[Debug] [2025-2-21 18:31:53] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:31:53] _total_bytes_size : 96
+[Debug] [2025-2-21 18:31:53] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-21 18:31:54] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-21 18:31:54] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:31:54] _total_bytes_size : 101
+[Debug] [2025-2-21 18:31:54] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:31:54] Hardware handler is invalid
+[Debug] [2025-2-21 18:31:54] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:31:56] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:31:56] _total_bytes_size : 101
+[Debug] [2025-2-21 18:31:56] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:31:56] Hardware handler is invalid
+[Debug] [2025-2-21 18:31:56] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:31:57] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:31:57] _total_bytes_size : 101
+[Debug] [2025-2-21 18:31:57] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:31:57] Hardware handler is invalid
+[Debug] [2025-2-21 18:31:57] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:31:59] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:31:59] _total_bytes_size : 101
+[Debug] [2025-2-21 18:31:59] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:31:59] Hardware handler is invalid
+[Debug] [2025-2-21 18:31:59] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:00] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:00] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:00] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:00] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:00] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:00] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:00] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:00] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:00] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:00] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:13] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:13] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:13] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:13] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:13] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:13] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:13] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:13] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:13] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:13] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:13] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:13] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:13] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:13] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:13] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:16] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:16] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:16] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:16] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:16] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:32:16] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:16] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:16] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-21 18:32:16] Hardware handler is invalid
+[Debug] [2025-2-21 18:32:16] cmd operation Open config cable releases locker
+[Info] [2025-2-21 18:32:22] /***************************Start jtagserver***************************/
+[Info] [2025-2-21 18:32:22] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-21 18:32:22] Version: 99559
+[Debug] [2025-2-21 18:32:23] Add a new user_thread, socket descriptor is 1040 user_thread id is 00000000000009AC
+[Debug] [2025-2-21 18:32:23] After adding, map size is : 1
+[Debug] [2025-2-21 18:32:23] Add a new user_thread, socket descriptor is 1116 user_thread id is 00000000000009AC
+[Debug] [2025-2-21 18:32:23] After adding, map size is : 2
+[Debug] [2025-2-21 18:32:23] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-21 18:32:23] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-21 18:32:23] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:23] _total_bytes_size : 146
+[Debug] [2025-2-21 18:32:23] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:23] _total_bytes_size : 96
+[Debug] [2025-2-21 18:32:23] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-21 18:32:24] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-21 18:32:24] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:32:24] _total_bytes_size : 101
+[Debug] [2025-2-21 18:32:24] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-21 18:32:24] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-21 18:32:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:32:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:32:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:32:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:32:24] cmd operation Open config cable releases locker
+[Debug] [2025-2-21 18:34:17] Remove the header data from the client, index : 0
+[Debug] [2025-2-21 18:34:17] _total_bytes_size : 226
+[Debug] [2025-2-21 18:34:17] cmd id :4e22cmd name : Program
+[Debug] [2025-2-21 18:34:17] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-21 18:34:17] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:34:17] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:34:17] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:34:17] the idcode from the scanning is: 0x0
+[Debug] [2025-2-21 18:34:17] begin to read back config registerregAddr is 4
+[Debug] [2025-2-21 18:34:17] progress bar is 6
+[Debug] [2025-2-21 18:34:17] progress bar is 10
+[Debug] [2025-2-21 18:34:17] progress bar is 15
+[Debug] [2025-2-21 18:34:18] progress bar is 20
+[Debug] [2025-2-21 18:34:18] progress bar is 25
+[Debug] [2025-2-21 18:34:18] progress bar is 30
+[Debug] [2025-2-21 18:34:18] progress bar is 35
+[Debug] [2025-2-21 18:34:18] progress bar is 40
+[Debug] [2025-2-21 18:34:18] progress bar is 45
+[Debug] [2025-2-21 18:34:18] progress bar is 50
+[Debug] [2025-2-21 18:34:18] progress bar is 55
+[Debug] [2025-2-21 18:34:18] progress bar is 60
+[Debug] [2025-2-21 18:34:18] progress bar is 65
+[Debug] [2025-2-21 18:34:18] progress bar is 70
+[Debug] [2025-2-21 18:34:18] progress bar is 75
+[Debug] [2025-2-21 18:34:19] progress bar is 80
+[Debug] [2025-2-21 18:34:19] progress bar is 85
+[Debug] [2025-2-21 18:34:19] progress bar is 90
+[Debug] [2025-2-21 18:34:19] progress bar is 95
+[Debug] [2025-2-21 18:34:19] progress bar is 100
+[Debug] [2025-2-21 18:34:19] the value in the status register is :2096288
+[Debug] [2025-2-21 18:34:19] cmd operation Program releases locker
+[Info] [2025-2-23 17:02:40] /***************************Start jtagserver***************************/
+[Info] [2025-2-23 17:02:40] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-23 17:02:40] Version: 99559
+[Debug] [2025-2-23 17:02:40] Add a new user_thread, socket descriptor is 1232 user_thread id is 00000000000004EC
+[Debug] [2025-2-23 17:02:40] After adding, map size is : 1
+[Debug] [2025-2-23 17:02:40] Add a new user_thread, socket descriptor is 1240 user_thread id is 00000000000004EC
+[Debug] [2025-2-23 17:02:40] After adding, map size is : 2
+[Debug] [2025-2-23 17:02:40] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-23 17:02:40] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-23 17:02:40] Remove the header data from the client, index : 0
+[Debug] [2025-2-23 17:02:40] _total_bytes_size : 146
+[Debug] [2025-2-23 17:02:40] Remove the header data from the client, index : 0
+[Debug] [2025-2-23 17:02:40] _total_bytes_size : 96
+[Debug] [2025-2-23 17:02:40] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-23 17:02:41] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-23 17:02:41] Remove the header data from the client, index : 0
+[Debug] [2025-2-23 17:02:41] _total_bytes_size : 101
+[Debug] [2025-2-23 17:02:41] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-23 17:02:41] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-23 17:02:41] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:41] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:41] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:41] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:42] cmd operation Open config cable releases locker
+[Debug] [2025-2-23 17:02:50] Remove the header data from the client, index : 0
+[Debug] [2025-2-23 17:02:50] _total_bytes_size : 22e
+[Debug] [2025-2-23 17:02:50] cmd id :4e22cmd name : Program
+[Debug] [2025-2-23 17:02:50] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-23 17:02:50] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:50] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:50] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:50] the idcode from the scanning is: 0x0
+[Debug] [2025-2-23 17:02:50] begin to read back config registerregAddr is 4
+[Debug] [2025-2-23 17:02:50] progress bar is 6
+[Debug] [2025-2-23 17:02:50] progress bar is 10
+[Debug] [2025-2-23 17:02:50] progress bar is 15
+[Debug] [2025-2-23 17:02:50] progress bar is 20
+[Debug] [2025-2-23 17:02:50] progress bar is 25
+[Debug] [2025-2-23 17:02:50] progress bar is 30
+[Debug] [2025-2-23 17:02:50] progress bar is 35
+[Debug] [2025-2-23 17:02:50] progress bar is 40
+[Debug] [2025-2-23 17:02:51] progress bar is 45
+[Debug] [2025-2-23 17:02:51] progress bar is 50
+[Debug] [2025-2-23 17:02:51] progress bar is 55
+[Debug] [2025-2-23 17:02:51] progress bar is 60
+[Debug] [2025-2-23 17:02:51] progress bar is 65
+[Debug] [2025-2-23 17:02:51] progress bar is 70
+[Debug] [2025-2-23 17:02:51] progress bar is 75
+[Debug] [2025-2-23 17:02:51] progress bar is 80
+[Debug] [2025-2-23 17:02:51] progress bar is 85
+[Debug] [2025-2-23 17:02:51] progress bar is 90
+[Debug] [2025-2-23 17:02:51] progress bar is 95
+[Debug] [2025-2-23 17:02:52] progress bar is 100
+[Debug] [2025-2-23 17:02:52] the value in the status register is :2096288
+[Debug] [2025-2-23 17:02:52] cmd operation Program releases locker
+[Info] [2025-2-24 20:13:55] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:13:55] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:13:55] Version: 99559
+[Debug] [2025-2-24 20:13:56] Add a new user_thread, socket descriptor is 1184 user_thread id is 0000000000002B40
+[Debug] [2025-2-24 20:13:56] After adding, map size is : 1
+[Debug] [2025-2-24 20:13:56] Add a new user_thread, socket descriptor is 1108 user_thread id is 0000000000002B40
+[Debug] [2025-2-24 20:13:56] After adding, map size is : 2
+[Debug] [2025-2-24 20:13:56] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:13:56] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:13:56] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:13:56] _total_bytes_size : 146
+[Debug] [2025-2-24 20:13:56] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:13:56] _total_bytes_size : 96
+[Debug] [2025-2-24 20:13:56] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:13:57] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:13:57] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:13:57] _total_bytes_size : 101
+[Debug] [2025-2-24 20:13:57] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:13:59] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:13:59] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:13:59] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:13:59] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:00] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:00] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:00] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:00] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:01] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:01] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:01] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:01] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:02] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:02] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:02] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:02] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:04] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:04] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:04] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:04] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:05] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:05] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:05] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:06] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:06] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:06] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:06] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Info] [2025-2-24 20:14:11] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:14:11] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:14:11] Version: 99559
+[Debug] [2025-2-24 20:14:11] Add a new user_thread, socket descriptor is 1040 user_thread id is 0000000000004C88
+[Debug] [2025-2-24 20:14:11] After adding, map size is : 1
+[Debug] [2025-2-24 20:14:11] Add a new user_thread, socket descriptor is 1036 user_thread id is 0000000000004C88
+[Debug] [2025-2-24 20:14:11] After adding, map size is : 2
+[Debug] [2025-2-24 20:14:11] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:14:11] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:14:11] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:11] _total_bytes_size : 146
+[Debug] [2025-2-24 20:14:11] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:11] _total_bytes_size : 96
+[Debug] [2025-2-24 20:14:11] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:14:12] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:14:12] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:12] _total_bytes_size : 101
+[Debug] [2025-2-24 20:14:12] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:14:14] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:14] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:14] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:15] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:15] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:15] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:15] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:16] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:16] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:16] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:16] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:17] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:17] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:17] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:19] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:19] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:19] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:19] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:20] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:20] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:20] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:20] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:21] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:21] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:21] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:21] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:22] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:22] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:22] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:22] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:23] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:23] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:23] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:23] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:25] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:25] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:25] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:25] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:25] Hardware handler is invalid
+[Debug] [2025-2-24 20:14:25] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 20:14:29] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:29] _total_bytes_size : 540
+[Debug] [2025-2-24 20:14:29] cmd id :20002cmd name : Program
+[Error] [2025-2-24 20:14:30] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:30] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:30] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:30] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:31] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:31] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:31] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:31] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:33] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:33] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:33] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:33] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:34] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:34] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:34] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:34] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:35] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:35] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:35] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:35] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:36] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:36] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:36] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:36] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:37] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:37] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:37] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:37] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:39] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:39] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:39] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:39] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:40] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:40] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:40] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:40] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:41] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:41] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:41] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:41] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:41] Hardware handler is invalid
+[Debug] [2025-2-24 20:14:41] cmd operation Program releases locker
+[Info] [2025-2-24 20:14:54] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:14:54] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:14:54] Version: 99559
+[Debug] [2025-2-24 20:14:55] Add a new user_thread, socket descriptor is 1020 user_thread id is 0000000000003C4C
+[Debug] [2025-2-24 20:14:55] After adding, map size is : 1
+[Debug] [2025-2-24 20:14:55] Add a new user_thread, socket descriptor is 1124 user_thread id is 0000000000003C4C
+[Debug] [2025-2-24 20:14:55] After adding, map size is : 2
+[Debug] [2025-2-24 20:14:55] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:14:55] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:14:55] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:55] _total_bytes_size : 146
+[Debug] [2025-2-24 20:14:55] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:55] _total_bytes_size : 96
+[Debug] [2025-2-24 20:14:55] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:14:56] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:14:56] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:14:56] _total_bytes_size : 101
+[Debug] [2025-2-24 20:14:56] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:14:57] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:57] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:57] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:57] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:58] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:58] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:58] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:58] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:59] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:14:59] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:00] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:00] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:01] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:01] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:01] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:01] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:02] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:02] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:02] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:02] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Info] [2025-2-24 20:15:18] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:15:18] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:15:18] Version: 99559
+[Debug] [2025-2-24 20:15:19] Add a new user_thread, socket descriptor is 1196 user_thread id is 00000000000052BC
+[Debug] [2025-2-24 20:15:19] After adding, map size is : 1
+[Debug] [2025-2-24 20:15:19] Add a new user_thread, socket descriptor is 1216 user_thread id is 00000000000052BC
+[Debug] [2025-2-24 20:15:19] After adding, map size is : 2
+[Debug] [2025-2-24 20:15:19] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:15:19] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:15:19] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:15:19] _total_bytes_size : 146
+[Debug] [2025-2-24 20:15:19] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:15:19] _total_bytes_size : 96
+[Debug] [2025-2-24 20:15:19] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:15:20] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:15:20] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:15:20] _total_bytes_size : 101
+[Debug] [2025-2-24 20:15:20] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:15:21] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:21] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:21] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:21] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:22] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:22] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:22] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:22] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:23] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:23] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:23] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:23] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:25] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:25] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:25] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:25] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:26] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:26] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:26] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:26] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:27] E:CM Error: Request to read 2 bytes but only 1 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:27] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:27] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:27] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:28] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:28] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:28] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:28] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:29] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:29] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:30] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:30] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:31] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:31] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:31] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:31] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:32] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:32] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:32] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:32] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:32] Hardware handler is invalid
+[Debug] [2025-2-24 20:15:32] cmd operation Open config cable releases locker
+[Info] [2025-2-24 20:15:48] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:15:48] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:15:48] Version: 99559
+[Debug] [2025-2-24 20:15:49] Add a new user_thread, socket descriptor is 1124 user_thread id is 0000000000006208
+[Debug] [2025-2-24 20:15:49] After adding, map size is : 1
+[Debug] [2025-2-24 20:15:49] Add a new user_thread, socket descriptor is 1020 user_thread id is 0000000000006208
+[Debug] [2025-2-24 20:15:49] After adding, map size is : 2
+[Debug] [2025-2-24 20:15:49] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:15:49] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:15:49] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:15:49] _total_bytes_size : 146
+[Debug] [2025-2-24 20:15:49] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:15:49] _total_bytes_size : 96
+[Debug] [2025-2-24 20:15:49] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:15:50] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:15:50] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:15:50] _total_bytes_size : 101
+[Debug] [2025-2-24 20:15:50] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:15:51] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:51] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:51] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:51] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:53] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:53] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:53] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:53] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:54] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:54] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:54] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:54] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:55] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:55] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:55] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:55] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:56] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:56] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:56] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:56] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:57] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:57] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:57] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:57] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:59] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:59] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:59] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:15:59] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:00] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:00] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:00] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:00] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:01] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:01] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:01] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:01] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:02] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:02] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:02] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:02] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:02] Hardware handler is invalid
+[Debug] [2025-2-24 20:16:02] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 20:16:05] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:16:05] _total_bytes_size : 540
+[Debug] [2025-2-24 20:16:05] cmd id :20002cmd name : Program
+[Error] [2025-2-24 20:16:07] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:07] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:07] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:07] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:08] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:08] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:08] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:08] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:09] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:09] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:09] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:09] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:10] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:10] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:10] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:10] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:11] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:11] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:11] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:11] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:13] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:13] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:13] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:13] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:14] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:14] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:14] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:15] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:15] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:15] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:15] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:16] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:16] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:16] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:16] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:17] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:17] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:17] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:17] Hardware handler is invalid
+[Debug] [2025-2-24 20:16:17] cmd operation Program releases locker
+[Info] [2025-2-24 20:16:44] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:16:44] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:16:44] Version: 99559
+[Debug] [2025-2-24 20:16:44] Add a new user_thread, socket descriptor is 1008 user_thread id is 000000000000707C
+[Debug] [2025-2-24 20:16:44] After adding, map size is : 1
+[Debug] [2025-2-24 20:16:44] Add a new user_thread, socket descriptor is 1108 user_thread id is 000000000000707C
+[Debug] [2025-2-24 20:16:44] After adding, map size is : 2
+[Debug] [2025-2-24 20:16:44] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:16:44] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:16:44] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:16:44] _total_bytes_size : 146
+[Debug] [2025-2-24 20:16:44] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:16:44] _total_bytes_size : 96
+[Debug] [2025-2-24 20:16:44] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:16:45] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:16:45] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:16:45] _total_bytes_size : 101
+[Debug] [2025-2-24 20:16:45] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:16:47] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:47] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:47] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:47] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:48] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:48] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:48] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:48] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:49] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:49] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:49] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:49] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:50] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:50] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:50] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:50] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:51] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:51] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:51] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:51] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:53] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:53] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:53] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:53] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:54] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:54] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:54] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:54] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:55] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:55] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:55] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:55] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:56] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:56] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:56] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:56] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:57] E:CM Error: Request to read 2 bytes but only 0 provided. In function cdt_cable_manager::PgUsbIIOperator::IsAvailable at line 1560 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:57] E:CM Error: FT2232H loopback data test read timeout. In function cdt_cable_manager::PgUsbIIOperator::InitChannel at line 1271 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:57] E:CM Error: Init FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 183 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:57] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:16:57] Hardware handler is invalid
+[Debug] [2025-2-24 20:16:57] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 20:17:14] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:17:14] _total_bytes_size : 101
+[Debug] [2025-2-24 20:17:14] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:14] Hardware handler is invalid
+[Debug] [2025-2-24 20:17:14] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 20:17:17] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:17:17] _total_bytes_size : 101
+[Debug] [2025-2-24 20:17:17] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] Hardware handler is invalid
+[Debug] [2025-2-24 20:17:17] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 20:17:17] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:17:17] _total_bytes_size : 101
+[Debug] [2025-2-24 20:17:17] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:17] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Open FTDI2232H channel a error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 131 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:17:18] Hardware handler is invalid
+[Debug] [2025-2-24 20:17:18] cmd operation Open config cable releases locker
+[Info] [2025-2-24 20:17:23] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:17:23] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:17:23] Version: 99559
+[Info] [2025-2-24 20:18:04] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:18:04] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:18:04] Version: 99559
+[Debug] [2025-2-24 20:18:04] Add a new user_thread, socket descriptor is 1020 user_thread id is 00000000000034EC
+[Debug] [2025-2-24 20:18:04] After adding, map size is : 1
+[Debug] [2025-2-24 20:18:04] Add a new user_thread, socket descriptor is 1100 user_thread id is 00000000000034EC
+[Debug] [2025-2-24 20:18:04] After adding, map size is : 2
+[Debug] [2025-2-24 20:18:04] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:18:04] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:18:04] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:04] _total_bytes_size : 146
+[Debug] [2025-2-24 20:18:04] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:04] _total_bytes_size : 96
+[Debug] [2025-2-24 20:18:04] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:18:05] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:18:05] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:05] _total_bytes_size : 101
+[Debug] [2025-2-24 20:18:05] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Open FTDI2232H channel b error. In function cdt_cable_manager::PgUsbIIOperator::Init at line 124 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] E:CM Error: Cable open failed. In function cdt_cable_manager::CablePgUsb::Open at line 1761 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgUsb.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 20:18:05] Hardware handler is invalid
+[Debug] [2025-2-24 20:18:05] cmd operation Open config cable releases locker
+[Info] [2025-2-24 20:18:30] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 20:18:30] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 20:18:30] Version: 99559
+[Debug] [2025-2-24 20:18:30] Add a new user_thread, socket descriptor is 1072 user_thread id is 0000000000001ED8
+[Debug] [2025-2-24 20:18:30] After adding, map size is : 1
+[Debug] [2025-2-24 20:18:30] Add a new user_thread, socket descriptor is 1124 user_thread id is 0000000000001ED8
+[Debug] [2025-2-24 20:18:30] After adding, map size is : 2
+[Debug] [2025-2-24 20:18:30] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:18:30] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 20:18:30] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:30] _total_bytes_size : 146
+[Debug] [2025-2-24 20:18:30] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:30] _total_bytes_size : 96
+[Debug] [2025-2-24 20:18:30] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 20:18:31] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 20:18:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:31] _total_bytes_size : 101
+[Debug] [2025-2-24 20:18:31] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 20:18:32] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 20:18:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:32] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 20:18:37] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 20:18:37] _total_bytes_size : 22e
+[Debug] [2025-2-24 20:18:37] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 20:18:37] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 20:18:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 20:18:37] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 20:18:37] progress bar is 6
+[Debug] [2025-2-24 20:18:37] progress bar is 10
+[Debug] [2025-2-24 20:18:37] progress bar is 15
+[Debug] [2025-2-24 20:18:37] progress bar is 20
+[Debug] [2025-2-24 20:18:37] progress bar is 25
+[Debug] [2025-2-24 20:18:37] progress bar is 30
+[Debug] [2025-2-24 20:18:37] progress bar is 35
+[Debug] [2025-2-24 20:18:37] progress bar is 40
+[Debug] [2025-2-24 20:18:37] progress bar is 45
+[Debug] [2025-2-24 20:18:38] progress bar is 50
+[Debug] [2025-2-24 20:18:38] progress bar is 55
+[Debug] [2025-2-24 20:18:38] progress bar is 60
+[Debug] [2025-2-24 20:18:38] progress bar is 65
+[Debug] [2025-2-24 20:18:38] progress bar is 70
+[Debug] [2025-2-24 20:18:38] progress bar is 75
+[Debug] [2025-2-24 20:18:38] progress bar is 80
+[Debug] [2025-2-24 20:18:38] progress bar is 85
+[Debug] [2025-2-24 20:18:38] progress bar is 90
+[Debug] [2025-2-24 20:18:38] progress bar is 95
+[Debug] [2025-2-24 20:18:38] progress bar is 100
+[Debug] [2025-2-24 20:18:38] the value in the status register is :2096288
+[Debug] [2025-2-24 20:18:38] cmd operation Program releases locker
+[Info] [2025-2-24 21:30:26] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 21:30:26] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:30:26] Version: 99559
+[Debug] [2025-2-24 21:30:47] Add a new user_thread, socket descriptor is 1140 user_thread id is 00000000000030C0
+[Debug] [2025-2-24 21:30:47] After adding, map size is : 1
+[Debug] [2025-2-24 21:30:47] Add a new user_thread, socket descriptor is 1292 user_thread id is 00000000000030C0
+[Debug] [2025-2-24 21:30:47] After adding, map size is : 2
+[Debug] [2025-2-24 21:30:47] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:30:47] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:30:47] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:30:47] _total_bytes_size : 146
+[Debug] [2025-2-24 21:30:47] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:30:47] _total_bytes_size : 96
+[Debug] [2025-2-24 21:30:47] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 21:30:48] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 21:30:48] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:30:48] _total_bytes_size : 101
+[Debug] [2025-2-24 21:30:48] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 21:30:48] Hardware handler is invalid
+[Debug] [2025-2-24 21:30:48] cmd operation Open config cable releases locker
+[Info] [2025-2-24 21:30:59] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 21:30:59] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:30:59] Version: 99559
+[Debug] [2025-2-24 21:30:59] Add a new user_thread, socket descriptor is 1260 user_thread id is 0000000000005474
+[Debug] [2025-2-24 21:30:59] After adding, map size is : 1
+[Debug] [2025-2-24 21:30:59] Add a new user_thread, socket descriptor is 1284 user_thread id is 0000000000005474
+[Debug] [2025-2-24 21:30:59] After adding, map size is : 2
+[Debug] [2025-2-24 21:30:59] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:30:59] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:30:59] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:30:59] _total_bytes_size : 146
+[Debug] [2025-2-24 21:30:59] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:30:59] _total_bytes_size : 96
+[Debug] [2025-2-24 21:30:59] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 21:31:00] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 21:31:00] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:31:00] _total_bytes_size : 101
+[Debug] [2025-2-24 21:31:00] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 21:31:00] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:31:00] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:00] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:00] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:00] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:01] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 21:31:06] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:31:06] _total_bytes_size : 22e
+[Debug] [2025-2-24 21:31:06] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 21:31:06] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:31:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:31:06] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 21:31:06] progress bar is 6
+[Debug] [2025-2-24 21:31:06] progress bar is 10
+[Debug] [2025-2-24 21:31:06] progress bar is 15
+[Debug] [2025-2-24 21:31:07] progress bar is 20
+[Debug] [2025-2-24 21:31:07] progress bar is 25
+[Debug] [2025-2-24 21:31:07] progress bar is 30
+[Debug] [2025-2-24 21:31:07] progress bar is 35
+[Debug] [2025-2-24 21:31:07] progress bar is 40
+[Debug] [2025-2-24 21:31:07] progress bar is 45
+[Debug] [2025-2-24 21:31:07] progress bar is 50
+[Debug] [2025-2-24 21:31:07] progress bar is 55
+[Debug] [2025-2-24 21:31:07] progress bar is 60
+[Debug] [2025-2-24 21:31:07] progress bar is 65
+[Debug] [2025-2-24 21:31:07] progress bar is 70
+[Debug] [2025-2-24 21:31:07] progress bar is 75
+[Debug] [2025-2-24 21:31:08] progress bar is 80
+[Debug] [2025-2-24 21:31:08] progress bar is 85
+[Debug] [2025-2-24 21:31:08] progress bar is 90
+[Debug] [2025-2-24 21:31:08] progress bar is 95
+[Debug] [2025-2-24 21:31:08] progress bar is 100
+[Debug] [2025-2-24 21:31:08] the value in the status register is :2096288
+[Debug] [2025-2-24 21:31:08] cmd operation Program releases locker
+[Debug] [2025-2-24 21:38:37] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:38:37] _total_bytes_size : 101
+[Debug] [2025-2-24 21:38:37] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 21:38:37] Hardware handler is invalid
+[Debug] [2025-2-24 21:38:37] cmd operation Open config cable releases locker
+[Info] [2025-2-24 21:38:44] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 21:38:44] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:38:44] Version: 99559
+[Debug] [2025-2-24 21:38:45] Add a new user_thread, socket descriptor is 1140 user_thread id is 0000000000006580
+[Debug] [2025-2-24 21:38:45] After adding, map size is : 1
+[Debug] [2025-2-24 21:38:45] Add a new user_thread, socket descriptor is 1184 user_thread id is 0000000000006580
+[Debug] [2025-2-24 21:38:45] After adding, map size is : 2
+[Debug] [2025-2-24 21:38:45] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:38:45] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:38:45] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:38:45] _total_bytes_size : 146
+[Debug] [2025-2-24 21:38:45] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:38:45] _total_bytes_size : 96
+[Debug] [2025-2-24 21:38:45] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 21:38:46] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 21:38:46] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:38:46] _total_bytes_size : 101
+[Debug] [2025-2-24 21:38:46] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 21:38:46] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:38:46] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:46] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:46] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:46] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:46] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 21:38:49] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:38:49] _total_bytes_size : 22e
+[Debug] [2025-2-24 21:38:49] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 21:38:49] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:38:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:38:49] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 21:38:49] progress bar is 6
+[Debug] [2025-2-24 21:38:49] progress bar is 10
+[Debug] [2025-2-24 21:38:49] progress bar is 15
+[Debug] [2025-2-24 21:38:49] progress bar is 20
+[Debug] [2025-2-24 21:38:49] progress bar is 25
+[Debug] [2025-2-24 21:38:50] progress bar is 30
+[Debug] [2025-2-24 21:38:50] progress bar is 35
+[Debug] [2025-2-24 21:38:50] progress bar is 40
+[Debug] [2025-2-24 21:38:50] progress bar is 45
+[Debug] [2025-2-24 21:38:50] progress bar is 50
+[Debug] [2025-2-24 21:38:50] progress bar is 55
+[Debug] [2025-2-24 21:38:50] progress bar is 60
+[Debug] [2025-2-24 21:38:50] progress bar is 65
+[Debug] [2025-2-24 21:38:50] progress bar is 70
+[Debug] [2025-2-24 21:38:50] progress bar is 75
+[Debug] [2025-2-24 21:38:50] progress bar is 80
+[Debug] [2025-2-24 21:38:50] progress bar is 85
+[Debug] [2025-2-24 21:38:51] progress bar is 90
+[Debug] [2025-2-24 21:38:51] progress bar is 95
+[Debug] [2025-2-24 21:38:51] progress bar is 100
+[Debug] [2025-2-24 21:38:51] the value in the status register is :2096288
+[Debug] [2025-2-24 21:38:51] cmd operation Program releases locker
+[Info] [2025-2-24 21:40:54] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 21:40:54] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:40:54] Version: 99559
+[Debug] [2025-2-24 21:40:55] Add a new user_thread, socket descriptor is 996 user_thread id is 0000000000006460
+[Debug] [2025-2-24 21:40:55] After adding, map size is : 1
+[Debug] [2025-2-24 21:40:55] Add a new user_thread, socket descriptor is 1160 user_thread id is 0000000000006460
+[Debug] [2025-2-24 21:40:55] After adding, map size is : 2
+[Debug] [2025-2-24 21:40:55] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:40:55] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:40:55] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:40:55] _total_bytes_size : 146
+[Debug] [2025-2-24 21:40:55] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:40:55] _total_bytes_size : 96
+[Debug] [2025-2-24 21:40:55] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 21:40:56] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 21:40:56] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:40:56] _total_bytes_size : 101
+[Debug] [2025-2-24 21:40:56] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 21:40:56] Hardware handler is invalid
+[Debug] [2025-2-24 21:40:56] cmd operation Open config cable releases locker
+[Info] [2025-2-24 21:41:04] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 21:41:04] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:41:04] Version: 99559
+[Debug] [2025-2-24 21:41:05] Add a new user_thread, socket descriptor is 1188 user_thread id is 0000000000006F3C
+[Debug] [2025-2-24 21:41:05] After adding, map size is : 1
+[Debug] [2025-2-24 21:41:05] Add a new user_thread, socket descriptor is 1196 user_thread id is 0000000000006F3C
+[Debug] [2025-2-24 21:41:05] After adding, map size is : 2
+[Debug] [2025-2-24 21:41:05] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:41:05] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:41:05] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:41:05] _total_bytes_size : 146
+[Debug] [2025-2-24 21:41:05] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:41:05] _total_bytes_size : 96
+[Debug] [2025-2-24 21:41:05] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 21:41:06] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 21:41:06] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:41:06] _total_bytes_size : 101
+[Debug] [2025-2-24 21:41:06] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 21:41:06] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:41:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:06] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:06] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 21:41:11] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:41:11] _total_bytes_size : 22e
+[Debug] [2025-2-24 21:41:11] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 21:41:11] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:41:11] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:11] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:11] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:11] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:41:11] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 21:41:11] progress bar is 6
+[Debug] [2025-2-24 21:41:11] progress bar is 10
+[Debug] [2025-2-24 21:41:12] progress bar is 15
+[Debug] [2025-2-24 21:41:12] progress bar is 20
+[Debug] [2025-2-24 21:41:12] progress bar is 25
+[Debug] [2025-2-24 21:41:12] progress bar is 30
+[Debug] [2025-2-24 21:41:12] progress bar is 35
+[Debug] [2025-2-24 21:41:12] progress bar is 40
+[Debug] [2025-2-24 21:41:12] progress bar is 45
+[Debug] [2025-2-24 21:41:12] progress bar is 50
+[Debug] [2025-2-24 21:41:12] progress bar is 55
+[Debug] [2025-2-24 21:41:12] progress bar is 60
+[Debug] [2025-2-24 21:41:12] progress bar is 65
+[Debug] [2025-2-24 21:41:12] progress bar is 70
+[Debug] [2025-2-24 21:41:13] progress bar is 75
+[Debug] [2025-2-24 21:41:13] progress bar is 80
+[Debug] [2025-2-24 21:41:13] progress bar is 85
+[Debug] [2025-2-24 21:41:13] progress bar is 90
+[Debug] [2025-2-24 21:41:13] progress bar is 95
+[Debug] [2025-2-24 21:41:13] progress bar is 100
+[Debug] [2025-2-24 21:41:13] the value in the status register is :2096288
+[Debug] [2025-2-24 21:41:13] cmd operation Program releases locker
+[Info] [2025-2-24 21:42:40] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 21:42:40] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 21:42:40] Version: 99559
+[Debug] [2025-2-24 21:42:41] Add a new user_thread, socket descriptor is 1064 user_thread id is 0000000000005038
+[Debug] [2025-2-24 21:42:41] After adding, map size is : 1
+[Debug] [2025-2-24 21:42:41] Add a new user_thread, socket descriptor is 1184 user_thread id is 0000000000005038
+[Debug] [2025-2-24 21:42:41] After adding, map size is : 2
+[Debug] [2025-2-24 21:42:41] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:42:41] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 21:42:41] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:42:41] _total_bytes_size : 146
+[Debug] [2025-2-24 21:42:41] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:42:41] _total_bytes_size : 96
+[Debug] [2025-2-24 21:42:41] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 21:42:42] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 21:42:42] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:42:42] _total_bytes_size : 101
+[Debug] [2025-2-24 21:42:42] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 21:42:42] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:42:42] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:42] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:42] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:42] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:42] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 21:42:45] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 21:42:45] _total_bytes_size : 22e
+[Debug] [2025-2-24 21:42:45] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 21:42:45] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 21:42:45] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:45] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:45] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:45] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 21:42:45] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 21:42:45] progress bar is 6
+[Debug] [2025-2-24 21:42:46] progress bar is 10
+[Debug] [2025-2-24 21:42:46] progress bar is 15
+[Debug] [2025-2-24 21:42:46] progress bar is 20
+[Debug] [2025-2-24 21:42:46] progress bar is 25
+[Debug] [2025-2-24 21:42:46] progress bar is 30
+[Debug] [2025-2-24 21:42:46] progress bar is 35
+[Debug] [2025-2-24 21:42:46] progress bar is 40
+[Debug] [2025-2-24 21:42:46] progress bar is 45
+[Debug] [2025-2-24 21:42:46] progress bar is 50
+[Debug] [2025-2-24 21:42:46] progress bar is 55
+[Debug] [2025-2-24 21:42:46] progress bar is 60
+[Debug] [2025-2-24 21:42:47] progress bar is 65
+[Debug] [2025-2-24 21:42:47] progress bar is 70
+[Debug] [2025-2-24 21:42:47] progress bar is 75
+[Debug] [2025-2-24 21:42:47] progress bar is 80
+[Debug] [2025-2-24 21:42:47] progress bar is 85
+[Debug] [2025-2-24 21:42:47] progress bar is 90
+[Debug] [2025-2-24 21:42:47] progress bar is 95
+[Debug] [2025-2-24 21:42:47] progress bar is 100
+[Debug] [2025-2-24 21:42:47] the value in the status register is :2096288
+[Debug] [2025-2-24 21:42:47] cmd operation Program releases locker
+[Info] [2025-2-24 22:29:29] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:29:29] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:29:29] Version: 99559
+[Debug] [2025-2-24 22:30:07] Add a new user_thread, socket descriptor is 1056 user_thread id is 0000000000005A38
+[Debug] [2025-2-24 22:30:07] After adding, map size is : 1
+[Debug] [2025-2-24 22:30:07] Add a new user_thread, socket descriptor is 1232 user_thread id is 0000000000005A38
+[Debug] [2025-2-24 22:30:07] After adding, map size is : 2
+[Debug] [2025-2-24 22:30:07] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:30:07] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:30:07] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:30:07] _total_bytes_size : 146
+[Debug] [2025-2-24 22:30:07] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:30:07] _total_bytes_size : 96
+[Debug] [2025-2-24 22:30:07] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:30:32] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:30:32] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:30:32] _total_bytes_size : 101
+[Debug] [2025-2-24 22:30:32] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 22:30:45] the idcode from the scanning is: 0x97fa8afa
+[Debug] [2025-2-24 22:30:45] the idcode from the scanning is: 0xffff8dfa
+[Debug] [2025-2-24 22:30:45] the idcode from the scanning is: 0xffffffff
+[Debug] [2025-2-24 22:30:45] the idcode from the scanning is: 0xffffffff
+[Debug] [2025-2-24 22:30:45] the idcode from the scanning is: 0xffffffff
+[Debug] [2025-2-24 22:30:45] cmd operation Open config cable releases locker
+[Info] [2025-2-24 22:31:58] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:31:58] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:31:58] Version: 99559
+[Info] [2025-2-24 22:32:27] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:32:27] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:32:27] Version: 99559
+[Info] [2025-2-24 22:32:56] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:32:56] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:32:56] Version: 99559
+[Info] [2025-2-24 22:32:56] /***************************End jtagserver*****************************/
+[Info] [2025-2-24 22:33:08] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:33:08] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:33:08] Version: 99559
+[Info] [2025-2-24 22:33:44] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:33:44] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:33:44] Version: 99559
+[Info] [2025-2-24 22:34:03] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:34:03] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:34:03] Version: 99559
+[Debug] [2025-2-24 22:34:14] Add a new user_thread, socket descriptor is 1336 user_thread id is 0000000000006984
+[Debug] [2025-2-24 22:34:14] After adding, map size is : 1
+[Debug] [2025-2-24 22:34:14] Add a new user_thread, socket descriptor is 1128 user_thread id is 0000000000006984
+[Debug] [2025-2-24 22:34:14] After adding, map size is : 2
+[Debug] [2025-2-24 22:34:14] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:34:14] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:34:14] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:14] _total_bytes_size : 146
+[Debug] [2025-2-24 22:34:14] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:14] _total_bytes_size : 96
+[Debug] [2025-2-24 22:34:14] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:34:15] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:34:15] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:15] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:15] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:15] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:15] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:34:16] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:16] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:16] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:16] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:16] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:34:17] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:17] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:17] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:17] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:17] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:34:18] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:18] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:18] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:18] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:18] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:34:18] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:18] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:18] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:18] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:18] cmd operation Open config cable releases locker
+[Info] [2025-2-24 22:34:24] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:34:24] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:34:24] Version: 99559
+[Debug] [2025-2-24 22:34:25] Add a new user_thread, socket descriptor is 1252 user_thread id is 00000000000077DC
+[Debug] [2025-2-24 22:34:25] After adding, map size is : 1
+[Debug] [2025-2-24 22:34:25] Add a new user_thread, socket descriptor is 1236 user_thread id is 00000000000077DC
+[Debug] [2025-2-24 22:34:25] After adding, map size is : 2
+[Debug] [2025-2-24 22:34:25] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:34:25] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:34:25] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:25] _total_bytes_size : 146
+[Debug] [2025-2-24 22:34:25] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:25] _total_bytes_size : 96
+[Debug] [2025-2-24 22:34:25] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:34:26] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:34:26] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:26] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:26] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:26] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:26] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:34:30] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:34:30] _total_bytes_size : 101
+[Debug] [2025-2-24 22:34:30] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:34:30] Hardware handler is invalid
+[Debug] [2025-2-24 22:34:30] cmd operation Open config cable releases locker
+[Info] [2025-2-24 22:40:44] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:40:44] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:40:44] Version: 99559
+[Info] [2025-2-24 22:41:05] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:41:05] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:41:05] Version: 99559
+[Debug] [2025-2-24 22:41:06] Add a new user_thread, socket descriptor is 1272 user_thread id is 0000000000007B3C
+[Debug] [2025-2-24 22:41:06] After adding, map size is : 1
+[Debug] [2025-2-24 22:41:06] Add a new user_thread, socket descriptor is 1280 user_thread id is 0000000000007B3C
+[Debug] [2025-2-24 22:41:06] After adding, map size is : 2
+[Debug] [2025-2-24 22:41:06] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:41:06] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:41:06] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:06] _total_bytes_size : 146
+[Debug] [2025-2-24 22:41:06] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:06] _total_bytes_size : 96
+[Debug] [2025-2-24 22:41:06] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:41:07] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:41:07] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:07] _total_bytes_size : 101
+[Debug] [2025-2-24 22:41:07] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:41:07] Hardware handler is invalid
+[Debug] [2025-2-24 22:41:07] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:41:11] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:11] _total_bytes_size : 101
+[Debug] [2025-2-24 22:41:11] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:41:11] Hardware handler is invalid
+[Debug] [2025-2-24 22:41:11] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:41:11] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:11] _total_bytes_size : 101
+[Debug] [2025-2-24 22:41:11] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:41:11] Hardware handler is invalid
+[Debug] [2025-2-24 22:41:11] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:41:11] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:11] _total_bytes_size : 101
+[Debug] [2025-2-24 22:41:11] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:41:11] Hardware handler is invalid
+[Debug] [2025-2-24 22:41:11] cmd operation Open config cable releases locker
+[Info] [2025-2-24 22:41:30] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:41:30] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:41:30] Version: 99559
+[Debug] [2025-2-24 22:41:31] Add a new user_thread, socket descriptor is 1268 user_thread id is 0000000000007300
+[Debug] [2025-2-24 22:41:31] After adding, map size is : 1
+[Debug] [2025-2-24 22:41:31] Add a new user_thread, socket descriptor is 1236 user_thread id is 0000000000007300
+[Debug] [2025-2-24 22:41:31] After adding, map size is : 2
+[Debug] [2025-2-24 22:41:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:41:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:41:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:31] _total_bytes_size : 146
+[Debug] [2025-2-24 22:41:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:31] _total_bytes_size : 96
+[Debug] [2025-2-24 22:41:31] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:41:32] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:41:32] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:41:32] _total_bytes_size : 101
+[Debug] [2025-2-24 22:41:32] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:41:32] Hardware handler is invalid
+[Debug] [2025-2-24 22:41:32] cmd operation Open config cable releases locker
+[Info] [2025-2-24 22:42:34] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:42:34] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:42:34] Version: 99559
+[Debug] [2025-2-24 22:42:34] Add a new user_thread, socket descriptor is 1016 user_thread id is 0000000000005E10
+[Debug] [2025-2-24 22:42:34] After adding, map size is : 1
+[Debug] [2025-2-24 22:42:34] Add a new user_thread, socket descriptor is 1164 user_thread id is 0000000000005E10
+[Debug] [2025-2-24 22:42:34] After adding, map size is : 2
+[Debug] [2025-2-24 22:42:34] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:42:34] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:42:34] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:42:34] _total_bytes_size : 146
+[Debug] [2025-2-24 22:42:34] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:42:34] _total_bytes_size : 96
+[Debug] [2025-2-24 22:42:34] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:42:35] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:42:35] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:42:35] _total_bytes_size : 101
+[Debug] [2025-2-24 22:42:35] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 22:42:35] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:42:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:42:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:42:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:42:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:42:36] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:42:57] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:42:57] _total_bytes_size : 22e
+[Debug] [2025-2-24 22:42:57] cmd id :4e22cmd name : Program
+[Error] [2025-2-24 22:43:10] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Error] [2025-2-24 22:43:22] E:CM Error: Current cable list empty, try to update current available cable list!. In function cdt_cable_manager::CableManager::Obtain at line 902 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CableManager.cpp compiled at Jun 16 2022.
+[Debug] [2025-2-24 22:43:23] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:43:23] _total_bytes_size : 5c
+[Debug] [2025-2-24 22:43:23] cmd id :9c46cmd name : Abort Process
+[Debug] [2025-2-24 22:43:27] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:43:27] _total_bytes_size : 5c
+[Debug] [2025-2-24 22:43:27] cmd id :9c46cmd name : Abort Process
+[Info] [2025-2-24 22:43:34] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:43:34] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:43:34] Version: 99559
+[Debug] [2025-2-24 22:44:12] Add a new user_thread, socket descriptor is 1552 user_thread id is 0000000000005458
+[Debug] [2025-2-24 22:44:12] After adding, map size is : 1
+[Debug] [2025-2-24 22:44:12] Add a new user_thread, socket descriptor is 1560 user_thread id is 0000000000005458
+[Debug] [2025-2-24 22:44:12] After adding, map size is : 2
+[Debug] [2025-2-24 22:44:12] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:44:12] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:44:12] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:44:12] _total_bytes_size : 146
+[Debug] [2025-2-24 22:44:12] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:44:12] _total_bytes_size : 96
+[Debug] [2025-2-24 22:44:12] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:44:38] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:44:38] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:44:38] _total_bytes_size : 101
+[Debug] [2025-2-24 22:44:38] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:44:38] Hardware handler is invalid
+[Debug] [2025-2-24 22:44:38] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:45:35] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:45:35] _total_bytes_size : 101
+[Debug] [2025-2-24 22:45:35] cmd id :20001cmd name : Open config cable
+[Error] [2025-2-24 22:45:35] Hardware handler is invalid
+[Debug] [2025-2-24 22:45:35] cmd operation Open config cable releases locker
+[Info] [2025-2-24 22:45:47] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:45:47] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:45:47] Version: 99559
+[Debug] [2025-2-24 22:45:47] Add a new user_thread, socket descriptor is 1156 user_thread id is 000000000000571C
+[Debug] [2025-2-24 22:45:47] After adding, map size is : 1
+[Debug] [2025-2-24 22:45:47] Add a new user_thread, socket descriptor is 1192 user_thread id is 000000000000571C
+[Debug] [2025-2-24 22:45:47] After adding, map size is : 2
+[Debug] [2025-2-24 22:45:47] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:45:47] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:45:47] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:45:47] _total_bytes_size : 146
+[Debug] [2025-2-24 22:45:47] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:45:47] _total_bytes_size : 96
+[Debug] [2025-2-24 22:45:47] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:45:48] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:45:48] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:45:48] _total_bytes_size : 101
+[Debug] [2025-2-24 22:45:48] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 22:45:49] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:45:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:49] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:49] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:45:52] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:45:52] _total_bytes_size : 22e
+[Debug] [2025-2-24 22:45:52] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 22:45:52] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:45:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:45:52] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 22:45:52] progress bar is 6
+[Debug] [2025-2-24 22:45:52] progress bar is 10
+[Debug] [2025-2-24 22:45:52] progress bar is 15
+[Debug] [2025-2-24 22:45:52] progress bar is 20
+[Debug] [2025-2-24 22:45:52] progress bar is 25
+[Debug] [2025-2-24 22:45:52] progress bar is 30
+[Debug] [2025-2-24 22:45:52] progress bar is 35
+[Debug] [2025-2-24 22:45:53] progress bar is 40
+[Debug] [2025-2-24 22:45:53] progress bar is 45
+[Debug] [2025-2-24 22:45:53] progress bar is 50
+[Debug] [2025-2-24 22:45:53] progress bar is 55
+[Debug] [2025-2-24 22:45:53] progress bar is 60
+[Debug] [2025-2-24 22:45:53] progress bar is 65
+[Debug] [2025-2-24 22:45:53] progress bar is 70
+[Debug] [2025-2-24 22:45:53] progress bar is 75
+[Debug] [2025-2-24 22:45:53] progress bar is 80
+[Debug] [2025-2-24 22:45:53] progress bar is 85
+[Debug] [2025-2-24 22:45:53] progress bar is 90
+[Debug] [2025-2-24 22:45:54] progress bar is 95
+[Debug] [2025-2-24 22:45:54] progress bar is 100
+[Debug] [2025-2-24 22:45:54] the value in the status register is :2096288
+[Debug] [2025-2-24 22:45:54] cmd operation Program releases locker
+[Info] [2025-2-24 22:50:13] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 22:50:13] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 22:50:13] Version: 99559
+[Debug] [2025-2-24 22:50:14] Add a new user_thread, socket descriptor is 1164 user_thread id is 0000000000006E10
+[Debug] [2025-2-24 22:50:14] After adding, map size is : 1
+[Debug] [2025-2-24 22:50:14] Add a new user_thread, socket descriptor is 1172 user_thread id is 0000000000006E10
+[Debug] [2025-2-24 22:50:14] After adding, map size is : 2
+[Debug] [2025-2-24 22:50:14] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 22:50:14] 
+[Debug] [2025-2-24 22:50:14] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:50:14] _total_bytes_size : 146
+[Debug] [2025-2-24 22:50:14] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:50:14] _total_bytes_size : 96
+[Debug] [2025-2-24 22:50:14] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 22:50:15] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 22:50:15] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:50:15] _total_bytes_size : 101
+[Debug] [2025-2-24 22:50:15] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 22:50:15] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:50:15] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:15] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:15] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:15] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:15] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 22:50:18] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:50:18] _total_bytes_size : 22e
+[Debug] [2025-2-24 22:50:18] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 22:50:18] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:50:18] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:18] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:18] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:18] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:50:18] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 22:50:18] progress bar is 6
+[Debug] [2025-2-24 22:50:18] progress bar is 10
+[Debug] [2025-2-24 22:50:18] progress bar is 15
+[Debug] [2025-2-24 22:50:18] progress bar is 20
+[Debug] [2025-2-24 22:50:18] progress bar is 25
+[Debug] [2025-2-24 22:50:18] progress bar is 30
+[Debug] [2025-2-24 22:50:19] progress bar is 35
+[Debug] [2025-2-24 22:50:19] progress bar is 40
+[Debug] [2025-2-24 22:50:19] progress bar is 45
+[Debug] [2025-2-24 22:50:19] progress bar is 50
+[Debug] [2025-2-24 22:50:19] progress bar is 55
+[Debug] [2025-2-24 22:50:19] progress bar is 60
+[Debug] [2025-2-24 22:50:19] progress bar is 65
+[Debug] [2025-2-24 22:50:19] progress bar is 70
+[Debug] [2025-2-24 22:50:19] progress bar is 75
+[Debug] [2025-2-24 22:50:19] progress bar is 80
+[Debug] [2025-2-24 22:50:19] progress bar is 85
+[Debug] [2025-2-24 22:50:19] progress bar is 90
+[Debug] [2025-2-24 22:50:20] progress bar is 95
+[Debug] [2025-2-24 22:50:20] progress bar is 100
+[Debug] [2025-2-24 22:50:20] the value in the status register is :2096288
+[Debug] [2025-2-24 22:50:20] cmd operation Program releases locker
+[Debug] [2025-2-24 22:51:28] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:51:28] _total_bytes_size : 558
+[Debug] [2025-2-24 22:51:28] cmd id :20002cmd name : Program
+[Debug] [2025-2-24 22:51:28] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:51:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:28] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 22:51:28] progress bar is 6
+[Debug] [2025-2-24 22:51:28] progress bar is 10
+[Debug] [2025-2-24 22:51:28] progress bar is 15
+[Debug] [2025-2-24 22:51:28] progress bar is 20
+[Debug] [2025-2-24 22:51:29] progress bar is 25
+[Debug] [2025-2-24 22:51:29] progress bar is 30
+[Debug] [2025-2-24 22:51:29] progress bar is 35
+[Debug] [2025-2-24 22:51:29] progress bar is 40
+[Debug] [2025-2-24 22:51:29] progress bar is 45
+[Debug] [2025-2-24 22:51:29] progress bar is 50
+[Debug] [2025-2-24 22:51:29] progress bar is 55
+[Debug] [2025-2-24 22:51:29] progress bar is 60
+[Debug] [2025-2-24 22:51:29] progress bar is 65
+[Debug] [2025-2-24 22:51:29] progress bar is 70
+[Debug] [2025-2-24 22:51:29] progress bar is 75
+[Debug] [2025-2-24 22:51:30] progress bar is 80
+[Debug] [2025-2-24 22:51:30] progress bar is 85
+[Debug] [2025-2-24 22:51:30] progress bar is 90
+[Debug] [2025-2-24 22:51:30] progress bar is 95
+[Debug] [2025-2-24 22:51:30] progress bar is 100
+[Debug] [2025-2-24 22:51:30] the value in the status register is :2096288
+[Debug] [2025-2-24 22:51:30] cmd operation Program releases locker
+[Debug] [2025-2-24 22:51:52] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 22:51:52] _total_bytes_size : 558
+[Debug] [2025-2-24 22:51:52] cmd id :20002cmd name : Program
+[Debug] [2025-2-24 22:51:52] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 22:51:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:52] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 22:51:52] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 22:51:52] progress bar is 6
+[Debug] [2025-2-24 22:51:52] progress bar is 10
+[Debug] [2025-2-24 22:51:52] progress bar is 15
+[Debug] [2025-2-24 22:51:52] progress bar is 20
+[Debug] [2025-2-24 22:51:52] progress bar is 25
+[Debug] [2025-2-24 22:51:52] progress bar is 30
+[Debug] [2025-2-24 22:51:53] progress bar is 35
+[Debug] [2025-2-24 22:51:53] progress bar is 40
+[Debug] [2025-2-24 22:51:53] progress bar is 45
+[Debug] [2025-2-24 22:51:53] progress bar is 50
+[Debug] [2025-2-24 22:51:53] progress bar is 55
+[Debug] [2025-2-24 22:51:53] progress bar is 60
+[Debug] [2025-2-24 22:51:53] progress bar is 65
+[Debug] [2025-2-24 22:51:53] progress bar is 70
+[Debug] [2025-2-24 22:51:53] progress bar is 75
+[Debug] [2025-2-24 22:51:53] progress bar is 80
+[Debug] [2025-2-24 22:51:53] progress bar is 85
+[Debug] [2025-2-24 22:51:54] progress bar is 90
+[Debug] [2025-2-24 22:51:54] progress bar is 95
+[Debug] [2025-2-24 22:51:54] progress bar is 100
+[Debug] [2025-2-24 22:51:54] the value in the status register is :2096288
+[Debug] [2025-2-24 22:51:54] cmd operation Program releases locker
+[Info] [2025-2-24 23:03:23] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 23:03:23] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:03:23] Version: 99559
+[Debug] [2025-2-24 23:03:23] Add a new user_thread, socket descriptor is 1216 user_thread id is 00000000000076B0
+[Debug] [2025-2-24 23:03:23] After adding, map size is : 1
+[Debug] [2025-2-24 23:03:23] Add a new user_thread, socket descriptor is 1236 user_thread id is 00000000000076B0
+[Debug] [2025-2-24 23:03:23] After adding, map size is : 2
+[Debug] [2025-2-24 23:03:23] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:03:23] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:03:23] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:03:23] _total_bytes_size : 146
+[Debug] [2025-2-24 23:03:23] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:03:23] _total_bytes_size : 96
+[Debug] [2025-2-24 23:03:23] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 23:03:24] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 23:03:24] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:03:24] _total_bytes_size : 101
+[Debug] [2025-2-24 23:03:24] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 23:03:24] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:03:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:24] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:24] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 23:03:27] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:03:27] _total_bytes_size : 22e
+[Debug] [2025-2-24 23:03:27] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 23:03:28] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:03:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:28] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:03:28] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 23:03:28] progress bar is 6
+[Debug] [2025-2-24 23:03:28] progress bar is 10
+[Debug] [2025-2-24 23:03:28] progress bar is 15
+[Debug] [2025-2-24 23:03:28] progress bar is 20
+[Debug] [2025-2-24 23:03:28] progress bar is 25
+[Debug] [2025-2-24 23:03:28] progress bar is 30
+[Debug] [2025-2-24 23:03:28] progress bar is 35
+[Debug] [2025-2-24 23:03:28] progress bar is 40
+[Debug] [2025-2-24 23:03:28] progress bar is 45
+[Debug] [2025-2-24 23:03:29] progress bar is 50
+[Debug] [2025-2-24 23:03:29] progress bar is 55
+[Debug] [2025-2-24 23:03:29] progress bar is 60
+[Debug] [2025-2-24 23:03:29] progress bar is 65
+[Debug] [2025-2-24 23:03:29] progress bar is 70
+[Debug] [2025-2-24 23:03:29] progress bar is 75
+[Debug] [2025-2-24 23:03:29] progress bar is 80
+[Debug] [2025-2-24 23:03:29] progress bar is 85
+[Debug] [2025-2-24 23:03:29] progress bar is 90
+[Debug] [2025-2-24 23:03:29] progress bar is 95
+[Debug] [2025-2-24 23:03:29] progress bar is 100
+[Debug] [2025-2-24 23:03:29] the value in the status register is :2096288
+[Debug] [2025-2-24 23:03:30] cmd operation Program releases locker
+[Debug] [2025-2-24 23:10:57] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:10:57] _total_bytes_size : 558
+[Debug] [2025-2-24 23:10:57] cmd id :20002cmd name : Program
+[Debug] [2025-2-24 23:11:00] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:11:00] _total_bytes_size : 92
+[Debug] [2025-2-24 23:11:00] cmd id :40006cmd name : Abort Process
+[Info] [2025-2-24 23:11:06] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 23:11:06] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:11:06] Version: 99559
+[Info] [2025-2-24 23:13:30] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 23:13:30] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:13:30] Version: 99559
+[Debug] [2025-2-24 23:13:31] Add a new user_thread, socket descriptor is 1144 user_thread id is 0000000000007124
+[Debug] [2025-2-24 23:13:31] After adding, map size is : 1
+[Debug] [2025-2-24 23:13:31] Add a new user_thread, socket descriptor is 1036 user_thread id is 0000000000007124
+[Debug] [2025-2-24 23:13:31] After adding, map size is : 2
+[Debug] [2025-2-24 23:13:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:13:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:13:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:13:31] _total_bytes_size : 146
+[Debug] [2025-2-24 23:13:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:13:31] _total_bytes_size : 96
+[Debug] [2025-2-24 23:13:31] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 23:13:32] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 23:13:32] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:13:32] _total_bytes_size : 101
+[Debug] [2025-2-24 23:13:32] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 23:13:32] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:13:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:32] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 23:13:35] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:13:35] _total_bytes_size : 22e
+[Debug] [2025-2-24 23:13:35] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 23:13:35] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:13:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:35] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:13:35] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 23:13:35] progress bar is 6
+[Debug] [2025-2-24 23:13:35] progress bar is 10
+[Debug] [2025-2-24 23:13:35] progress bar is 15
+[Debug] [2025-2-24 23:13:35] progress bar is 20
+[Debug] [2025-2-24 23:13:35] progress bar is 25
+[Debug] [2025-2-24 23:13:36] progress bar is 30
+[Debug] [2025-2-24 23:13:36] progress bar is 35
+[Debug] [2025-2-24 23:13:36] progress bar is 40
+[Debug] [2025-2-24 23:13:36] progress bar is 45
+[Debug] [2025-2-24 23:13:36] progress bar is 50
+[Debug] [2025-2-24 23:13:36] progress bar is 55
+[Debug] [2025-2-24 23:13:36] progress bar is 60
+[Debug] [2025-2-24 23:13:36] progress bar is 65
+[Debug] [2025-2-24 23:13:36] progress bar is 70
+[Debug] [2025-2-24 23:13:36] progress bar is 75
+[Debug] [2025-2-24 23:13:36] progress bar is 80
+[Debug] [2025-2-24 23:13:36] progress bar is 85
+[Debug] [2025-2-24 23:13:37] progress bar is 90
+[Debug] [2025-2-24 23:13:37] progress bar is 95
+[Debug] [2025-2-24 23:13:37] progress bar is 100
+[Debug] [2025-2-24 23:13:37] the value in the status register is :2096288
+[Debug] [2025-2-24 23:13:37] cmd operation Program releases locker
+[Info] [2025-2-24 23:15:38] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 23:15:38] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:15:38] Version: 99559
+[Debug] [2025-2-24 23:15:38] Add a new user_thread, socket descriptor is 1172 user_thread id is 0000000000005420
+[Debug] [2025-2-24 23:15:38] After adding, map size is : 1
+[Debug] [2025-2-24 23:15:38] Add a new user_thread, socket descriptor is 1204 user_thread id is 0000000000005420
+[Debug] [2025-2-24 23:15:38] After adding, map size is : 2
+[Debug] [2025-2-24 23:15:38] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:15:38] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:15:38] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:15:38] _total_bytes_size : 146
+[Debug] [2025-2-24 23:15:38] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:15:38] _total_bytes_size : 96
+[Debug] [2025-2-24 23:15:38] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 23:15:39] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 23:15:39] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:15:39] _total_bytes_size : 101
+[Debug] [2025-2-24 23:15:39] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 23:15:39] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:15:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:40] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 23:15:42] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:15:42] _total_bytes_size : 22e
+[Debug] [2025-2-24 23:15:42] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 23:15:43] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:15:43] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:43] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:43] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:43] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:15:43] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 23:15:43] progress bar is 6
+[Debug] [2025-2-24 23:15:43] progress bar is 10
+[Debug] [2025-2-24 23:15:43] progress bar is 15
+[Debug] [2025-2-24 23:15:43] progress bar is 20
+[Debug] [2025-2-24 23:15:43] progress bar is 25
+[Debug] [2025-2-24 23:15:43] progress bar is 30
+[Debug] [2025-2-24 23:15:43] progress bar is 35
+[Debug] [2025-2-24 23:15:43] progress bar is 40
+[Debug] [2025-2-24 23:15:43] progress bar is 45
+[Debug] [2025-2-24 23:15:44] progress bar is 50
+[Debug] [2025-2-24 23:15:44] progress bar is 55
+[Debug] [2025-2-24 23:15:44] progress bar is 60
+[Debug] [2025-2-24 23:15:44] progress bar is 65
+[Debug] [2025-2-24 23:15:44] progress bar is 70
+[Debug] [2025-2-24 23:15:44] progress bar is 75
+[Debug] [2025-2-24 23:15:44] progress bar is 80
+[Debug] [2025-2-24 23:15:44] progress bar is 85
+[Debug] [2025-2-24 23:15:44] progress bar is 90
+[Debug] [2025-2-24 23:15:44] progress bar is 95
+[Debug] [2025-2-24 23:15:44] progress bar is 100
+[Debug] [2025-2-24 23:15:44] the value in the status register is :2096288
+[Debug] [2025-2-24 23:15:44] cmd operation Program releases locker
+[Debug] [2025-2-24 23:18:10] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:18:10] _total_bytes_size : 558
+[Debug] [2025-2-24 23:18:10] cmd id :20002cmd name : Program
+[Debug] [2025-2-24 23:18:10] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:18:10] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:18:10] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:18:10] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:18:10] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:18:10] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 23:18:11] progress bar is 6
+[Debug] [2025-2-24 23:18:11] progress bar is 10
+[Debug] [2025-2-24 23:18:11] progress bar is 15
+[Debug] [2025-2-24 23:18:11] progress bar is 20
+[Debug] [2025-2-24 23:18:11] progress bar is 25
+[Debug] [2025-2-24 23:18:11] progress bar is 30
+[Debug] [2025-2-24 23:18:11] progress bar is 35
+[Debug] [2025-2-24 23:18:11] progress bar is 40
+[Debug] [2025-2-24 23:18:11] progress bar is 45
+[Debug] [2025-2-24 23:18:11] progress bar is 50
+[Debug] [2025-2-24 23:18:11] progress bar is 55
+[Debug] [2025-2-24 23:18:12] progress bar is 60
+[Debug] [2025-2-24 23:18:12] progress bar is 65
+[Debug] [2025-2-24 23:18:12] progress bar is 70
+[Debug] [2025-2-24 23:18:12] progress bar is 75
+[Debug] [2025-2-24 23:18:12] progress bar is 80
+[Debug] [2025-2-24 23:18:12] progress bar is 85
+[Debug] [2025-2-24 23:18:12] progress bar is 90
+[Debug] [2025-2-24 23:18:12] progress bar is 95
+[Debug] [2025-2-24 23:18:12] progress bar is 100
+[Debug] [2025-2-24 23:18:12] the value in the status register is :2096288
+[Debug] [2025-2-24 23:18:12] cmd operation Program releases locker
+[Info] [2025-2-24 23:20:31] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 23:20:31] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:20:31] Version: 99559
+[Debug] [2025-2-24 23:20:31] Add a new user_thread, socket descriptor is 1224 user_thread id is 00000000000018BC
+[Debug] [2025-2-24 23:20:31] After adding, map size is : 1
+[Debug] [2025-2-24 23:20:31] Add a new user_thread, socket descriptor is 1260 user_thread id is 00000000000018BC
+[Debug] [2025-2-24 23:20:31] After adding, map size is : 2
+[Debug] [2025-2-24 23:20:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:20:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:20:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:20:31] _total_bytes_size : 146
+[Debug] [2025-2-24 23:20:31] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:20:31] _total_bytes_size : 96
+[Debug] [2025-2-24 23:20:31] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 23:20:32] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 23:20:32] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:20:32] _total_bytes_size : 101
+[Debug] [2025-2-24 23:20:32] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 23:20:32] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:20:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:32] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:32] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 23:20:34] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:20:34] _total_bytes_size : 22e
+[Debug] [2025-2-24 23:20:34] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 23:20:34] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:20:34] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:34] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:34] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:34] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:20:34] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 23:20:35] progress bar is 6
+[Debug] [2025-2-24 23:20:35] progress bar is 10
+[Debug] [2025-2-24 23:20:35] progress bar is 15
+[Debug] [2025-2-24 23:20:35] progress bar is 20
+[Debug] [2025-2-24 23:20:35] progress bar is 25
+[Debug] [2025-2-24 23:20:35] progress bar is 30
+[Debug] [2025-2-24 23:20:35] progress bar is 35
+[Debug] [2025-2-24 23:20:35] progress bar is 40
+[Debug] [2025-2-24 23:20:35] progress bar is 45
+[Debug] [2025-2-24 23:20:35] progress bar is 50
+[Debug] [2025-2-24 23:20:35] progress bar is 55
+[Debug] [2025-2-24 23:20:35] progress bar is 60
+[Debug] [2025-2-24 23:20:36] progress bar is 65
+[Debug] [2025-2-24 23:20:36] progress bar is 70
+[Debug] [2025-2-24 23:20:36] progress bar is 75
+[Debug] [2025-2-24 23:20:36] progress bar is 80
+[Debug] [2025-2-24 23:20:36] progress bar is 85
+[Debug] [2025-2-24 23:20:36] progress bar is 90
+[Debug] [2025-2-24 23:20:36] progress bar is 95
+[Debug] [2025-2-24 23:20:36] progress bar is 100
+[Debug] [2025-2-24 23:20:36] the value in the status register is :2096288
+[Debug] [2025-2-24 23:20:36] cmd operation Program releases locker
+[Info] [2025-2-24 23:22:35] /***************************Start jtagserver***************************/
+[Info] [2025-2-24 23:22:35] Path: H:/PANGO_EDA/PDS_2022.1/bin
+[Info] [2025-2-24 23:22:35] Version: 99559
+[Debug] [2025-2-24 23:22:36] Add a new user_thread, socket descriptor is 1048 user_thread id is 0000000000002F98
+[Debug] [2025-2-24 23:22:36] After adding, map size is : 1
+[Debug] [2025-2-24 23:22:36] Add a new user_thread, socket descriptor is 1052 user_thread id is 0000000000002F98
+[Debug] [2025-2-24 23:22:36] After adding, map size is : 2
+[Debug] [2025-2-24 23:22:36] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:22:36] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2025-2-24 23:22:36] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:22:36] _total_bytes_size : 146
+[Debug] [2025-2-24 23:22:36] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:22:36] _total_bytes_size : 96
+[Debug] [2025-2-24 23:22:36] cmd id :40011cmd name : get_cable_paras
+[Debug] [2025-2-24 23:22:37] cmd operation get_cable_paras releases locker
+[Debug] [2025-2-24 23:22:37] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:22:37] _total_bytes_size : 101
+[Debug] [2025-2-24 23:22:37] cmd id :20001cmd name : Open config cable
+[Debug] [2025-2-24 23:22:37] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:22:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:37] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:37] cmd operation Open config cable releases locker
+[Debug] [2025-2-24 23:22:39] Remove the header data from the client, index : 0
+[Debug] [2025-2-24 23:22:39] _total_bytes_size : 22e
+[Debug] [2025-2-24 23:22:39] cmd id :4e22cmd name : Program
+[Debug] [2025-2-24 23:22:39] the idcode from the scanning is: 0x10521899
+[Debug] [2025-2-24 23:22:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:39] the idcode from the scanning is: 0x0
+[Debug] [2025-2-24 23:22:39] begin to read back config registerregAddr is 4
+[Debug] [2025-2-24 23:22:39] progress bar is 6
+[Debug] [2025-2-24 23:22:39] progress bar is 10
+[Debug] [2025-2-24 23:22:39] progress bar is 15
+[Debug] [2025-2-24 23:22:39] progress bar is 20
+[Debug] [2025-2-24 23:22:40] progress bar is 25
+[Debug] [2025-2-24 23:22:40] progress bar is 30
+[Debug] [2025-2-24 23:22:40] progress bar is 35
+[Debug] [2025-2-24 23:22:40] progress bar is 40
+[Debug] [2025-2-24 23:22:40] progress bar is 45
+[Debug] [2025-2-24 23:22:40] progress bar is 50
+[Debug] [2025-2-24 23:22:40] progress bar is 55
+[Debug] [2025-2-24 23:22:40] progress bar is 60
+[Debug] [2025-2-24 23:22:40] progress bar is 65
+[Debug] [2025-2-24 23:22:40] progress bar is 70
+[Debug] [2025-2-24 23:22:40] progress bar is 75
+[Debug] [2025-2-24 23:22:40] progress bar is 80
+[Debug] [2025-2-24 23:22:41] progress bar is 85
+[Debug] [2025-2-24 23:22:41] progress bar is 90
+[Debug] [2025-2-24 23:22:41] progress bar is 95
+[Debug] [2025-2-24 23:22:41] progress bar is 100
+[Debug] [2025-2-24 23:22:41] the value in the status register is :2096288
+[Debug] [2025-2-24 23:22:41] cmd operation Program releases locker
