@@ -1,0 +1,52 @@
+
+Inputs and Outputs :
++--------------------------------------------------------------------------------------+
+| Type       | File Name                                                              
++--------------------------------------------------------------------------------------+
+| Input      | H:/PANGO_EDA/my_project/briey_ddr.v                                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/ipcore/DDR3_briey/DDR3_briey.idf     
+| Output     | H:/PANGO_EDA/my_project/ddr_briey/synthesize/snr.db                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/synthesize/synplify.log              
++--------------------------------------------------------------------------------------+
+
+
+Flow Command: synthesize -include_path {H:/PANGO_EDA/my_project/ddr_briey} -selected_syn_tool_opt 1 -top_module Briey
+
+Inputs and Outputs :
++--------------------------------------------------------------------------------------+
+| Type       | File Name                                                              
++--------------------------------------------------------------------------------------+
+| Input      | H:/PANGO_EDA/my_project/briey_ddr.v                                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/ipcore/DDR3_briey/DDR3_briey.idf     
+| Output     | H:/PANGO_EDA/my_project/ddr_briey/synthesize/snr.db                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/synthesize/synplify.log              
++--------------------------------------------------------------------------------------+
+
+
+Flow Command: synthesize -include_path {H:/PANGO_EDA/my_project/ddr_briey} -selected_syn_tool_opt 1 -top_module Briey
+
+Inputs and Outputs :
++--------------------------------------------------------------------------------------+
+| Type       | File Name                                                              
++--------------------------------------------------------------------------------------+
+| Input      | H:/PANGO_EDA/my_project/briey_ddr.v                                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/ipcore/DDR3_briey/DDR3_briey.idf     
+| Output     | H:/PANGO_EDA/my_project/ddr_briey/synthesize/snr.db                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/synthesize/synplify.log              
++--------------------------------------------------------------------------------------+
+
+
+Flow Command: synthesize -include_path {H:/PANGO_EDA/my_project/ddr_briey} -selected_syn_tool_opt 1 -top_module Briey
+
+Inputs and Outputs :
++--------------------------------------------------------------------------------------+
+| Type       | File Name                                                              
++--------------------------------------------------------------------------------------+
+| Input      | H:/PANGO_EDA/my_project/briey_ddr.v                                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/ipcore/DDR3_briey/DDR3_briey.idf     
+| Output     | H:/PANGO_EDA/my_project/ddr_briey/synthesize/snr.db                    
+|            | H:/PANGO_EDA/my_project/ddr_briey/synthesize/synplify.log              
++--------------------------------------------------------------------------------------+
+
+
+Flow Command: synthesize -include_path {H:/PANGO_EDA/my_project/ddr_briey} -selected_syn_tool_opt 1 -top_module Briey

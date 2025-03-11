@@ -1,0 +1,210 @@
+Clock Regions-Block Scope:
++--------------------------------------------------------------------------+
+| (X0,Y*): (Xmin,Xmax,Ymin,Ymax)     | (X1,Y*): (Xmin,Xmax,Ymin,Ymax)     
++--------------------------------------------------------------------------+
+| (X0,Y2): (0,79,61,91)              | (X1,Y2): (80,165,61,91)            
+| (X0,Y1): (0,79,31,60)              | (X1,Y1): (80,165,31,60)            
+| (X0,Y0): (0,79,0,30)               | (X1,Y0): (80,165,0,30)             
++--------------------------------------------------------------------------+
+
+Clock Regions-Clock Primitives:
++--------------------------------------------------------------------------------------------------------------------------------------+
+| Clock Region Name     | CLK PAD     | PLL PAD     | RCKB     | IOCKGATE     | IOCKDIV     | CLMA     | CLMS     | DRM     | APM     
++--------------------------------------------------------------------------------------------------------------------------------------+
+| (X0,Y0)               | 2           | 2           | 4        | 4            | 4           | 1120     | 714      | 24      | 10      
+| (X0,Y1)               | 8           | 8           | 4        | 2            | 2           | 1040     | 680      | 21      | 10      
+| (X0,Y2)               | 0           | 0           | 4        | 4            | 4           | 817      | 561      | 19      | 7       
+| (X1,Y0)               | 6           | 6           | 4        | 4            | 4           | 1189     | 783      | 24      | 20      
+| (X1,Y1)               | 8           | 8           | 4        | 2            | 2           | 1230     | 810      | 24      | 20      
+| (X1,Y2)               | 8           | 8           | 4        | 4            | 4           | 1054     | 702      | 22      | 17      
++--------------------------------------------------------------------------------------------------------------------------------------+
+
+Global Clock Buffer Constraint Details:
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source Pin     | Source-Buffer Net                       | Buffer Input Pin     | Buffer  Name                                   | Buffer Output Pin     | Buffer-Load Net                     | Clock Region Of Buffer Site     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| io_jtag_tck_ibuf/opit_1                                   | INCK           | _N26                                    | CLK                  | clkbufg_1/gopclkbufg                           | CLKOUT                | ntclkbufg_1                         |  ---                            |  ---            |  ---                     |  ---                         | 95              | 0                   
+| io_axiClk_ibuf/opit_1                                     | INCK           | _N25                                    | CLK                  | axi_DDRram/myddr/u_clkbufg/gopclkbufg          | CLKOUT                | axi_DDRram/myddr/pll_clkin          |  ---                            |  ---            |  ---                     |  ---                         | 68              | 0                   
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV         | axi_DDRram/myddr/ddrphy_clkin           | CLK                  | clkbufg_0/gopclkbufg                           | CLKOUT                | ntclkbufg_0                         |  ---                            |  ---            | (0,4,4,89)               | (4,4,7,84)                   | 2877            | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1        | axi_DDRram/myddr/ioclk_gate_clk_pll     | CLK                  | axi_DDRram/myddr/u_clkbufg_gate/gopclkbufg     | CLKOUT                | axi_DDRram/myddr/ioclk_gate_clk     |  ---                            |  ---            |  ---                     |  ---                         | 1               | 0                   
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Global Clock Source Constraint Details:
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                               | Source Pin     | Source-Load Net                         | Clock Region Of Source Site     | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| io_jtag_tck_ibuf/opit_1                                   | INCK           | _N26                                    | (X1,Y0)                         | IOL_167_6       | 1                      | 0                          
+| io_axiClk_ibuf/opit_1                                     | INCK           | _N25                                    | (X1,Y1)                         | IOL_327_210     | 1                      | 0                          
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV         | axi_DDRram/myddr/ddrphy_clkin           |  ---                            |  ---            | 1                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1        | axi_DDRram/myddr/ioclk_gate_clk_pll     |  ---                            |  ---            | 1                      | 0                          
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+IO Clock Buffer Constraint Details:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source Pin     | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name                                     | Buffer Output Pin     | Buffer-Load Net                | Clock Region Of Buffer Site     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_1/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [1]     |  ---                            |  ---            | (0,4,32,59)              | (4,4,37,54)                  | 28              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [0]     |  ---                            |  ---            | (0,4,62,84)              | (4,4,67,84)                  | 11              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_1          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_2/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [2]     |  ---                            |  ---            | (4,4,7,24)               | (4,4,7,24)                   | 2               | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_0          | CLK                  | clkgate_2/gopclkgate                             | OUT                   | ntclkgate_0                    |  ---                            |  ---            |  ---                     |  ---                         | 0               | 1                   
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+IO Clock Source Constraint Details:
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                               | Source Pin     | Source-Load Net     | Clock Region Of Source Site     | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_0        |  ---                            |  ---            | 3                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_1        |  ---                            |  ---            | 1                      | 0                          
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for Global Clock Buffer:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source  Pin     | Source-Buffer Net                       | Buffer Input Pin     | Buffer  Name                                   | Buffer Output Pin     | Buffer-Load Net                     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| io_jtag_tck_ibuf/opit_1                                   | INCK            | _N26                                    | CLK                  | clkbufg_1/gopclkbufg                           | CLKOUT                | ntclkbufg_1                         |  ---            |  ---                     |  ---                         | 95              | 0                   
+| io_axiClk_ibuf/opit_1                                     | INCK            | _N25                                    | CLK                  | axi_DDRram/myddr/u_clkbufg/gopclkbufg          | CLKOUT                | axi_DDRram/myddr/pll_clkin          |  ---            |  ---                     | (75,75,28,28)                | 68              | 0                   
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV          | axi_DDRram/myddr/ddrphy_clkin           | CLK                  | clkbufg_0/gopclkbufg                           | CLKOUT                | ntclkbufg_0                         |  ---            | (0,4,4,89)               | (4,4,7,84)                   | 2877            | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1         | axi_DDRram/myddr/ioclk_gate_clk_pll     | CLK                  | axi_DDRram/myddr/u_clkbufg_gate/gopclkbufg     | CLKOUT                | axi_DDRram/myddr/ioclk_gate_clk     | USCM_84_110     |  ---                     |  ---                         | 1               | 0                   
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for Global Clock Source:
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                               | Source  Pin     | Source-Load Net                         | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| io_jtag_tck_ibuf/opit_1                                   | INCK            | _N26                                    | IOL_167_6       | 1                      | 0                          
+| io_axiClk_ibuf/opit_1                                     | INCK            | _N25                                    | IOL_327_210     | 1                      | 0                          
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV          | axi_DDRram/myddr/ddrphy_clkin           |  ---            | 1                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1         | axi_DDRram/myddr/ioclk_gate_clk_pll     | PLL_158_179     | 1                      | 0                          
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for IO Clock Buffer:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source  Pin     | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name                                     | Buffer Output Pin     | Buffer-Load Net                | Buffer Site        | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_1/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [1]     | IOCKGATE_6_188     | (0,4,32,59)              | (4,4,37,54)                  | 28              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [0]     |  ---               | (0,4,62,84)              | (4,4,67,84)                  | 11              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_1          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_2/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [2]     |  ---               | (4,4,7,24)               | (4,4,7,24)                   | 2               | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | clkgate_2/gopclkgate                             | OUT                   | ntclkgate_0                    |  ---               |  ---                     |  ---                         | 0               | 1                   
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for IO Clock Source:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                               | Source  Pin     | Source-Load Net     | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0        | PLL_158_179     | 3                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_1        |  ---            | 1                      | 0                          
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Placement Failed Information About The Constraint Details Of Buffer:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source Pin     | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name                                     | Buffer Output Pin     | Buffer-Load Net                | Clock Region Of Buffer Site     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL     | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [0]     |  ---                            |  ---            | (0,4,62,84)              | (4,4,67,84)                  | 11              | 0                   
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Placement Failed Information About The Load Of Source Instance axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Pin     | Source-Load Net                                            | Load Instance                                                                    | Load Unit      | Load Clock Region     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CLKOUT0_WL     | clkout0_wl_0                                               | axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate                                     | gopCLKGATE     |  ---                  
+| CLKOUT0_WL     | clkout0_wl_0                                               | axi_DDRram/myddr/I_GTP_IOCLKBUF_1/gopclkgate                                     | gopCLKGATE     | (16,16,52,52)         
+| CLKOUT0_WL     | clkout0_wl_0                                               | clkgate_2/gopclkgate                                                             | gopCLKGATE     |  ---                  
+| CLKOUT1        | axi_DDRram/myddr/ioclk_gate_clk_pll                        | axi_DDRram/myddr/u_clkbufg_gate/gopclkbufg                                       | gopCLKBUFG     | (41,41,41,41)         
+| CLK_INT_FB     | axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/ntCLKFB     | axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll                            | gopPLL         | (75,75,28,28)         
+| LOCK           | axi_DDRram/myddr/pll_ioclk_lock [0]                        | axi_DDRram/myddr/u_ddrphy_top/ddrphy_reset_ctrl/pll_lock_d[0]/opit_0_inv_L5Q     | gopL5Q         |  ---                  
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Placement Failed Information About The Load Of Buffer Instance axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Buffer Pin     | Buffer-Load Net                | Load Instance                                                                                                                | Load Unit        | Load Clock Region     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_ca_group[1].u_ddc_ca/opit_0                                                 | gopDQS_DDC       | (4,4,84,84)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_ca_group[3].u_ddc_ca/opit_0                                                 | gopDQS_DDC       | (4,4,74,74)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[0].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (2,2,68,68)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[1].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (2,2,65,65)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[2].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (0,0,70,70)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[3].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (2,2,64,64)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[4].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (2,2,69,69)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[5].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (2,2,63,63)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[6].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (2,2,62,62)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/dq_loop[7].DQ0_GTP_ISERDES/gateop_a_IO     | gopIOMDDRDEL     | (0,0,64,64)           
+| OUT            | axi_DDRram/myddr/ioclk [0]     | axi_DDRram/myddr/u_ddrphy_top/ddrphy_slice_top/i_dqs_group[3].u_ddrphy_data_slice/u_ddc_dqs/opit_0                           | gopDQS_DDC       | (4,4,67,67)           
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Clock Network Type:
+       IO_CLOCK
+
+
+Error Type:
+       The driver axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll fixed at PLL_158_179 is unreasonable. Sub-optimal placement for a clock source and a clock buffer.
+
+
+Reason For Placement Error:
+       If the driver axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll fixed at PLL_158_179, the clock signal from axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll to axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate will needs to go through the Sub-optimal path.
+       Using the Sub-optimal path to transmit clock signal is easy to cause serious timing violation, so the compiler prompts the user by reporting error.
+
+
+Solution For Placement Error:
+       Solution 1:
+                  You may use the PAP_CLOCK_DEDICATED_ROUTE constraint in the .fdc file to demote this message to a WARNING.
+                  You can find the related information of the nets {clkout0_wl_0} to set the attribute.
+                  These following examples can be referenced in the .fdc file to override this clock rule, or you can find the actual object in the UCE GUI.
+                  define_attribute {n:clkout0_wl_0} {PAP_CLOCK_DEDICATED_ROUTE} {FALSE}.
+
+       Solution 2:
+                  You need to modifying design or constraint to avoid using non clock dedicated circuits to transmit clock signal, such as modifying constraints.
+
+
+Device Cell Placement Summary for Global Clock Buffer:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source  Pin     | Source-Buffer Net                       | Buffer Input Pin     | Buffer  Name                                   | Buffer Output Pin     | Buffer-Load Net                     | Buffer Site     | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| io_jtag_tck_ibuf/opit_1                                   | INCK            | _N26                                    | CLK                  | clkbufg_1/gopclkbufg                           | CLKOUT                | ntclkbufg_1                         |  ---            |  ---                     |  ---                         | 95              | 0                   
+| io_axiClk_ibuf/opit_1                                     | INCK            | _N25                                    | CLK                  | axi_DDRram/myddr/u_clkbufg/gopclkbufg          | CLKOUT                | axi_DDRram/myddr/pll_clkin          |  ---            |  ---                     | (75,75,28,28)                | 68              | 0                   
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV          | axi_DDRram/myddr/ddrphy_clkin           | CLK                  | clkbufg_0/gopclkbufg                           | CLKOUT                | ntclkbufg_0                         |  ---            | (0,4,4,89)               | (4,4,7,84)                   | 2877            | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1         | axi_DDRram/myddr/ioclk_gate_clk_pll     | CLK                  | axi_DDRram/myddr/u_clkbufg_gate/gopclkbufg     | CLKOUT                | axi_DDRram/myddr/ioclk_gate_clk     | USCM_84_110     |  ---                     |  ---                         | 1               | 0                   
+| io_jtag_tck_ibuf/opit_1                                   | INCK            | _N26                                    | CLK                  | clkbufg_1/gopclkbufg                           | CLKOUT                | ntclkbufg_1                         |  ---            |  ---                     |  ---                         | 95              | 0                   
+| io_axiClk_ibuf/opit_1                                     | INCK            | _N25                                    | CLK                  | axi_DDRram/myddr/u_clkbufg/gopclkbufg          | CLKOUT                | axi_DDRram/myddr/pll_clkin          |  ---            |  ---                     | (75,75,28,28)                | 68              | 0                   
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV          | axi_DDRram/myddr/ddrphy_clkin           | CLK                  | clkbufg_0/gopclkbufg                           | CLKOUT                | ntclkbufg_0                         |  ---            | (0,4,4,89)               | (4,4,7,84)                   | 2877            | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1         | axi_DDRram/myddr/ioclk_gate_clk_pll     | CLK                  | axi_DDRram/myddr/u_clkbufg_gate/gopclkbufg     | CLKOUT                | axi_DDRram/myddr/ioclk_gate_clk     | USCM_84_110     |  ---                     |  ---                         | 1               | 0                   
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for Global Clock Source:
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                               | Source  Pin     | Source-Load Net                         | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| io_jtag_tck_ibuf/opit_1                                   | INCK            | _N26                                    | IOL_167_6       | 1                      | 0                          
+| io_axiClk_ibuf/opit_1                                     | INCK            | _N25                                    | IOL_327_210     | 1                      | 0                          
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV          | axi_DDRram/myddr/ddrphy_clkin           |  ---            | 1                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1         | axi_DDRram/myddr/ioclk_gate_clk_pll     | PLL_158_179     | 1                      | 0                          
+| io_jtag_tck_ibuf/opit_1                                   | INCK            | _N26                                    | IOL_167_6       | 1                      | 0                          
+| io_axiClk_ibuf/opit_1                                     | INCK            | _N25                                    | IOL_327_210     | 1                      | 0                          
+| axi_DDRram/myddr/I_GTP_CLKDIV/gopclkdiv                   | CLKDIV          | axi_DDRram/myddr/ddrphy_clkin           |  ---            | 1                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT1         | axi_DDRram/myddr/ioclk_gate_clk_pll     | PLL_158_179     | 1                      | 0                          
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for IO Clock Buffer:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source  Name                                              | Source  Pin     | Source-Buffer Net     | Buffer Input Pin     | Buffer  Name                                     | Buffer Output Pin     | Buffer-Load Net                | Buffer Site        | IO Load Clock Region     | Non-IO Load Clock Region     | Clock Loads     | Non-Clock Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_1/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [1]     | IOCKGATE_6_188     | (0,4,32,59)              | (4,4,37,54)                  | 28              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [0]     |  ---               | (0,4,62,84)              | (4,4,67,84)                  | 11              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_1          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_2/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [2]     |  ---               | (4,4,7,24)               | (4,4,7,24)                   | 2               | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | clkgate_2/gopclkgate                             | OUT                   | ntclkgate_0                    |  ---               |  ---                     |  ---                         | 0               | 1                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_1/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [1]     | IOCKGATE_6_188     | (0,4,32,59)              | (4,4,37,54)                  | 28              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_0/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [0]     |  ---               | (0,4,62,84)              | (4,4,67,84)                  | 11              | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_1          | CLK                  | axi_DDRram/myddr/I_GTP_IOCLKBUF_2/gopclkgate     | OUT                   | axi_DDRram/myddr/ioclk [2]     |  ---               | (4,4,7,24)               | (4,4,7,24)                   | 2               | 0                   
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0          | CLK                  | clkgate_2/gopclkgate                             | OUT                   | ntclkgate_0                    |  ---               |  ---                     |  ---                         | 0               | 1                   
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Device Cell Placement Summary for IO Clock Source:
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source Name                                               | Source  Pin     | Source-Load Net     | Source Site     | Clock Buffer Loads     | Non-Clock Buffer Loads     
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0        | PLL_158_179     | 3                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_1        |  ---            | 1                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_0/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_0        | PLL_158_179     | 3                      | 0                          
+| axi_DDRram/myddr/u_ipsxb_ddrphy_pll_1/u_pll_e3/goppll     | CLKOUT0_WL      | clkout0_wl_1        |  ---            | 1                      | 0                          
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+

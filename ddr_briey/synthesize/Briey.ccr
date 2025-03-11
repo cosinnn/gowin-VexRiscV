@@ -1,0 +1,70 @@
+##### Written on 2025/03/11 22:01:06 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL50H-6FBG484
+
+Top Module : 
+	Briey
+
+Constraint File(s) : 
+	H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 6 critical warning(s), 0 warning(s), out of 598 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+define_attribute {p:io_coreInterrupta} {PAP_IO_LOC} {K18}
+
+	C: ConstraintEditor-2002: [H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc(line number: 68)] | Port io_coreInterrupta has been placed at location K18, whose type is share pin.
+
+define_attribute {p:io_jtag_tck} {PAP_IO_LOC} {Y13}
+
+	C: ConstraintEditor-2002: [H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc(line number: 73)] | Port io_jtag_tck has been placed at location Y13, whose type is share pin.
+
+define_attribute {p:io_uart_rxd} {PAP_IO_LOC} {AB13}
+
+	C: ConstraintEditor-2002: [H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc(line number: 98)] | Port io_uart_rxd has been placed at location AB13, whose type is share pin.
+
+define_attribute {p:mem_dq[14]} {PAP_IO_LOC} {P3}
+
+	C: ConstraintEditor-2002: [H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc(line number: 348)] | Port mem_dq[14] has been placed at location P3, whose type is share pin.
+
+define_attribute {p:mem_dq[11]} {PAP_IO_LOC} {M1}
+
+	C: ConstraintEditor-2002: [H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc(line number: 369)] | Port mem_dq[11] has been placed at location M1, whose type is share pin.
+
+define_attribute {p:mem_dq[9]} {PAP_IO_LOC} {M2}
+
+	C: ConstraintEditor-2002: [H:/PANGO_EDA/my_project/ddr_briey/ddr_briey_new.fdc(line number: 383)] | Port mem_dq[9] has been placed at location M2, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

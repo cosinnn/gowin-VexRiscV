@@ -113,3 +113,4 @@ pnr
 report_timing 
 gen_bit_stream 
 add_design "H:/git_my/gowin-VexRiscV/briey_cpu_core/first_try/Briey.v"
+add_design H:/git_my/gowin-VexRiscV/briey_cpu_core/first_try/ipcore/adf/adf.idf
